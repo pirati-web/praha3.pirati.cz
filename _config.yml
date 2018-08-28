@@ -58,12 +58,12 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
+  profilePage: https://www.facebook.com/PiratiPraha3/
   appId: 1526197851008996
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: piratipraha
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
