@@ -1,4 +1,5 @@
 ---
+
 uid: frantisek.dosedel
 name:     František Doseděl  	# běžně používáné jméno
 fullname: František Doseděl  	# jméno s tituly etc.
@@ -12,8 +13,10 @@ mail:
   - frantisek.dosedel@pirati.cz
 profiles:
   facebook: https://www.facebook.com/frantisek.dosedel  # pokud nema, staci smazat tuto radku
- ---
-e místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, od roku 2006 žije v Praze. Je zaměstnán jako advokátní koncipient.
+
+---
+ 
+Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, od roku 2006 žije v Praze. Je zaměstnán jako advokátní koncipient.
 
 V rámci Pirátů se věnuje obzvláště obecné právní problematice, sdílené ekonomice a tomu, aby se nám všem (nejen) na Praze 3 žilo dobře.
 
