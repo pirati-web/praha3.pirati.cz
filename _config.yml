@@ -5,21 +5,21 @@
 # technické nastavení
 #
 
-title: Your awesome title
-email: info@pirati.cz
+title: Piráti Praha 3
+email: praha3@pirati.cz
 description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+  Pirati Praha 3
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 
 administrator:
-  email: to@pirati.cz # mail kam pujdou chybove vystupy
+  email: pavel@gentlemanstore.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
+  name: Praha 3 
   shortName: Název skupiny
-  contactUid: jakub.pirat
-  email: example@pirati.cz
+  contactUid: pavel.kralicek
+  email: pavel.kralicek@pirati.cz
   phone: +420 777 123 456 789
   address: |
     Řehořova 943/19,
@@ -42,10 +42,6 @@ contactSummaryItems:
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
@@ -78,7 +74,7 @@ forum:
   page: https://forum.pirati.cz/
 
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web/praha3.pirati.cz/
   branch: master
 
 #
