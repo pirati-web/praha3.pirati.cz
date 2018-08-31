@@ -12,7 +12,9 @@ mail:
   - jiri.svrcek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jirka.svrcek.5  # pokud nema, staci smazat tuto radku
- ---
+  
+---
+ 
 Pochází z Prahy a od narození žije na pražském Žižkově. Vystudoval aplikovanou ekologii na fakultě životního prostředí České zemědělské univerzity v Praze a v současnosti pokračuje ve studiu na stejné fakultě na oboru Ochrana přírody. V průběhu studia se specializoval na ochranu dřevin, zeleně, parků ve městě a také maloplošných chráněných území. Pracuje jako dendrolog se zaměřením na celkovou péči o zeleň. Je od dětství aktivní v oddílu vodních skautů a na Praze 3 se o politiku a životní prostředí aktivně zajímá.
 
 Oblíbený citát: "Na citáty kašlu, mám radši excelové tabulky". - Jiří Svrček 
