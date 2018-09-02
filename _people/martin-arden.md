@@ -8,7 +8,7 @@ category:
 ordclenove: 3
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
-img: people/martin-arden.jpg # zakomentuj radek dokud není fotka
+#img: people/martin-arden.jpg # zakomentuj radek dokud není fotka
 mail:
   - martin.arden@pirati.cz
 profiles:
