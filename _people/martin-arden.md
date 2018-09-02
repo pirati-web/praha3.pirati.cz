@@ -1,7 +1,6 @@
 ---
 uid: martin.arden
-name:     Martin Arden  	# běžně používáné jméno
-fullname: Martin Arden  	# jméno s tituly etc.
+name:     Martin Arden
 category:
   - clenove
 
