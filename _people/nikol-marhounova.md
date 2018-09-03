@@ -3,7 +3,7 @@ uid: nikol.marhounova
 name:     Nikol Marhounová 
 category:
   - clenove
-ordclenove: 3
+ordclenove: 7
 description: Členka místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/nikol-marhounova.jpg # zakomentuj radek dokud není fotka
