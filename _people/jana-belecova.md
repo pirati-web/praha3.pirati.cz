@@ -4,7 +4,7 @@ name:     Jana Belecová  	# běžně používáné jméno
 fullname: Jana Belecová  	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 3
+ordclenove: 8
 description: Členka místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/jana-belecova.jpg # zakomentuj radek dokud není fotka
