@@ -1,10 +1,10 @@
 ---
 title: Kandidátka na radnici
 uid: radnice
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+number: 8
 leader:
-  uid: prvni.leader
-  age: 31
+  uid: stepan.strebl
+  age: 28
   profession: knihovník
   party: Piráti
   description: expert na skoky # zobrazuje se v komunalni-volby
@@ -33,5 +33,5 @@ tail: # zbytek kandidatky
     profession: student
     party: Piráti
 note: # poznámka pod kanidátku
-    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
+    
 ---
