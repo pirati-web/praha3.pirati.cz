@@ -10,10 +10,9 @@ leader:
   
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: jirka.svrcek
+  - uid: jiri.svrcek
     age: 26
     profession: dendrolog
-    
     party: Piráti
   - uid: jana.belecova
     age: 40
@@ -23,12 +22,6 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 28
     profession: analytik
     party: Piráti
-    
-  - uid: jana.belecova
-    age: 63
-    profession: zametač
-    description: expert přes dětská hřiště
-    party: Evropani.cz
     
     
     
