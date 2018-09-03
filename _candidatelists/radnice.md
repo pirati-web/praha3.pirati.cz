@@ -4,23 +4,34 @@ uid: radnice
 number: 8
 leader:
   uid: stepan.strebl
-  age: 28
-  profession: knihovník
+  age: 27
+  profession: manažer
   party: Piráti
-  description: expert na skoky # zobrazuje se v komunalni-volby
+  
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: mistni.predseda
-    profession: knihovník
-    description: expert na skoky
-    party: bez politické příslušnosti
-  - uid: jakub.pirat
-    profession: knihovník
-  - uid: aktivni.priznivec
+  - uid: jirka.svrcek
+    age: 26
+    profession: dendrolog
+    
+    party: Piráti
+  - uid: jana.belecova
+    age: 40
+    profession: OSVČ
+    party: Piráti
+  - uid: jan.bartko
+    age: 28
+    profession: analytik
+    party: Piráti
+    
+  - uid: jana.belecova
     age: 63
     profession: zametač
     description: expert přes dětská hřiště
     party: Evropani.cz
+    
+    
+    
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
