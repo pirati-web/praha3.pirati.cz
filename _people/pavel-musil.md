@@ -3,7 +3,7 @@ uid: pavel.musil
 name:     Pavel Musil  	# běžně používáné jméno
 category:
   - clenove
-ordclenove: 3
+ordclenove: 17
 description: Registrovaný příznivec # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/pavel-musil.jpg # zakomentuj radek dokud není fotka
