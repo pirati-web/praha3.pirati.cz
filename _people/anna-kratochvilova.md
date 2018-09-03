@@ -4,7 +4,7 @@ name:     Anna Kratochvílová  	# běžně používáné jméno
 fullname: Anna Kratochvílová  	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 3
+ordclenove: 7
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
