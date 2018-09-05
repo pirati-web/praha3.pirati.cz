@@ -5,7 +5,7 @@ campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: 
-perex: 
+perex: Rozvoj a podpora místo stagnace – investice do školství se vyplatí. Transparentní výběrová řízení na pozice ředitelů ZŠ. Kvalitní stravování ve školách. Podpoříme vznik mikrojeslí/dětských skupin.
 order: 8
 ---
 
