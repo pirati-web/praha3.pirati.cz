@@ -5,7 +5,7 @@ campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant:
-perex: 
+perex: Zdigitalizujeme úřední procesy a odlehčíme tím podnikatelům, občanům i samotným úředníkům. Namísto řešení problémů, které Pražany netrápí, chceme řešit věci, které doopravdy chybí.
 order: 6
 ---
 
