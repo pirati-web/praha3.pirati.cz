@@ -48,7 +48,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
-  - uid: iveta.pospisilova
+  - name: Ing. Iveta Pospíšilová
     age: 46
     profession: ekonomka
     party: Piráti
@@ -73,7 +73,7 @@ tail: # zbytek kandidatky
   - name: Barbora Zubčeková
     age: 33
     profession: uklízečka
-  - uid: nikol.marhounová
+  - name: Mgr. Nikol Marhounová
     age: 28
     profession: sociální prac. 
   - name: Ing. Roman Nováček
