@@ -5,7 +5,7 @@ campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: 
-perex: 
+perex: Vysadíme více stromů v ulicích. Podpoříme zelené střechy a další opatření proti betonové džungli. Budeme prosazovat ochranu parků a zelených ploch. Třídění odpadu musí být pohodlné a musí se vyplatit.
 order: 5
 ---
 
