@@ -4,10 +4,11 @@ uid: uzemni-rozvoj
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 <!--- approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530 --->
-garant: jakub.pirat
-perex: 
+garant:
+perex: Chceme v Praze 3 žít – ne přežívat. Chceme bydlení dostupné, a chceme tu žít rádi. Nenecháme už žádné městské byty prázdné. Prosadíme jasná pravidla pro krátkodobé pronájmy. Navrhujeme využít budovu NNŽ jako centrum komunitního života, sportu a místo k odpočinku.
 order: 2
 ---
+
 # Bydlení
 
 ## Chceme v Praze žít – ne přežívat
