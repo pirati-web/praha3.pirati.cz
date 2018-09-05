@@ -5,7 +5,7 @@ campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant: 
-perex: 
+perex: Dáme lidem prostor pro aktivity vznikající zdola. Podpoříme malé granty, o kterých budou rozhodovat pouze odborníci. Podpoříme sportování a aktivní trávení volného času seniorů.
 order: 9
 ---
 
