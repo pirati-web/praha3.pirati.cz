@@ -3,9 +3,9 @@ title: Piráti proti korupci
 uid: proti-korupci
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
-# approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
-# garant: jakub.pirat
-perex: >
+approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
+garant: jakub.pirat
+perex: 
 order: 1
 ---
 
