@@ -5,7 +5,7 @@ campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
 garant:
-perex: 
+perex: Pro Prahu 3 je klíčové zlepšit veřejnou dopravu tak, aby byla plynulá, rychlá a pohodlná. Chceme zlepšit koordinaci a možnosti parkování na Praze 3. Při opravách a rekonstrukcích komunikací je nutná lepší koordinace. 
 order: 4
 ---
 
