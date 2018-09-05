@@ -94,9 +94,6 @@ tail: # zbytek kandidatky
   - name: Mgr. Ondřej Prcín
     age: 47
     profession: web developer  
-  - name: Mgr. Ondřej Prcín
-    age: 47
-    profession: web developer  
   - name: Davida Hathor Doseděl
     age: 51
     profession: lektor os. rozvoje
