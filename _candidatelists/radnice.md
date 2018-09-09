@@ -78,10 +78,7 @@ tail: # zbytek kandidatky
     profession: sociální prac. 
   - name: Ing. Roman Nováček
     age: 54
-    profession: programátor
-  - name: Ing. Roman Nováček
-    age: 54
-    profession: programátor   
+    profession: programátor  
   - name: Adam Pospíšil
     age: 28
     profession: student
