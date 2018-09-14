@@ -7,7 +7,7 @@ category:
 ordclenove: 5
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
-#img: people/martin-sumerauer.jpg # zakomentuj radek dokud není fotka
+img: people/martin-sumerauer.jpg # zakomentuj radek dokud není fotka
 mail:
   - martin.sumerauer@pirati.cz
 profiles:
