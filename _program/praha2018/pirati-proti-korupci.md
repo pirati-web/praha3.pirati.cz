@@ -4,7 +4,7 @@ uid: proti-korupci
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
-garant: jakub.pirat
+garant: 
 perex: Dohlédneme na vyšetření největších kauz Prahy 3. Kauzy Prahy 3, které byly a jsou vyšetřovány, nesmí skončit pod kobercem. Zlepšíme systém a efektivitu kontrolních orgánů. Zabráníme přidělování lukrativních míst ve strukturách Prahy 3 kamarádům, místo toho, aby byli vybíráni skuteční odborníci.
 order: 1
 ---
