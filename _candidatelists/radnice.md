@@ -41,7 +41,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 19
     profession: student
   - uid: martin.sumerauer
-    age: 52
+    age: 49
     profession: skladník
     party: Piráti
     
