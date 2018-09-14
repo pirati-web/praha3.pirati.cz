@@ -4,7 +4,7 @@ uid: otevrena-radnice
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 approved: https://forum.pirati.cz/viewtopic.php?f=349&t=41530
-garant: jakub.pirat
+garant: 
 perex: Zajistíme transparentní hospodaření radnice a všech městských společností. Už žádné neprůhledné smlouvy a podivné zakázky. Město musí mít dlouhodobě vyrovnaný rozpočet. Ukážeme smlouvy a data veřejnosti.
 order: 3
 ---
