@@ -1,7 +1,7 @@
 ---
 uid: stepan.strebl
 name:     Štěpán Štrébl  	# běžně používáné jméno
-fullname: Štěpán Štrébl  	# jméno s tituly etc.
+fullname: Štěpán Štrébl MPhil  	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 5
