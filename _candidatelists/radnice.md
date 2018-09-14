@@ -5,7 +5,7 @@ number: 8
 leader:
   uid: stepan.strebl
   age: 27
-  profession: manažer
+  profession: ekonom a ekolog
   party: Piráti
   
 
