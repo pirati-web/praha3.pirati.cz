@@ -4,6 +4,7 @@ name:     Pavel Králíček  	# běžně používáné jméno
 fullname: Pavel Králíček  	# jméno s tituly etc.
 category:
   - clenove
+  - kontaktni_osoba
 ordclenove: 1
 description: Předseda místního sdružení # zobrazuje se v lide
 profession: Podnikatel, student

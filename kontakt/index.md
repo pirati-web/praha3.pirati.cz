@@ -9,14 +9,18 @@ contentSize: default
 # contentSize: even
 ---
 
-## Přidejte se
 
-Zajámá vás co piráti dělají? Ozvěte se Pavlovi Králíčkovi na pavel.kralicek@pirati.cz nebo přijďte k nám
+<div class="o-section-header o-section-header--indented">
+  <h1 class="t-h2-alt">Přidejte se</h1>
+</div>
+
+
+Zajámá vás co Piráti dělají a jak? Ozvěte se [Pavlovi Králičkovi](/lide/pavel-hralicek) na pavel.kralicek@pirati.cz nebo přijďte k nám
 na pravidelnou schůzi, o které se dozvíte na [našem Facebooku](https://www.facebook.com/PiratiPraha3/).
 
 Chcete přístup k pirátským systémum? Regitrujte se na [nalodění](https://nalodeni.pirati.cz/).
 
 Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
 
-Strany našeho kraje jsou [pirati.praha.cz](https://praha.pirati.cz/).
+Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
