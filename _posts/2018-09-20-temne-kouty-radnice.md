@@ -6,7 +6,7 @@ title: Odkrýváme temné kouty radnice
 date: 2018-09-20T12:00:00.000Z
 author: JUDr. Pavel Musil, Ph.D.
 authorId: pavel.musil    # uid nekoho z _people
-image: posts/praha-1-ouroboros.jpg
+image: people/pavel-musil.jpg
 ---
 
 *Současná radnice Prahy 3 pouští žilou veřejnému rozpočtu. Piráti by chtěli zastavit toto pouštění žilou a ušetřit veřejnému rozpočtu až desítky milionů, které použijí ve prospěch všech občanů Prahy 3. Už žádné předražené a podivné zakázky pro firmy, které jsou spřátelené s politiky.*
