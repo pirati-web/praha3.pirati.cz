@@ -1,14 +1,13 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
+tags: Praha
+layout: post
 title: Odkrýváme temné kouty radnice
 date: 2018-09-20T12:00:00.000Z
 author: JUDr. Pavel Musil, Ph.D.
 authorId: pavel.musil    # uid nekoho z _people
 image: posts/obrazek-u-tohoto-postu.jpg
-tags:
-  - tag 1
-  - tag 2
+
 ---
 
 
