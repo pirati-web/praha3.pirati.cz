@@ -24,4 +24,6 @@ Zadávání zakázek je vůbec problémem, se kterým se radnice na Praze 3 pot�
 
 V hospodaření příspěvkových organizací jsme zjistili a dlouhodobě upozorňujeme na nesrovnalosti – např. na účet Divadelní agentury ECHO doputuje každoročně z rozpočtu městské části cca 4 mil. korun bez odpovídajícího protiplnění. Tato agentura účtuje za „zprostředkovatelskou činnost“, kterou přitom fakticky neprovádí nikdo, anebo zaměstnanci, kteří za tuto činnost už jednou zaplaceni jsou. 
 
+zdroj: www.Kauza3.cz
+
 - - -
