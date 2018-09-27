@@ -1,5 +1,5 @@
 ---
-date: 2018-09-26
+date: 2018-09-27
 category: blog
 layout: post
 title: Rozhovor s naším lídrem Štěpánem Štréblem
