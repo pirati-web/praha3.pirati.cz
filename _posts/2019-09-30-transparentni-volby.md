@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Piráti opět vedou nejtransparentnější kampaň
 author: Pirátská strana
-image: posts/obrazek-u-tohoto-postu.jpg
+image: posts/transparence.jpg
 ---
 
 Protikorupční organizace Transparency International hodnotila transparentnost předvolebních kampaní jednotlivých politických stran, Piráti opět dopadli nejúspěšněji. O transparenci totiž jen nemluvíme, ale žijeme ji.
