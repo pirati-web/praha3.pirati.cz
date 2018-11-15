@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Končící starosta Prahy 3 Bellu těsně před odchodem z radnice schválil spolu s ODS a ČSSD výdaje za téměř půl miliardy
 author: Piráti Praha 3
-image: posts/stepan.jpg
+image: posts/Alexander_Bellu.jpg
 ---
 
 Praha, 15. listopadu 2018 – **Končící Rada Prahy 3 v čele s Alexanderem Bellu z ODS schválila hlasy ODS a ČSSD dvě veřejné zakázky v hodnotě 440 milionů korun i přesto, že nová rada bude ustavena už 20. listopadu 2018. Končící rada tak zavázala budoucí vedení městské části k téměř půlmiliardových výdajům, což se blíží polovině ročního rozpočtu Prahy 3. Dále ODS a ČSSD schválila řadu dalších kontroverzních materiálů a plánuje jednat ještě 19. listopadu, tedy den před ustavujícím zastupitelstvem. Končící starosta navíc požaduje ještě 10 dní na předání radnice. Starosta Bellu s jeho ODS míří do opozice a ČSSD se na radnici vůbec nedostala.** 
@@ -21,6 +21,8 @@ Kontaktní osoba:
 Štěpán Štrébl  
 stepan.strebl@pirati.cz  
 +420 776 764 422  
+
+Autorem fotografie je Matěj Trávníček, sdílena pod licencí [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
 - - -
