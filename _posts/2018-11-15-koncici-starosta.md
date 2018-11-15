@@ -17,10 +17,10 @@ Končící starosta Bellu dále svolal radu ještě na 19. listopadu, tedy jeden
 
 Na Praze 3 vzniká koalice TOP 09 a STAN, Pirátů a Zelených s 20 hlasy v 35 členném zastupitelstvu. Koalice ODS, KDU-ČSL a Svobodných, v jejímž čele stojí nynější kontroverzní starosta Bellu, míří do opozice. Už na prvním zasedání rady budou Piráti prosazovat okamžité zastavení a přezkoumání podezřelých zakázek a dalších materiálů schválených končící radou bez politické legitimity.
 
-Kontaktní osoba:
-Štěpán Štrébl
-stepan.strebl@pirati.cz
-+420 776 764 422
+Kontaktní osoba:  
+Štěpán Štrébl  
+stepan.strebl@pirati.cz  
++420 776 764 422  
 
 
 - - -
