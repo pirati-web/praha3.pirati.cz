@@ -13,7 +13,7 @@ tags:
 
 Posty musí být každý ve vlastním souboru pojmenovaném datumem a nejakym nazvem, například _posts/2018-03-14-slavime-pi-day.md. Tento název se pak objeví v adrese, tedy xxx.pirati.cz/aktuality/slavime-pi-day.html.
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nulla accumsan, elit
+Lorem ipsum dolor sit ame2t, consectetuer adipiscing elit. Nulla accumsan, elit
 sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel
 leo. Fusce nibh. Etiam dictum tincidunt diam. Suspendisse nisl. Ut enim ad minim
 veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
