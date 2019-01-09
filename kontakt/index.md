@@ -15,7 +15,7 @@ contentSize: default
 </div>
 
 
-Zajámá vás co Piráti dělají a jak? Ozvěte se [Pavlovi Králičkovi](/lide/pavel-hralicek) na pavel.kralicek@pirati.cz nebo přijďte k nám
+Zajámá vás co Piráti dělají a jak? Ozvěte se [Pavlovi Králičkovi](/lide/pavel-kralicek) na pavel.kralicek@pirati.cz nebo přijďte k nám
 na pravidelnou schůzi, o které se dozvíte na [našem Facebooku](https://www.facebook.com/PiratiPraha3/).
 
 Chcete přístup k pirátským systémum? Regitrujte se na [nalodění](https://nalodeni.pirati.cz/).
