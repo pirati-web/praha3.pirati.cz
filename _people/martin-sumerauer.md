@@ -4,9 +4,9 @@ name:     Martin Sumerauer  	# běžně používáné jméno
 fullname: Martin Sumerauer  	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 5
-description: Člen místního sdružení # zobrazuje se v lide
-profession: Vysokoškolský pedagog, fyzik
+ordclenove: 3
+description: Místopředseda místního sdružení # zobrazuje se v lide
+profession: 
 img: people/martin-sumerauer.jpg # zakomentuj radek dokud není fotka
 mail:
   - martin.sumerauer@pirati.cz
