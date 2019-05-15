@@ -22,6 +22,8 @@ Minulé vedení Prahy 3 také platilo skoro 270 tisíc měsíčně za služby, z
 ![Analýza GDPR 5](/assets/img/posts/2019-5-15_GDPR_analýza_Piráti_ŠŠ-5.jpg)
 ![Analýza GDPR 6](/assets/img/posts/2019-5-15_GDPR_analýza_Piráti_ŠŠ-6.jpg)
 
+Celou analýzu v PDF můžete [stáhnout zde](/assets/img/posts/2019-5-15_GDPR_analýza_Piráti_ŠŠ.pdf).
+
 **Kontakt:**  
 Štěpán Štrébl, MPhil (místostarosta pro školství, informatiku a strategické plánování)  
 stepan.strebl@pirati.cz  
