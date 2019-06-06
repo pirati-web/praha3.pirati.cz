@@ -1,5 +1,5 @@
 ---
-date: 2019-06-06
+date: 2019-06-05
 category: blog
 layout: post
 title: Představujeme Pirátské zastupitele Prahy, Díl první - Jan Bartko, předseda Finančního výboru a člen Komise pro vedlejší hospodářskou činnost
