@@ -2,7 +2,7 @@
 date: 2019-06-05
 category: blog
 layout: post
-title: Jan Bartko, předseda Finančního výboru a člen Komise pro vedlejší hospodářskou činnost
+title: Jan Bartko předseda Finančního výboru a člen Komise pro vedlejší hospodářskou činnost
 author: Jan Bartko
 image: posts/stepan.jpg
 ---
