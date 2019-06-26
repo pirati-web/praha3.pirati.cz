@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Jan Bartko předseda Finančního výboru a člen Komise pro vedlejší hospodářskou činnost
 author: Jan Bartko
-image: posts/stepan.jpg
+image: posts/jan-bartko.jpg
 ---
 
 **Jak ses dostal k Pirátům a proč sis zvolil právě tuto stranu? Co všechno už máš v jejím rámci za sebou?**
