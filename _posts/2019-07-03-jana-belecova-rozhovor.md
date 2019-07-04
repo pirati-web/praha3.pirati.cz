@@ -25,7 +25,7 @@ JB:  Zůstávám členkou dotačního výboru a předsedám výboru pro majetek.
 
 **Čím si myslíš, že mohou Piráti Praze 3, ale i Praze jako celku, přispět? V čem jsou silné stránky naší strany?**
 
-JB: Jsem ráda, že koalice na Praze 3 téměř kopíruje rozložení sil na magistrátu. Máme tak jedinečnou možnost pracovat napříč celou Prahou. Dále je to pro nás jako žižkovské Piráty první volební období. Na Praze 4 nemá naše strana téměř žádnou historii, což nám často přináší výhody při spolupráci s dalšími dvěma koaličními stranami. Je pro nás důležité zvažovat u každého problému všechny úhly pohledu, čímž se v rámci koalice snažíme docílit rovnováhy.
+JB: Jsem ráda, že koalice na Praze 3 téměř kopíruje rozložení sil na magistrátu. Máme tak jedinečnou možnost pracovat napříč celou Prahou. Dále je to pro nás jako žižkovské Piráty první volební období. Na Praze 3 nemá naše strana téměř žádnou historii, což nám často přináší výhody při spolupráci s dalšími dvěma koaličními stranami. Je pro nás důležité zvažovat u každého problému všechny úhly pohledu, čímž se v rámci koalice snažíme docílit rovnováhy.
 
 **Pokud máš chuť, prozraď nám něco o své rodině a koníčcích; jak trávíš volný čas?**
 
