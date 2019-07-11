@@ -4,7 +4,9 @@ name:     Jana Belecová  	# běžně používáné jméno
 fullname: Jana Belecová  	# jméno s tituly etc.
 category:
   - radni
+  - clenove
 ordr: 2
+ordclenove: 7
 description: Uvolněná radní # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/jana-belecova.jpg # zakomentuj radek dokud není fotka
