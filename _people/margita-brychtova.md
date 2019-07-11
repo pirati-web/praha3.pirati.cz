@@ -4,7 +4,9 @@ name:     Margita Brychtová  	# běžně používáné jméno
 fullname: Margita Brychtová  	# jméno s tituly etc.
 category:
   - pms
+  - zastupitele
 ordpms: 1
+ordz: 2
 description: Předsedkyně místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/margita-brychtova.jpg # zakomentuj radek dokud není fotka
