@@ -4,7 +4,7 @@ name:     Margita Brychtová  	# běžně používáné jméno
 fullname: Margita Brychtová  	# jméno s tituly etc.
 category:
   - pms
-  - zastupitele
+  - zastupitel
 ordpms: 1
 ordz: 2
 description: Předsedkyně místního sdružení # zobrazuje se v lide
