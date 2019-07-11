@@ -7,7 +7,7 @@ category:
 ordclenove: 8
 description: Členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
-{% comment %} img: people/stepan-strebl.jpg {% endcomment %}
+# img: people/stepan-strebl.jpg
 mail:
   - michaela.krausova@pirati.cz
 profiles:
