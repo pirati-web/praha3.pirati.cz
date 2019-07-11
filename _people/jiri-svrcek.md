@@ -4,7 +4,7 @@ name: Jiří Svrček  	# běžně používáné jméno
 fullname: Jiří Svrček  	# jméno s tituly etc.
 category:
   - clenove
-  - zastupitele
+  - zastupitel
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 ordclenove: 35
