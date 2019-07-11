@@ -7,7 +7,7 @@ category:
   - zastupitel
 ordclenove: 21
 odrz: 3
-description: Člen místního sdružení # zobrazuje se v lide
+description: Členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
 mail:
