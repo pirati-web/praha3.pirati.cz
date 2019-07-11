@@ -4,8 +4,8 @@ uid: frantisek.dosedel
 name:     František Doseděl  	# běžně používáné jméno
 fullname: František Doseděl  	# jméno s tituly etc.
 category:
-  - clenove
-ordclenove: 2
+  - pms
+ordpms: 2
 description: Místopředseda místního sdružení # zobrazuje se v lide
 profession: Advokátní koncipient
 img: people/frantisek-dosedel.jpg # zakomentuj radek dokud není fotka
