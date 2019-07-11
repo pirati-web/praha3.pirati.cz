@@ -3,8 +3,8 @@ uid: martin.sumerauer
 name:     Martin Sumerauer  	# běžně používáné jméno
 fullname: Martin Sumerauer  	# jméno s tituly etc.
 category:
-  - clenove
-ordclenove: 3
+  - pms
+ordpms: 3
 description: Místopředseda místního sdružení # zobrazuje se v lide
 profession: 
 img: people/martin-sumerauer.jpg # zakomentuj radek dokud není fotka
