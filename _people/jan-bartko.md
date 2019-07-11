@@ -4,7 +4,7 @@ name:     Jan Bartko  	# běžně používáné jméno
 fullname: Jan Bartko  	# jméno s tituly etc.
 category:
   - clenove
-  - zastupitele
+  - zastupitel
 ordclenove: 3
 ordz: 1
 description: Člen místního sdružení # zobrazuje se v lide
