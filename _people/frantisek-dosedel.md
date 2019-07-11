@@ -5,7 +5,9 @@ name:     František Doseděl  	# běžně používáné jméno
 fullname: František Doseděl  	# jméno s tituly etc.
 category:
   - pms
+  - radni
 ordpms: 2
+ordr: 4
 description: Místopředseda místního sdružení # zobrazuje se v lide
 profession: Advokátní koncipient
 img: people/frantisek-dosedel.jpg # zakomentuj radek dokud není fotka
