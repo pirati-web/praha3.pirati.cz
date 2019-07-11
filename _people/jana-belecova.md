@@ -3,9 +3,9 @@ uid: jana.belecova
 name:     Jana Belecová  	# běžně používáné jméno
 fullname: Jana Belecová  	# jméno s tituly etc.
 category:
-  - clenove
-ordclenove: 7
-description: Členka místního sdružení # zobrazuje se v lide
+  - radni
+ordr: 2
+description: Uvolněná radní # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/jana-belecova.jpg # zakomentuj radek dokud není fotka
 mail:
