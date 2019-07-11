@@ -4,7 +4,7 @@ name:     Jan Bartko  	# běžně používáné jméno
 fullname: Jan Bartko  	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 9
+ordclenove: 3
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/jan-bartko.jpg # zakomentuj radek dokud není fotka
