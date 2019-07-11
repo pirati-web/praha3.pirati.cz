@@ -4,7 +4,7 @@ name:     Martin Arden
 category:
   - clenove
 
-ordclenove: 4
+ordclenove: 1
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/martin-arden.jpg # zakomentuj radek dokud není fotka
