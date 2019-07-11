@@ -5,7 +5,7 @@ fullname: Pavel Králíček  	# jméno s tituly etc.
 category:
   - clenove
   - kontaktni_osoba
-ordclenove: 14
+ordclenove: 19
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Podnikatel, student
 img: people/pavel-kralicek.jpg # zakomentuj radek dokud není fotka
