@@ -2,9 +2,9 @@
 uid: pavel.musil
 name:     Pavel Musil  	# běžně používáné jméno
 category:
-  - clenove
-ordclenove: 27
-description: Člen místního sdružení # zobrazuje se v lide
+  - radni
+ordr: 3
+description: Neuvolněný radní # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/pavel-musil.jpg # zakomentuj radek dokud není fotka
 mail:
