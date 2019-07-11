@@ -4,7 +4,7 @@ name:     Štěpán Štrébl  	# běžně používáné jméno
 fullname: Štěpán Štrébl MPhil  	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 5
+ordclenove: 37
 description: Člen místního sdružení, lídr kandidátky # zobrazuje se v lide
 profession: Politická konzultantka
 img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
