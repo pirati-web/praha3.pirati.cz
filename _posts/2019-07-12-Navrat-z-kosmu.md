@@ -7,7 +7,7 @@ author: Michal Gill
 image: posts/03.jpg
 ---
 
-20. července 1969 se uskutečnila přelomová událost historie lidstva. Člověk poprvé vstoupil na vesmírné těleso mimo planetu Zemi, konkrétně tedy na Měsíc. Našimi vyslanci se stali Neil Armstrong s Buzzem Aldrinem, přičemž velitelský modul pilotoval Michael Collins.
+Dvacátého července 1969 se uskutečnila přelomová událost historie lidstva. Člověk poprvé vstoupil na vesmírné těleso mimo planetu Zemi, konkrétně tedy na Měsíc. Našimi vyslanci se stali Neil Armstrong s Buzzem Aldrinem, přičemž velitelský modul pilotoval Michael Collins.
 Co se Pirátů a tohoto výročí týče, zahájili jsme unikátní akci, jak si letošní významné výročí připomenout. V rámci obecných snah navrátit Praze 3 umělecká díla, která z ní byla v minulosti odstraněna, zahájil bývalý pirátský radní pro kulturu [Jiří Svrček](https://praha3.pirati.cz/lide/jiri-svrcek/) proces navrácení sochy „Návrat z kosmu“ zpět na Žižkov, kde kdysi stávala v prostorách areálu dnešního CETINu na Olšanské ulici. Dílo pochází od československého pedagoga, restaurátora a sochaře Rudolfa Svobody (1924-1994). V současnosti přebírá vyjednávací štafetu nová pirátská radní pro kulturu Jana Belecová[Jana Belecová](https://praha3.pirati.cz/lide/jana-belecova/).
 
 ![Návrat z kosmu](/assets/img/posts/01.jpg)  
