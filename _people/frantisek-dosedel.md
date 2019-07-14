@@ -6,6 +6,7 @@ fullname: František Doseděl  	# jméno s tituly etc.
 category:
   - pms
   - radni
+  - zastupitel
   - dv
 ordpms: 2
 ordr: 4
