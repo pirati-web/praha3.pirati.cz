@@ -4,6 +4,7 @@ name:     Jan Tichavský  	# běžně používáné jméno
 fullname: Jan Tichavský  	# jméno s tituly etc.
 category:
   - clenove
+  - dk
 ordclenove: 39
 description: Člen místního sdružení,
 profession: Politická konzultantka
