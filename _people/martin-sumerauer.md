@@ -4,6 +4,7 @@ name:     Martin Sumerauer  	# běžně používáné jméno
 fullname: Martin Sumerauer  	# jméno s tituly etc.
 category:
   - pms
+  - kk
 ordpms: 3
 description: Místopředseda místního sdružení # zobrazuje se v lide
 profession: 
