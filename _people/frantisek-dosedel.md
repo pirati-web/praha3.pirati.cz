@@ -10,7 +10,7 @@ category:
   - dv
 ordpms: 2
 ordr: 4
-description: Neuvolněný radní, místopředseda místního sdružení # zobrazuje se v lide
+description: Neuvolněný radní, místopředseda místního sdružení, člen Dotačního výboru # zobrazuje se v lide
 profession: Advokátní koncipient
 img: people/frantisek-dosedel.jpg # zakomentuj radek dokud není fotka
 mail:
