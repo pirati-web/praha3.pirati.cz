@@ -6,7 +6,7 @@ category:
   - pms
   - kk
 ordpms: 3
-description: Místopředseda místního sdružení # zobrazuje se v lide
+description: Místopředseda místního sdružení, předseda Kulturní komise # zobrazuje se v lide
 profession: 
 img: people/martin-sumerauer.jpg # zakomentuj radek dokud není fotka
 mail:
