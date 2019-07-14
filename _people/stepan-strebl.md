@@ -4,6 +4,8 @@ name:     Štěpán Štrébl  	# běžně používáné jméno
 fullname: Štěpán Štrébl MPhil  	# jméno s tituly etc.
 category:
   - radni
+  - clenove
+  - zastupitel
 ordr: 1
 description: Místostarosta # zobrazuje se v lide
 profession: Politická konzultantka
