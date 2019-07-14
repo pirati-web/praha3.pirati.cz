@@ -5,6 +5,8 @@ fullname: Jiří Svrček  	# jméno s tituly etc.
 category:
   - clenove
   - zastupitel
+  - dv
+  - vur
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 ordclenove: 35
