@@ -5,6 +5,7 @@ fullname: Anna Kratochvílová  	# jméno s tituly etc.
 category:
   - clenove
   - zastupitel
+  - kvv
 ordclenove: 21
 odrz: 3
 description: Členka místního sdružení # zobrazuje se v lide
