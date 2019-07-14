@@ -7,7 +7,7 @@ category:
   - zastupitel
   - dv
   - vur
-description: Člen místního sdružení # zobrazuje se v lide
+description: Zastupitel, člen Dotačního výboru, člen Výboru pro územní rozvoj, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 ordclenove: 35
 ordz: 4
