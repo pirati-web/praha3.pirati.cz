@@ -8,7 +8,7 @@ category:
   - kvv
 ordclenove: 21
 odrz: 3
-description: Členka místního sdružení # zobrazuje se v lide
+description: Zastupitelka, členka Komise pro výchovu a vzdělávání, členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
 mail:
