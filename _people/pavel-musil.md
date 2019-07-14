@@ -3,6 +3,7 @@ uid: pavel.musil
 name:     Pavel Musil  	# běžně používáné jméno
 category:
   - radni
+  - kv
 ordr: 3
 description: Neuvolněný radní # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
