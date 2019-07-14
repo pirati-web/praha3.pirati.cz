@@ -6,6 +6,7 @@ fullname: František Doseděl  	# jméno s tituly etc.
 category:
   - pms
   - radni
+  - dv
 ordpms: 2
 ordr: 4
 description: Neuvolněný radní, místopředseda místního sdružení # zobrazuje se v lide
