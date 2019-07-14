@@ -7,7 +7,7 @@ category:
   - clenove
   - zastupitel
 ordr: 1
-description: Místostarosta # zobrazuje se v lide
+description: Místostarosta, člen místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
 mail:
