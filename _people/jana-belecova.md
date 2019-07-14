@@ -5,6 +5,7 @@ fullname: Jana Belecová  	# jméno s tituly etc.
 category:
   - radni
   - clenove
+  - zastupitel
   - mv
   - dv
 ordr: 2
