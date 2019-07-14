@@ -6,7 +6,7 @@ category:
   - clenove
   - vur
 ordclenove: 11
-description: Člen místního sdružení
+description: Člen Výboru pro územní rozvoj, člen místního sdružení
 profession: Politická konzultantka
 # img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
 mail:
