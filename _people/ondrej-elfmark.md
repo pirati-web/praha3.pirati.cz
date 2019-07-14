@@ -4,6 +4,7 @@ name:     Ondřej Elfmark  	# běžně používáné jméno
 fullname: Ondřej Elfmark  	# jméno s tituly etc.
 category:
   - clenove
+  - vur
 ordclenove: 11
 description: Člen místního sdružení
 profession: Politická konzultantka
