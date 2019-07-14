@@ -6,7 +6,7 @@ category:
   - clenove
   - it
 ordclenove: 9
-description: Člen místního sdružení, místopředseda komise pro transparentnost a informatiku
+description: Člen místního sdružení, místopředseda Komise pro transparentnost a informatiku
 profession: Politická konzultantka
 # img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
 mail:
