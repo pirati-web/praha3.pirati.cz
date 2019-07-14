@@ -4,6 +4,7 @@ name:     Martin Chour  	# běžně používáné jméno
 fullname: Martin Chour  	# jméno s tituly etc.
 category:
   - clenove
+  - dk
 ordclenove: 15
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Student gymnázia
