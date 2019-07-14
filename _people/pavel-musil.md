@@ -4,6 +4,8 @@ name:     Pavel Musil  	# běžně používáné jméno
 category:
   - radni
   - kv
+  - zastupitel
+  - clenove
 ordr: 3
 description: Neuvolněný radní # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
