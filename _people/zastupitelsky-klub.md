@@ -48,7 +48,7 @@ groups:
     category: mk
     sort: ordpms
   - name: Redakční rada Novin Prahy 3 – zástupci za Piráty
-    category: rrnp2
+    category: rr
     sort: ordpms
   - name: Komise rozvoje RMČ Praha 3 – zástupci za Piráty
     category: kr
