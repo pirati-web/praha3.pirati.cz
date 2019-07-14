@@ -10,7 +10,7 @@ category:
   - dv
 ordr: 2
 ordclenove: 7
-description: Uvolněná radní # zobrazuje se v lide
+description: Uvolněná radní, předsedkyně Majetkového výboru, členka Dotačního výboru, členka místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/jana-belecova.jpg # zakomentuj radek dokud není fotka
 mail:
