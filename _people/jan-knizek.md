@@ -6,11 +6,8 @@ category:
   - kzp
 ordclenove: 
 odrz: 
-description: Zastupitelka, členka Komise pro výchovu a vzdělávání, členka místního sdružení # zobrazuje se v lide
+description: Člen Komise pro životní prostředí # zobrazuje se v lide
 profession: Politická konzultantka
 # img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
-mail:
-  - 
 # profiles:
-  facebook: https://www.facebook.com/anna.kratochvilova.5  # pokud nema, staci smazat tuto radku
 ---
