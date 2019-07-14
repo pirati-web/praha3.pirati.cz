@@ -6,7 +6,7 @@ category:
   - clenove
   - dk
 ordclenove: 39
-description: Člen místního sdružení,
+description: Člen Dopravní komise, člen místního sdružení
 profession: Politická konzultantka
 # img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
 mail:
