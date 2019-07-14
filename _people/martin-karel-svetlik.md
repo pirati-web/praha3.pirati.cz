@@ -4,6 +4,7 @@ name:     Martin Karel Světlík  	# běžně používáné jméno
 fullname: Martin Karel Světlík  	# jméno s tituly etc.
 category:
   - clenove
+  - rr
 ordclenove: 33
 description: Člen místního sdružení
 profession: Politická konzultantka
