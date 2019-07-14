@@ -5,7 +5,7 @@ category:
   - clenove
 
 ordclenove: 1
-description: Člen místního sdružení # zobrazuje se v lide
+description: Zastupitel MHMP, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/martin-arden.jpg # zakomentuj radek dokud není fotka
 mail:
