@@ -6,7 +6,7 @@ category:
   - clenove
   - rr
 ordclenove: 33
-description: Člen místního sdružení
+description: Předseda Redakční rady, člen místního sdružení
 profession: Politická konzultantka
 # img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
 mail:
