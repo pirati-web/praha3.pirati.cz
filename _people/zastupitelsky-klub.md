@@ -17,6 +17,9 @@ groups:
   - name: Majetkový výbor ZMČ Praha 3 – zástupci za Piráty
     category: mv
     sort: ordpms
+  - name: Komise pro vedlejší hospodářskou činnost
+    category: vhc
+    sort: ordpms
   - name: Bezpečnostní komise RMČ Praha 3 – zástupci za Piráty
     category: bk
     sort: ordpms
