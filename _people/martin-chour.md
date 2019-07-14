@@ -6,7 +6,7 @@ category:
   - clenove
   - dk
 ordclenove: 15
-description: Člen místního sdružení # zobrazuje se v lide
+description: Člen Dopravní komise, člen místního sdružení # zobrazuje se v lide
 profession: Student gymnázia
 img: people/martin-chour.jpg # zakomentuj radek dokud není fotka
 mail:
