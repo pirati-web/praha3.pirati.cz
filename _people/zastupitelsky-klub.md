@@ -62,4 +62,7 @@ groups:
   - name: Komise životního prostředí – zástupci za Piráty
     category: kzp
     sort: ordpms
+  - name: Komise pro sport
+    category: sportk
+    sort: ordpms
 ---
