@@ -3,6 +3,7 @@ uid: nikol.marhounova
 name:     Nikol Marhounová 
 category:
   - pms
+  - sk
 ordpms: 4
 description: Místopředsedkyně místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
