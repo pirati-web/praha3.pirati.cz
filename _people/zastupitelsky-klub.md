@@ -20,6 +20,9 @@ groups:
   - name: Dotační výbor ZMČ Praha 3 - zástupci za Piráty
     category: dv
     sort: ordpms
+  - name: Výbor územního rozvoje ZMČ Praha 3 - zástupci za Piráty
+    category: vur
+    sort: ordpms
   - name: Komise pro vedlejší hospodářskou činnost ZMČ Praha 3 - zástupci za Piráty
     category: vhc
     sort: ordpms
