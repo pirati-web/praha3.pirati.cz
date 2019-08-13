@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Jiří Svrček, předseda Komise pro životní prostředí, člen Dotačního výboru a Výboru pro územní rozvoj
 author: Michal Gill
-image: posts/jirka-svrcek.jpg
+image: posts/jiri-svrcek.jpg
 ---
 
 **Ahoj, zdravím tě. První obligátní otázka: popiš svoje dosavadní politické působení a hlavně to, jak ses dostal k Pirátům.**
