@@ -12,5 +12,4 @@ profession: Politická konzultantka
 mail:
   - 
 # profiles:
-  facebook: https://www.facebook.com/anna.kratochvilova.5  # pokud nema, staci smazat tuto radku
 ---
