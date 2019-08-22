@@ -1,5 +1,5 @@
 ---
-date: 2019-08-13
+date: 2019-08-22
 category: blog
 layout: post
 title: Představujeme Pirátské zastupitele Prahy 3 – František Doseděl, radní pro sport, volný čas a dotační politiku
