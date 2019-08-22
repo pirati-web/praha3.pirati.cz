@@ -18,5 +18,4 @@ image: posts/frantisek-dosedel.jpg
 **Pokud máš chuť, prozraď nám něco o sobě, svých koníčcích. Jak trávíš volný čas?**  
 *FD: S partnerkou spolu žijeme dvanáct let a máme dva malé psy, díky kterým mám o pracovních dnech alespoň nějaký pohyb. Když vyjde čas, tak rád cestuji, čtu si či hraji počítačové nebo deskové hry, jezdím na LARPy nebo zahradničím (rajčata, chilli, melounové stromky, jahody, bylinky...). Ze sportů jsem dělal historický šerm, snažím se hrát Jugger (což je, řekněme, kombinace šermu a amerického fotbalu) a pokud se airsoft počítá za sport, pak i ten.*  
 
-
 - - -
