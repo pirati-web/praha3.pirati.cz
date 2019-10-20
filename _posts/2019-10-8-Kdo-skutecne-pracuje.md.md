@@ -22,7 +22,7 @@ Aby byla data maximálně přesná, počítali jsme po minutách, protože máme
 
 ![TOP 10 absencí](/assets/img/posts/zastupitelé-top10.png) 
 
-*Statistika docházky všech zatsupitelů na výbory a komise v akt. volebním období (v %; data k 8.10.2019):*
+*Statistika docházky všech zastupitelů na výbory a komise v akt. volebním období (v %; data k 8.10.2019):*
 
 ![Všichni zastupitelé](/assets/img/posts/zastupitelé-všichni.png) 
 
