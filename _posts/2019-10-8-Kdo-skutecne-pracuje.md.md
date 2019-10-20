@@ -23,7 +23,7 @@ Aby byla data maximálně přesná, počítali jsme po minutách, protože máme
 ![TOP 10 absencí](/assets/img/posts/zastupitelé-top10.png) 
 
 
-![TOP 10 absencí](/assets/img/posts/zastupitelé-všichni.png) 
+![Všichni zastupitelé](/assets/img/posts/zastupitelé-všichni.png) 
 
 
 
