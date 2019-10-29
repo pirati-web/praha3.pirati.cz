@@ -1,5 +1,5 @@
 ---
-date: 2019-10-8
+date: 2019-12-31
 category: blog
 layout: post
 title: Kdo skutečně pracuje aneb Docházka do výborů a komisí
