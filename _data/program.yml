@@ -2,8 +2,8 @@
   id: 1
   title: Zmodernizujeme a otevřeme radnici
   desc: Pro ty, kdo si chtějí vše vyřídit elektronicky, zavedeme online úřad s chytrými aplikacemi pro jednotlivé agendy. Možnost osobního vyřízení samozřejmě ponecháme. Zpřehledníme webové stránky Prahy 6. Zavedeme rozklikávací rozpočet a otevřeme dostupná data úřadu.
-  garant: milos.vlach
-  redmine: 14403
+  garant: jan.bartko
+  redmine: 19324
 -
   id: 2
   title: Vybudujeme záchytná P+R parkoviště
