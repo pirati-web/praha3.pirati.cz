@@ -1,0 +1,957 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Objekt Šolínova",
+        "category": "Záchrana objektů",
+        "description": "Radnice by se neměla bezhlavě zbavovat lukrativních majetků. Když už prodává, má prodávat za tržní ceny, nikoliv pod nimi. Piráti se zasadili o přerušení výběru komerčního nájemce a prosazují, aby domov důchodců, případně další sociální služby v místě, provozovala radnice ve spolupráci s MHMP, případně neziskovým sektorem. Nikoliv komečně. "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.392148852348328,
+              50.100505978952775
+            ],
+            [
+              14.39207375049591,
+              50.10102040085078
+            ],
+            [
+              14.391714334487913,
+              50.100996314330004
+            ],
+            [
+              14.391751885414124,
+              50.10072103894662
+            ],
+            [
+              14.391593635082243,
+              50.10071071608898
+            ],
+            [
+              14.391636550426483,
+              50.100485333142544
+            ],
+            [
+              14.392148852348328,
+              50.100505978952775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Zahrádkářská kolonie na Jenerálce",
+        "description": "Soukromá společnost výkupem restitučních nároků získala významný podíl na pozemcích v zahrádkářské kolonii Jenerálka - firma chce zlikvidovat zahrádky, které si od MČ lidé pronajímají - MČ problém neřešila a soudní řízení s Manalisten musí vést přímo nájemci zahrádek. Radnice od toho dává ruce pryč. Piráti chtějí aktivně podpořit majitele zahrádek a jsou proti jakémukoliv zastavování funkčních zahrádkářských kolonií. ",
+        "category": "Záchrana objektů"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.355772733688353,
+              50.110850131112784
+            ],
+            [
+              14.355429410934448,
+              50.10979741082286
+            ],
+            [
+              14.355804920196533,
+              50.10968732108999
+            ],
+            [
+              14.35613751411438,
+              50.10882035559983
+            ],
+            [
+              14.356566667556763,
+              50.108737786639395
+            ],
+            [
+              14.35683488845825,
+              50.108228608237575
+            ],
+            [
+              14.358186721801758,
+              50.10847631732546
+            ],
+            [
+              14.358229637145996,
+              50.10882035559983
+            ],
+            [
+              14.359356164932251,
+              50.10884787855503
+            ],
+            [
+              14.361255168914795,
+              50.10950842473433
+            ],
+            [
+              14.36314344406128,
+              50.11067123910089
+            ],
+            [
+              14.36189889907837,
+              50.11189594796303
+            ],
+            [
+              14.36463475227356,
+              50.11330638846235
+            ],
+            [
+              14.362574815750122,
+              50.11500574207639
+            ],
+            [
+              14.359699487686157,
+              50.113870553029784
+            ],
+            [
+              14.35839056968689,
+              50.11241884782329
+            ],
+            [
+              14.357736110687256,
+              50.11186842675959
+            ],
+            [
+              14.357532262802124,
+              50.11142808535335
+            ],
+            [
+              14.356126785278322,
+              50.110815728854696
+            ],
+            [
+              14.355772733688353,
+              50.110850131112784
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Geosan plánuje výstavbu na Patočkově",
+        "description": "Prvním projektem je kapacitní bytový komplex v Radimově ulici – na místě tzv. Břevnovského mrakodrapu a druhým pak desetipatrový dům přímo u křižovatky Malovanka. Zhorší to už tak špatnou dopravní a vzduchovou situaci v lokalitě a  navyšuje objemy zástavby. Podporujeme odstoupení od dohod a zapracování územní studie, která vezme v potaz stávající hodnoty území a dopravní zatížení lokality.",
+        "category": "Developerská výstavba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.373942017555235,
+              50.08845935747292
+            ],
+            [
+              14.374049305915834,
+              50.08733386492208
+            ],
+            [
+              14.374821782112122,
+              50.087364842134974
+            ],
+            [
+              14.374784231185911,
+              50.08845935747292
+            ],
+            [
+              14.373942017555235,
+              50.08845935747292
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hřiště pod Televizní věží na Strahově",
+        "id": 4,
+        "description": "Pozemky za Strahovským stadionem jsou vedeno v ÚP jako „SP“ – tedy sport. Tyto nedávno získal soukromý vlastník a developer předložil komisi ÚR plán na stavbu developmentu, což bylo schváleno. Prosazujeme dodržování pravidel, a nepodpoříme cookoliv v rozporu s územním plánem, Včetně kliček jak jsou ubytovny pro sportovce.",
+        "category": "Developerská výstavba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.376967549324036,
+              50.081124250469855
+            ],
+            [
+              14.376141428947449,
+              50.08033938606207
+            ],
+            [
+              14.376935362815857,
+              50.07931697762794
+            ],
+            [
+              14.379955530166624,
+              50.07946500444136
+            ],
+            [
+              14.379912614822388,
+              50.08086263042834
+            ],
+            [
+              14.378458857536314,
+              50.0812791564004
+            ],
+            [
+              14.376967549324036,
+              50.081124250469855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Medvěd",
+        "description": "Radnice prodala významnou část Vítězného náměstí (na místě bývalého projektu \"lední mědvěd\") pod posudkové ceny. Radnice by se neměla bezhlavě zbavovat lukrativních majetků. Když už prodává, má prodávat za tržní ceny, nikoliv pod nimi. ",
+        "category": "Developerská výstavba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.395536482334135,
+              50.10189783013745
+            ],
+            [
+              14.395579397678375,
+              50.101608796382784
+            ],
+            [
+              14.396148025989532,
+              50.10148320379109
+            ],
+            [
+              14.396367967128755,
+              50.101484924239806
+            ],
+            [
+              14.396735429763796,
+              50.101744711282265
+            ],
+            [
+              14.396485984325409,
+              50.1018771849271
+            ],
+            [
+              14.395777881145476,
+              50.101913314039365
+            ],
+            [
+              14.395536482334135,
+              50.10189783013745
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Usedlost Šatovka",
+        "description": "Dlouhodobě neřešené využití krásné usedlosti v Šáreckém údolí. Mnoho plánů na přestavbu opět selhalo. Vilu obsadili squatteři. Piráti navrhují smysluplné využití usedlosti v klidné přírodě, která by mohla sloužit jako LDN či jako zařízení se zlváštním režimem. Domov pro aktivní seniory, jak o tom hovoří současná radnice. Dům pro aktivní seniory naopak chceme v živém centru, např. v trojdomí Śolínova.  ",
+        "category": "Lepší využítí"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.374451637268065,
+              50.117575297870005
+            ],
+            [
+              14.374666213989258,
+              50.117582177352354
+            ],
+            [
+              14.374912977218628,
+              50.11764409264903
+            ],
+            [
+              14.375057816505432,
+              50.1176991284011
+            ],
+            [
+              14.374902248382568,
+              50.11784359694923
+            ],
+            [
+              14.374408721923828,
+              50.11774040517361
+            ],
+            [
+              14.374451637268065,
+              50.117575297870005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "LDN Chittussiho",
+        "description": "Pozemek se v novém metropolitním plánu mění z obecního využití na bytovou zástavbu a skupina PENTA zde plánuje rozsáhlou výstavbu luxusních bytů. Místo pro novou a pro občany MČ velmi potřebnou LDN ještě není vybráno. Uznáváme, že současná podoba LDN je nevyhovující a je třeba hledat nové řešení. Nechceme se však zbavovat lukrativních pozemků a celý zisk přenechávat developerům.",
+        "category": "Developerská výstavba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.399959444999695,
+              50.10690747146415
+            ],
+            [
+              14.40031886100769,
+              50.10642923849243
+            ],
+            [
+              14.400152564048767,
+              50.10638451142356
+            ],
+            [
+              14.400125741958618,
+              50.105951000745605
+            ],
+            [
+              14.401123523712158,
+              50.10582713983123
+            ],
+            [
+              14.401177167892458,
+              50.10600604993806
+            ],
+            [
+              14.401724338531492,
+              50.10606453963575
+            ],
+            [
+              14.401322007179258,
+              50.1073100091851
+            ],
+            [
+              14.400286674499512,
+              50.10705197257373
+            ],
+            [
+              14.399959444999695,
+              50.10690747146415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Vila Na Marně",
+        "description": "Radnice chce zbourat zachovalou vilu v ulici Na Marně a postavit na jejím místě školku, která má sloužit zejména jako školka pro novou zástavbu plánovou developerem, který se však na budování školky nebude finančně podílet. Budeme trvat na odpovědnosti developera za občanskou vybavenost v okolí nové výstavby. Nedopustíme vynakládání veřejných prostředků na podporu komerčních a vysoce ziskových zájmů developerů.",
+        "category": "Záchrana objektů"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.399777054786684,
+              50.10615055376727
+            ],
+            [
+              14.399739503860474,
+              50.10597164420019
+            ],
+            [
+              14.40006136894226,
+              50.10595788189813
+            ],
+            [
+              14.400056004524231,
+              50.10614711320499
+            ],
+            [
+              14.399777054786684,
+              50.10615055376727
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Dejvická 4",
+        "description": "Dlouhodobě neřešený katastrofální stav budovy na Dejvické 4. Nekoncepční přístup způsobuje další chátrání. Podpoříme otevřný a efektivní přístup k dlouhodobému řešení a rekostrukci budovy. Přístup založený na občanské participaci, efektivnosti a účelnosti.",
+        "category": "Lepší využítí"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.403966665267943,
+              50.09816090212056
+            ],
+            [
+              14.403988122940063,
+              50.09801465361465
+            ],
+            [
+              14.40432071685791,
+              50.098037021062105
+            ],
+            [
+              14.404256343841553,
+              50.098224563095464
+            ],
+            [
+              14.404106140136717,
+              50.09820219573556
+            ],
+            [
+              14.404127597808836,
+              50.098138534730936
+            ],
+            [
+              14.404028356075287,
+              50.09813337302417
+            ],
+            [
+              14.404009580612183,
+              50.098162622688584
+            ],
+            [
+              14.403966665267943,
+              50.09816090212056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "OC Bořislavka",
+        "description": "Na lukrativním pozemku u metra Bořislavka má vyrůst nová budova obchodního centra. Výstavba probíhá bez občanské participace a nikdo vlastně neví, co se tam teď staví. Piráti nejsou vždy proti nové výstavbě. Ta musí však probíhat s vědomím a participací místních občanů, kteří v okolí žijí. Rozhodování \"za zavřenými dveřmi\" rozhodně chceme odbourat. ",
+        "category": "Zapojení veřejnosti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.36511218547821,
+              50.09846372113723
+            ],
+            [
+              14.36506390571594,
+              50.09815746098441
+            ],
+            [
+              14.364538192749023,
+              50.09772731701452
+            ],
+            [
+              14.36458647251129,
+              50.09761375836214
+            ],
+            [
+              14.367542266845701,
+              50.09833639973842
+            ],
+            [
+              14.367654919624329,
+              50.09870459853368
+            ],
+            [
+              14.36511218547821,
+              50.09846372113723
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Nákupní středisko Červený vrch",
+        "description": "V majetku CPI, zvenku i uvnitř centrum neprošlo od doby komunismu jakoukoli změnou. Majitel si přeje výškovou zástavbu necitlivou pro okolí a momentálně oběkt využívá v rozporu s koulaudačním rozhodnutím. Vyžadujeme dodržování účelu využití budovy a budeme hájit zájmy obyvatel okolí v ohledu potenciální výškové zástavy.",
+        "category": "Developerská výstavba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.358975291252134,
+              50.09750364062398
+            ],
+            [
+              14.35913622379303,
+              50.09711134412491
+            ],
+            [
+              14.35986578464508,
+              50.09725931598868
+            ],
+            [
+              14.359645843505858,
+              50.09764128775712
+            ],
+            [
+              14.358975291252134,
+              50.09750364062398
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "Potenciální zástavba podél Divoké Šárky",
+        "description": "Metropolitní plán navrhuje zastavitelnost Šáreckého údolí podél Evropské třídy výškovými budovami (lokalita 124). Piráti důsledně kontrolují a připomínkují meetropolitní plán, aby nedocházelo ke zbytečnému zastavování zelených ploch.",
+        "category": "Zelená Praha"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.320528507232666,
+              50.093356835337346
+            ],
+            [
+              14.310486316680908,
+              50.09378357709418
+            ],
+            [
+              14.310379028320312,
+              50.093356835337346
+            ],
+            [
+              14.320507049560547,
+              50.09294385582508
+            ],
+            [
+              14.320528507232666,
+              50.093356835337346
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "Rekonstrukce Buštěhradské dráhy",
+        "description": "Blíží se rekonstukce trasy části Buštěhradské dráhy, úsek z Dejvic do Veleslavína a zatím to vypadá, že půjde pod drn. Návrh zahloubení podporujeme, budeme striktně trvat na vytvoření \"zelené  radiály\" - nezastavitelného pochozího parku nad zahloubenou dráhou.",
+        "category": "Zelená Praha"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.395619630813599,
+              50.09633018275811
+            ],
+            [
+              14.394160509109495,
+              50.09630953514832
+            ],
+            [
+              14.39277648925781,
+              50.0964334206735
+            ],
+            [
+              14.3915319442749,
+              50.096743133085056
+            ],
+            [
+              14.390480518341063,
+              50.097087255638705
+            ],
+            [
+              14.38960075378418,
+              50.097438258097185
+            ],
+            [
+              14.388946294784546,
+              50.09780990495631
+            ],
+            [
+              14.388356208801271,
+              50.098092079349875
+            ],
+            [
+              14.387712478637695,
+              50.09838113432251
+            ],
+            [
+              14.386682510375975,
+              50.098642658747416
+            ],
+            [
+              14.38554525375366,
+              50.09878030260815
+            ],
+            [
+              14.38440799713135,
+              50.098683951947166
+            ],
+            [
+              14.383227825164793,
+              50.098491250043836
+            ],
+            [
+              14.381682872772215,
+              50.09817466666288
+            ],
+            [
+              14.380180835723877,
+              50.09789937506589
+            ],
+            [
+              14.380373954772947,
+              50.09772043467962
+            ],
+            [
+              14.381672143936155,
+              50.098009491894516
+            ],
+            [
+              14.382669925689695,
+              50.09817466666288
+            ],
+            [
+              14.383893013000487,
+              50.098422427747664
+            ],
+            [
+              14.384944438934326,
+              50.09855319002587
+            ],
+            [
+              14.385759830474854,
+              50.09852566115486
+            ],
+            [
+              14.386639595031738,
+              50.09846372113723
+            ],
+            [
+              14.387401342391968,
+              50.098264136091295
+            ],
+            [
+              14.388130903244019,
+              50.097988845008416
+            ],
+            [
+              14.388881921768188,
+              50.0976447289304
+            ],
+            [
+              14.389289617538452,
+              50.09741761096494
+            ],
+            [
+              14.390137195587156,
+              50.09703907862999
+            ],
+            [
+              14.39114570617676,
+              50.0966605433044
+            ],
+            [
+              14.392851591110228,
+              50.09619941441258
+            ],
+            [
+              14.395630359649658,
+              50.096075528282334
+            ],
+            [
+              14.395619630813599,
+              50.09633018275811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "Poliklinika Pod Marjánkou",
+        "description": "Dlouhodobě se neřeší rekonstrukce tradiční polikliniky. Funkcionalistická budova je tak předmětem politických her, které nemají konce a stály naší MČ nemalé peníze (naposledy radince musela vyplatit cca 37 milionů korun jako odstupné předchozímu nájemci). Piráti chtějí diskutovat s architekty, místními lékaři i pacienty o co nejefektivnějším využití polikliniky k původním účelům.",
+        "category": "Zapojení veřejnosti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.365509152412415,
+              50.0848831597451
+            ],
+            [
+              14.365487694740294,
+              50.08473514966165
+            ],
+            [
+              14.366469383239744,
+              50.084728265460605
+            ],
+            [
+              14.366480112075804,
+              50.08461123389148
+            ],
+            [
+              14.367510080337524,
+              50.0846525391838
+            ],
+            [
+              14.367488622665405,
+              50.0847764548472
+            ],
+            [
+              14.366662502288818,
+              50.08476957065206
+            ],
+            [
+              14.366641044616697,
+              50.08495200148863
+            ],
+            [
+              14.366984367370605,
+              50.08496576982545
+            ],
+            [
+              14.366968274116514,
+              50.08507247430192
+            ],
+            [
+              14.366469383239744,
+              50.085069032225746
+            ],
+            [
+              14.366469383239744,
+              50.08487971765531
+            ],
+            [
+              14.365509152412415,
+              50.0848831597451
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "Demoliční stav budov na ul. Milady Horákové ",
+        "description": "Katastrofální a dlouho neřešený stav neudržovaných budov (vil) v držení společností ze skupiny Lordship. Hyzdí jednu z najfrekventovanějších částí naší MČ, sjou nebezpečné pro děti i dospělé. Chceme postup městské části ke znovuzavadení řádné pěče o budovy.",
+        "category": "Záchrana objektů"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.411224722862244,
+              50.09858243943396
+            ],
+            [
+              14.410854578018187,
+              50.098486088375054
+            ],
+            [
+              14.410387873649599,
+              50.098439633330976
+            ],
+            [
+              14.410409331321716,
+              50.0983553259137
+            ],
+            [
+              14.410452246665953,
+              50.098209078001254
+            ],
+            [
+              14.41132128238678,
+              50.09833295861484
+            ],
+            [
+              14.411224722862244,
+              50.09858243943396
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Zastavování Engelova pásu",
+        "description": "Engelův zelený pás je parková plocha probíhající souběžně s Evropskou od Vítězného náměstí po Červený vrch. Parková plocha se postupně zastavuje, u Vítězného náměstí investory zvučných jmen. Mizí veřejně sdílené benefity zelených ploch ve jménu soukromých developerských projektů. Chceme zastvit přeměnu Engelova zeleného pásu na stavební parcely.",
+        "category": "Zelená Praha"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.378904104232788,
+              50.09961303953209
+            ],
+            [
+              14.378968477249144,
+              50.09916570331442
+            ],
+            [
+              14.38510537147522,
+              50.09952357262272
+            ],
+            [
+              14.385813474655151,
+              50.09945475180951
+            ],
+            [
+              14.385749101638794,
+              50.09992961340833
+            ],
+            [
+              14.378904104232788,
+              50.09961303953209
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Zbouraná památkově hodnotná vila na Petřinách. ",
+        "description": "Odstranění krásné památkově chráněné stavby poté, co si majitel vymohl zneplanění její památkové ochrany. Piráti se zasadí všemi prostřeky o ochranu kulturního dědictví, které jsme zdědili po našich předcích.",
+        "category": "Záchrana objektů"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.356116056442259,
+              50.09090643813976
+            ],
+            [
+              14.355762004852295,
+              50.09081351330821
+            ],
+            [
+              14.35589611530304,
+              50.09065175483831
+            ],
+            [
+              14.356260895729063,
+              50.090730913306686
+            ],
+            [
+              14.356116056442259,
+              50.09090643813976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "Tesco na Hanspaulce",
+        "description": "Budova Tesco na Hanspaulce je ve vlastnictví CPI. Nedávno zastupitelstvo schválilo prodej okolních pozemů také CPI. Tímto došlo k navýšení možného objemu zástavby. Jsme proti navyšování objemu zástavby ve vilových čtvrtích zejména na Hanspaulském náměstí. Pro případnou rekonstrukci budeme prosazovat konsensus okolních obyvatel.",
+        "category": "Zapojení veřejnosti"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              14.372211992740631,
+              50.10428917346432
+            ],
+            [
+              14.372289776802063,
+              50.10396058588074
+            ],
+            [
+              14.372729659080507,
+              50.10400531521314
+            ],
+            [
+              14.372694790363314,
+              50.10410681623556
+            ],
+            [
+              14.372549951076508,
+              50.104094773752614
+            ],
+            [
+              14.372507035732268,
+              50.10421691879634
+            ],
+            [
+              14.372676014900208,
+              50.10423584264849
+            ],
+            [
+              14.372641146183014,
+              50.10433046179708
+            ],
+            [
+              14.372211992740631,
+              50.10428917346432
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
