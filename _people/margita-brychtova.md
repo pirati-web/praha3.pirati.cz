@@ -9,6 +9,7 @@ category:
   - bytk
 ordpms: 1
 ordz: 9
+ordclenove: 18
 description: Předsedkyně místního sdružení, zastupitelka, místopředsedkyně Bytové komise, členka Sociální komise # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/margita-brychtova.jpg # zakomentuj radek dokud není fotka
