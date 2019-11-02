@@ -4,7 +4,7 @@ name:     Michaela Krausová  	# běžně používáné jméno
 fullname: Michaela Krausová  	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 23
+ordclenove: 42
 description: Zastupitelka MHMP, členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 # img: people/stepan-strebl.jpg
