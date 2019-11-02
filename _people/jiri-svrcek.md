@@ -10,7 +10,7 @@ category:
 description: Zastupitel, člen Dotačního výboru, člen Výboru pro územní rozvoj, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 ordclenove: 35
-ordz: 4
+ordz: 21
 img: people/jiri-svrcek.jpg # zakomentuj radek dokud není fotka
 mail:
   - jiri.svrcek@pirati.cz
