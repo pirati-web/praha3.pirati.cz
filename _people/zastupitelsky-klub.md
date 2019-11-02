@@ -5,6 +5,9 @@ description: Chceme moderní městský obvod.
 keywords: lidé, zastupitelé, zastupitelky, členové, piráti, pirátky, příznivci
 viewMode: grouped # or alltogether
 groups:
+  - name: Naši radní
+    category: radni
+    sort: ordr
   - name: Zastupitelský klub Pirátů MČ Praha 3
     category: zastupitel
     sort: ordz
