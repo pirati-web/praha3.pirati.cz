@@ -8,6 +8,7 @@ category:
   - clenove
 ordr: 3
 ordz: 18
+ordclenove: 45
 description: Neuvolněný radní, člen Kontrolního výboru, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/pavel-musil.jpg # zakomentuj radek dokud není fotka
