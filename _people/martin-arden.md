@@ -4,7 +4,7 @@ name:     Martin Arden
 category:
   - clenove
 
-ordclenove: 1
+ordclenove: 3
 description: Zastupitel MHMP, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/martin-arden.jpg # zakomentuj radek dokud není fotka
