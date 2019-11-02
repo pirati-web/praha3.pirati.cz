@@ -5,7 +5,7 @@ fullname: Martin Karel Světlík  	# jméno s tituly etc.
 category:
   - clenove
   - rr
-ordclenove: 33
+ordclenove: 57
 description: Předseda Redakční rady, člen místního sdružení
 profession: Politická konzultantka
 # img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
