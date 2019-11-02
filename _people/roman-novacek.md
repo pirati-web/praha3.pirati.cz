@@ -4,7 +4,7 @@ name:     Roman Nováček  	# běžně používáné jméno
 fullname: Roman Nováček  	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 25
+ordclenove: 48
 description: Člen místního sdružení
 profession: Politická konzultantka
 # img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
