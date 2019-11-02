@@ -8,7 +8,7 @@ category:
   - fv
   - vhc
 ordclenove: 3
-ordz: 1
+ordz: 3
 description: Zastupitel, člen Finančního výboru a Komise pro VHČ, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/jan-bartko.jpg # zakomentuj radek dokud není fotka
