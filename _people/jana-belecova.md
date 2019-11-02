@@ -9,7 +9,7 @@ category:
   - mv
   - dv
 ordr: 2
-ordclenove: 7
+ordclenove: 12
 ordz: 6
 description: Uvolněná radní, předsedkyně Majetkového výboru, členka Dotačního výboru, členka místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
