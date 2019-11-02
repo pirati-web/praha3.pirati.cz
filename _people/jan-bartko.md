@@ -7,7 +7,7 @@ category:
   - zastupitel
   - fv
   - vhc
-ordclenove: 3
+ordclenove: 6
 ordz: 3
 description: Zastupitel, člen Finančního výboru a Komise pro VHČ, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
