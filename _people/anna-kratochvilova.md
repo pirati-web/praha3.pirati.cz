@@ -6,7 +6,7 @@ category:
   - clenove
   - zastupitel
   - kvv
-ordclenove: 21
+ordclenove: 39
 ordz: 15
 description: Zastupitelka, členka Komise pro výchovu a vzdělávání, členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
