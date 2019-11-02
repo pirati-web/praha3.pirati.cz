@@ -5,7 +5,7 @@ fullname: Martin Chour  	# jméno s tituly etc.
 category:
   - clenove
   - dk
-ordclenove: 15
+ordclenove: 30
 description: Člen Dopravní komise, člen místního sdružení # zobrazuje se v lide
 profession: Student gymnázia
 img: people/martin-chour.jpg # zakomentuj radek dokud není fotka
