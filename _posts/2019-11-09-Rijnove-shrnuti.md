@@ -6,6 +6,8 @@ title: Říjen na radnici aneb Na čem jsme pracovali
 author: Pavel Králíček
 image: posts/zasedacka.jpg
 ---
+*Co se u nás dělo v říjnu? Jak postupují práce na radnici? Souhrn toho nejdůležitějšího se dozvíte v říjnovém shrnutí níže.*
+
 ## Vracíme kotelny skutečným vlastníkům
 Kotelny jsou další příklad hříchu minulosti, který se nám povedlo vyřešit. Mezi lety 2008 až 2013 docházelo při privatizaci bytových domů k oddělení kotelen a zbytku prostor, kdy technologické zařízení kotelen zůstávalo zcela nelogicky ve vlastnictví městské části, i když zbytek domu připadnul společenství vlastníků. Na základě nově vypracované právní analýzy je nyní možné po vzájemné dohodě převést kotelny do majetku společenství vlastníků, je potřeba pouze schválení zastupitelstvem na straně jedné a většinou hlasů SVJ na straně druhé.
 
