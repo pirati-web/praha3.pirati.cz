@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Říjen na radnici aneb Na čem jsme pracovali
 author: Pavel Králíček
-image: posts/zasedacka.jpg
+image: posts/Radnice.jpg
 ---
 *Co se u nás dělo v říjnu? Jak postupují práce na radnici? Souhrn toho nejdůležitějšího se dozvíte v říjnovém shrnutí níže.*
 
@@ -37,6 +37,6 @@ Na základě podnětů ředitelů škol a dat ukazujících rychle se zvyšujíc
 
 Více informací naleznete [ZDE](https://www.praha3.cz/radnicni-noviny/pozemky-pod-parukarkou-budou-slouzit-obyvatelum-prahy-3-n894483.htm). 
 
-
+*Úvodní foto: Ondřej Kořínek [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)*
 
 - - -
