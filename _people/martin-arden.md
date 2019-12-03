@@ -3,9 +3,10 @@ uid: martin.arden
 name:     Martin Arden
 category:
   - clenove
+  - bytk
 
 ordclenove: 3
-description: Zastupitel MHMP, člen místního sdružení # zobrazuje se v lide
+description: Zastupitel MHMP, člen Bytové komise, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/martin-arden.jpg # zakomentuj radek dokud není fotka
 mail:
