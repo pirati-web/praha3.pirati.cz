@@ -3,7 +3,7 @@ uid: jan.knizek
 name:     Jan Knížek  	# běžně používáné jméno
 fullname: Jan Knížek 	# jméno s tituly etc.
 category:
-  - kzp
+
 ordclenove: 
 odrz: 
 description: Člen Komise pro životní prostředí # zobrazuje se v lide
