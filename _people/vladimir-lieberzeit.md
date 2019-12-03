@@ -6,7 +6,7 @@ category:
   - kk
 ordclenove: 
 odrz: 
-description: Předseda Kulturní komise # zobrazuje se v lide
+description: člen Kulturní komise # zobrazuje se v lide
 profession: Politická konzultantka
 # img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
 mail:
