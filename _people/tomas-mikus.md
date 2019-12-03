@@ -8,7 +8,7 @@ category:
 ordclenove: 
 ordz:
 ordp: 5
-description: Člen Komise pro životní prostředí # zobrazuje se v lide
+description:  # zobrazuje se v lide
 profession: Politická konzultantka
 # img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
 mail:
