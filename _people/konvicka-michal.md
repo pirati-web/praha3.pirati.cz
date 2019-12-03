@@ -7,7 +7,7 @@ category:
 ordclenove: 
 ordz:
 ordp: 4
-description: Člen Komise pro životní prostředí # zobrazuje se v lide
+description: Místopředseda představenstva SZM, a. s. # zobrazuje se v lide
 profession: Politická konzultantka
 # img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
 mail:
