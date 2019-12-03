@@ -7,7 +7,8 @@ category:
   - zastupitel
   - dv
   - vur
-description: Zastupitel, člen Dotačního výboru, člen Výboru pro územní rozvoj, člen místního sdružení # zobrazuje se v lide
+  - kzp
+description: Zastupitel, člen Dotačního výboru, člen Výboru pro územní rozvoj, předseda Komise životního prostředí, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 ordclenove: 60
 ordz: 21
