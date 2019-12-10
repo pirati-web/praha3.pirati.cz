@@ -24,37 +24,32 @@
   redmine: 25488
 -
   id: 5
-  title: Obnovíme bytový fond
-  desc: Podporujeme inovativní řešení současné bytové krize, jako je koncept bytových družstev, a budeme prosazovat aktivní roli MČ v bytové politice. Nepodpoříme další zbytečné prodeje klíčových pozemků.
-  garant: jana.kabelova
-  redmine: 14407
+  title: Kultura a cestovní ruch
+  desc: 
+  garant: jana.belecova
+  redmine: 25504
 -
   id: 6
-  title: Zavedeme občanskou participaci nejen na papíře
-  desc: Zpřístupníme jednání radničních komisí veřejnosti a začleníme veřejnost do diskuse a důležitých rozhodnutí o místech, kde žijí. Názory občanů budeme respektovat.
-  garant: tomas.sidlo
-  redmine: 14408
+  title: Životní prostředí
+  desc: 
+  garant: jana.belecova
+  redmine: 25520
 -
   id: 7
-  title: Zastupitelům vrátíme právo rozhodovat o majetku
-  desc: Z městské společnosti SNEO a.s. uděláme moderní, otevřenou a efektivní společnost, která bude sloužit jako skutečná servisní organizace svému zakladateli, MČ Praha 6. Ukončíme její tajnůstkářství a neprůhlednost a pro veškeré investiční akce MČ obnovíme investiční odbor radnice.
-  garant: vladimir.sraier
-  redmine: 14409
+  title: Strategické plánování
+  desc: 
+  garant: jana.belecova
+  redmine: 25536
 -
   id: 8
-  title: Ochladíme Prahu 6
-  desc: Budeme investovat do péče o stromy, výsadby mladých stromů, péče o zeleň a do vertikálního ozelenění. Snížíme tak prašnost, hlučnost a teplotu ve městě. Zasadíme se o zachování zahrádkářských kolonií. Najdeme vhodná místa pro umístění vodních prvků do ulic – např. fontánek a pítek.
-  garant: eva.ticha
-  redmine: 14410
+  title: Dotace
+  desc: 
+  garant: frantisek.dosedel
+  redmine: 25540
 -
   id: 9
-  title: Podpoříme konkrétní lidi
-  desc: Podpoříme osobní sociální pracovníky a lékařskou a ošetřovatelskou terénní péči o seniory i osoby se sníženou pohyblivostí. Systémově podpoříme lidi pečující o jejich blízké doma. Zlepšíme dosažitelnost pohotovostní lékařské služby a navazujících služeb pohotovostních lékáren.
-  garant: barbora.hruzova
-  redmine: 14411
+  title: Sport a tělovýchova
+  desc: 
+  garant: frantisek.dosedel
+  redmine: 25550
 -
-  id: 10
-  title: Kultura a historie Prahy 6 nezůstane na posledním místě
-  desc: Budeme důsledně chránit historické památky a jedinečnost Prahy 6 - proto také podpoříme vlastníky památkově chráněných nemovitostí. Uděláme pořádek v grantech na kulturu a dáme jistotu tradičním provozovatelům oblíbených kulturních akcí a kulturním institucím.
-  garant: ondrej.chrast
-  redmine: 14412
