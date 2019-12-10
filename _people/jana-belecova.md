@@ -1,7 +1,7 @@
 ---
 uid: jana.belecova
 name:     Jana Belecová  	# běžně používáné jméno
-fullname: Bc. Jana Belecová  	# jméno s tituly etc.
+fullname: Jana Belecová  	# jméno s tituly etc.
 category:
   - radni
   - clenove
