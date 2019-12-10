@@ -1,6 +1,7 @@
 ---
 uid: pavel.musil
 name:     Pavel Musil  	# běžně používáné jméno
+fullname: JUDr. Pavel Musil Ph.D.  	# jméno s tituly etc.
 category:
   - radni
   - kv
