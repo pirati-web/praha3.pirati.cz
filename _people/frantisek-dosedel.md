@@ -2,7 +2,7 @@
 
 uid: frantisek.dosedel
 name:     František Doseděl  	# běžně používáné jméno
-fullname: František Doseděl  	# jméno s tituly etc.
+fullname: Mgr. František Doseděl  	# jméno s tituly etc.
 category:
   - pms
   - radni
