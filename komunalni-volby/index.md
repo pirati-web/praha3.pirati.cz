@@ -1,8 +1,8 @@
 ---
-layout: communal-elections
-title: Komunální volby v Praze
-campaignCategoryUid: praha2018
-candidateListUid: radnice # uid z `_candidates/radnice.md`
+layout: default
 ---
-
-
+<div class="row" style="text-align: center">
+  <div class="medium-12 large-12 columns">
+    {% include_relative program.html %}
+  </div>
+</div>
