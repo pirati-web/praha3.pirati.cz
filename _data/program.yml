@@ -12,16 +12,16 @@
   redmine: 25458
 -
   id: 3
-  title: Zlepšíme kvalitu vzdělání
-  desc: Z rozpočtu Prahy 6 dáme peníze ředitelům škol zřizovaných Prahou 6 na osobní ohodnocení pedagogů. Rozšíříme kapacity MŠ i ZŠ, do nichž bude možné děti zapsat a registrovat elektronicky bez nutnosti každoročních front a stresů.
-  garant: vaclav.fortik
-  redmine: 14405
+  title: Informatika a web
+  desc: 
+  garant: stepan.strebl
+  redmine: 25472
 -
   id: 4
-  title: Vylepšíme a opravíme Prahu 6
-  desc: Opravíme a veřejnosti dáme k užívání dlouho chátrající budovy, jako je Dejvická 4, trojdomí v Šolínově ulici nebo usedlost na Šatovce. Zrekonstruujeme Polikliniku pod Marjánkou – konečnou podobu určíme na základě komunitního plánování, po diskusi s lékaři, občany, památkáři i architekty.
-  garant: jan.lejcko
-  redmine: 14406
+  title: Školství a volný čas dětí a mládeže
+  desc: 
+  garant: stepan.strebl
+  redmine: 25488
 -
   id: 5
   title: Obnovíme bytový fond
