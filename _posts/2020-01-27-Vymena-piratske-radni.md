@@ -14,7 +14,7 @@ Koaliční smlouva aktuálního vedení radnice (TOP 09 + STAN, Piráti, Zelení
 
 Navržený radní Jan Bartko absolvoval bakalářské studium na Fakultě humanitních studií Univerzity Karlovy. V současnosti pracuje v mezinárodním depozitáři cenných papírů a studuje magisterský obor Veřejná a sociální politika na Fakultě sociálních věd Univerzity Karlovy. V zastupitelstvu MČ Praha 3 působí v pozici předsedy Finančního výboru a člena Komise pro vedlejší hospodářskou činnost.  
 
-Kontakt:  
+**Kontakt:**  
 Bc. Michal Gill (odborný asistent radních za Pirátskou stranu Prahy 3)  
 michal.gill@pirati.cz  
 +420603590571  
