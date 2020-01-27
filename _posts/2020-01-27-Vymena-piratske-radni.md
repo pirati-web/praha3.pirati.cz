@@ -2,7 +2,7 @@
 date: 2020-01-27
 category: blog
 layout: post
-title: TZ - Výměna pirátské radní Prahy 3
+title: Tisková zpráva - Výměna pirátské radní Prahy 3
 author: Michal Gill
 image: posts/Radnice.jpg
 ---
