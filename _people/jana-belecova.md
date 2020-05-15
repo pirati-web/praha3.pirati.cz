@@ -4,7 +4,6 @@ name:     Jana Belecová  	# běžně používáné jméno
 fullname: Jana Belecová  	# jméno s tituly etc.
 category:
   - clenove
-  - zastupitel
   - mv
 ordr: 2
 ordclenove: 12
