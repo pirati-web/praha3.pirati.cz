@@ -3,6 +3,7 @@ uid: jan.bartko
 name:     Jan Bartko  	# běžně používáné jméno
 fullname: Jan Bartko  	# jméno s tituly etc.
 category:
+  - radni
   - clenove
   - zastupitel
   - fv
