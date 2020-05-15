@@ -3,7 +3,6 @@ uid: jana.belecova
 name:     Jana Belecová  	# běžně používáné jméno
 fullname: Jana Belecová  	# jméno s tituly etc.
 category:
-  - radni
   - clenove
   - zastupitel
   - mv
