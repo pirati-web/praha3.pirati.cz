@@ -1,5 +1,5 @@
 ---
-date: 2020-05-17
+date: 2010-01-01
 category: blog
 layout: post
 title: Chronologie vývoje situace na Praze 3 od voleb 2018 do současnosti
