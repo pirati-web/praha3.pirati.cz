@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Stanovisko zastupitelského klubu České pirátské strany Prahy 3 k odvolání radní Jany Belecové
 author: Zastupitelský klub
-image:
+image: posts/Radnice.jpg
 ---
 
 Následující stanovisko je reakcí na zhoršující se vztahy mezi manželi Belecovými a zbytkem pirátské buňky Prahy 3, jakož i reakcí na pomlouvačnou kampaň manželů Belecových na webu rovnyzada.cz, kde prezentují zavádějící nebo i vyloženě lživé výroky.
