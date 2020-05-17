@@ -1,5 +1,5 @@
 ---
-date: 0020-01-01
+date: 2020-05-16
 category: blog
 layout: post
 title: Chronologie vývoje situace na Praze 3 od voleb 2018 do současnosti
