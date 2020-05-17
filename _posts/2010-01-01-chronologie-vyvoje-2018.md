@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Chronologie vývoje situace na Praze 3 od voleb 2018 do současnosti
 author: Zastupitelský klub
-image:
+image: posts/Radnice.jpg
 ---
 
 Celá současná komunikační krize odstartovala po komunálních volbách 2018. Jana Belecová, nově zvolená zastupitelka, byla nespokojená s návrhem Štěpána Štrébla a vyjednávacího týmu na obsazení rady MČ Praha 3 (původní složení rady v době ustavujícího zastupitelstva), v němž nebyla navržena jako radní. Když návrh prošel, nechala se přede svědky slyšet, že Štěpána Štrébla, nového místostarostu, “sestřelí”. Od té doby začal intenzivní nátlak na radní ze strany manželů Belecových; svědky jsou všichni členové, kteří v té době chodili na schůze místního sdružení (dále jen MS) Praha 3.
