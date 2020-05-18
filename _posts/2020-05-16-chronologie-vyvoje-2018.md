@@ -3,7 +3,7 @@ date: 2020-05-16
 category: blog
 layout: post
 title: Chronologie vývoje situace na Praze 3 od voleb 2018 do současnosti
-author: Zastupitelský klub[text](https://link)
+author: Zastupitelský klub
 image: posts/Radnice.jpg
 ---
 
@@ -21,7 +21,7 @@ K situaci nepřispěla ani opakovaná neúspěšná snaha o vstup do strany a MS
 
 Vše výše zmíněné vedlo k tomu, že zbytek zastupitelského klubu 14. ledna 2020 jednohlasně vyzval Janu Belecovou k rezignaci. Ta následně rezignaci odmítla, čímž zastupitelský klub přistoupil k avizované snaze o její odvolání z rady MČ. Během vyjednávání s koaličními partnery vyšlo najevo, že Jana Belecová zaslala koaličním partnerům email, ve kterém se dožadovala jejich podpory. Tím po nich požadovala porušení bodu IV.4.3. koaliční smlouvy, který říká, že “koaliční strany budou respektovat personální nominace ostatních koaličních stran do Rady městské části.”
 
-V tomto období také začal Rudolf Belec obcházet členy MS a přesvědčovat je, aby se přiklonili na stranu jeho ženy. Opakovaně zmiňoval, že pokud skutečně dojde na odvolávání Jany Belecové, budou medializovat zmíněný incident z 1. října 2019, ve kterém budou Janu stavět do role oběti fyzického napadení ze strany Štěpána Štrébla (v tomto kontextu je nutné uvést, že k žádnému fyzickému napadení nedošlo, což potvrzují i svědci).
+V tomto období také začal Rudolf Belec obcházet členy MS a přesvědčovat je, aby se přiklonili na stranu jeho ženy. Opakovaně zmiňoval, že pokud skutečně dojde na odvolávání Jany Belecové, budou medializovat zmíněný incident z 1. října 2019, ve kterém budou Janu stavět do role oběti napadení ze strany Štěpána Štrébla (v tomto kontextu je nutné uvést, že k žádnému fyzickému napadení nedošlo, což potvrzují i svědci).
 
 Následovala profesionální mediace, hrazená zbytkem zastupitelského klubu, na které bylo usilováno o zakopání příkopů. Na této mediaci nicméně Jana Belecová znovu vyhrožovala mediálním poškozováním strany a brala si ji jako rukojmí. Následně z mediace předčasně odešla.
 
