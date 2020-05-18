@@ -13,6 +13,8 @@ Manželé Jana a Rudolf Belecovi odpracovali hodně v kampani 2017, této jejich
  
 Dále vyšlo najevo, že Jana Belecová ani toto usnesení zastupitelského klubu nerespektovala a místo toho žádala o udržení ve své placené funkci zástupce koaličního partnera TOP09. Současně vyhrožovala negativní mediální kampaní proti Pirátům. Byla vyloučena z klubu zastupitelů a bylo nutné vést složitá koaliční jednání ke změně personální nominace. Následně Jana Belecová obtelefonovávala členy strany, aby si zajistila podporu, a spolu s manželem si objednali placenou online kampaň s cílem vyvíjet nátlak na Piráty, aby si zachovala placenou funkci. Kontrolní komise Pirátů, kterou historicky rozhodně nelze podezřívat ze stranění Pirátům Prahy 3, nezjistila žádné porušení předpisů, už proto, že personální nominace do rady MČ jsou v gesci klubu a místního sdružení Pirátů Praha 3. Na nejbližším zasedání zastupitelstva, které se koná 26. května, navrhnou Piráti odvolání Jany Belecové z funkce uvolněné radní, jako i nominaci jejího nástupce.
 
+Aktualizace: Od manželů Belecových jsme obdrželi vyděračský dopis, že pokud písemně nepotvrdíme, že zachováme Janě Belecové placenou funkci, spustí proti nám diskreditační kampaň. Do politiky jsme šli kvůli tomu, abychom tyto špinavé praktiky vymýtili a od takového chování se distancujeme.
+
 Pro podrobný sled událostí posledních dvou let [pokračujte sem](https://praha3.pirati.cz/aktuality/chronologie-vyvoje-2018.html).
 
 - - -
