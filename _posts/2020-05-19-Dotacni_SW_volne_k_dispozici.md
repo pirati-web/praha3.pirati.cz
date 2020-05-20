@@ -2,8 +2,7 @@
 date: 2020-05-19
 category: blog
 layout: post
-title: Piráti začali první úředníky nahrazovat robotem:
-dotační software Prahy 3 nyní volně k dispozici všem
+title: Piráti začali první úředníky nahrazovat robotem: dotační software Prahy 3 nyní volně k dispozici všem
 author: Štěpán Štrébl, Michal Gill
 image: posts/OM.png
 ---
