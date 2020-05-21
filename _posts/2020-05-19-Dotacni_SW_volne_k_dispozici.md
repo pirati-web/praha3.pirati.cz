@@ -2,7 +2,7 @@
 date: 2020-05-19
 category: blog
 layout: post
-title: Dotační software Prahy 3 nyní díky Pirátům volně k dispozici všem
+title: Piráti robotizují - dotační software Prahy 3 nyní díky Pirátům volně k dispozici všem
 author: Štěpán Štrébl, Michal Gill
 image: posts/OM.png
 ---
@@ -16,8 +16,6 @@ Praha 3 a Otevřená města už registrují řadu zájemců, především z řad
 Kompletní přepis celého software a odstranění zásadních bezpečnostních zranitelností stály  pouhých 80 tisíc korun, tedy cenu necelých tří měsíců dosavadního předraženého provozu. Praha 3 nyní plánuje investovat do dalších zlepšení, které povedou k ještě vyšší míře automatizace.
  
 „Předchozí vedení radnice nechalo původní program vyvinout za 650 tisíc a naše městská firma jej provozovala za neuvěřitelných 30 tisíc měsíčně. Přitom nic neautomatizoval a lidé stejně žádosti nosili na úřad vytištěné. Původní verze byla navíc tak děravá, že nám Národní úřad pro kybernetickou bezpečnost doporučil program ihned odstavit. Museli jsme program celý kompletně přepsat, ale vyplatilo se to. Alespoň jsme předvedli, že státní IT zakázky nemusí být vždycky předražené a výsledek může stát za to,” uvádí Štěpán Štrébl, místostarosta Prahy 3.
-
-
  
 Před Piráty:
 650 000,- Kč za vývoj + 360 000,- Kč ročně (30 000,- Kč měsíčně jen za provoz programu). Použití pouze jedním uživatelem, a to Prahou 3 (program nešlo poskytovat dál kvůli autorským právům).
