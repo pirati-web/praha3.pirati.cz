@@ -8,7 +8,7 @@ category:
 ordpms: 2
 ordr: 4
 ordz: 12
-ordclenove: 21
+ordclenove: 25
 description: mediální manažer místního sdružení # zobrazuje se v lide
 profession: asistent pirátských radních MČ Praha 3
 img: people/michal-gill.jpg # zakomentuj radek dokud není fotka
