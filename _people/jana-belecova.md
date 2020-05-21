@@ -4,13 +4,12 @@ name:     Jana Belecová  	# běžně používáné jméno
 fullname: Jana Belecová  	# jméno s tituly etc.
 category:
   - clenove
-  - zastupitel
   - mv
 ordr: 2
 ordclenove: 12
 ordz: 6
 description: předsedkyně Majetkového výboru, členka místního sdružení # zobrazuje se v lide
-profession: Vysokoškolský pedagog, fyzik
+profession:
 img: people/jana-belecova.jpg # zakomentuj radek dokud není fotka
 mail:
   - jana.belecova@pirati.cz
