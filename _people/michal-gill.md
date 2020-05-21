@@ -5,7 +5,7 @@ name: Michal Gill  	# běžně používáné jméno
 fullname: Bc. Michal Gill  	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 21
+ordclenove: 22
 description: mediální manažer místního sdružení # zobrazuje se v lide
 profession: administrativa, PR; t.č. asistent pirátských radních MČ Praha 3
 img: people/michal-gill.jpg # zakomentuj radek dokud není fotka
@@ -36,7 +36,6 @@ Telefon: +420 222 116 782; Mobil: +420 603 590 571
 
 Datová schránka: 5b23hye
 
-Kancelář
+Kancelář:
 Havíčkovo náměstí 700/9
 Praha 3, 13000
-Česká republika
