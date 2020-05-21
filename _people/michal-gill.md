@@ -1,16 +1,13 @@
 ---
 
 uid: michal.gill
-name:     Michal Gill  	# běžně používáné jméno
+name: Michal Gill  	# běžně používáné jméno
 fullname: Bc. Michal Gill  	# jméno s tituly etc.
 category:
   - clenove
-ordpms: 2
-ordr: 4
-ordz: 12
 ordclenove: 21
 description: mediální manažer místního sdružení # zobrazuje se v lide
-profession: asistent pirátských radních MČ Praha 3
+profession: administrativa, PR; t.č. asistent pirátských radních MČ Praha 3
 img: people/michal-gill.jpg # zakomentuj radek dokud není fotka
 mail:
   - michal.gill@pirati.cz
