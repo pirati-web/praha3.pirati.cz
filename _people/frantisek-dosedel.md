@@ -8,6 +8,7 @@ category:
   - radni
   - zastupitel
   - dv
+  - clenove
 ordpms: 2
 ordr: 4
 ordz: 12
