@@ -17,4 +17,6 @@ Aktualizace: Od manželů Belecových jsme v neděli 17.5.2020 obdrželi vyděra
 
 Pro podrobný sled událostí posledních dvou let [pokračujte sem](https://praha3.pirati.cz/aktuality/chronologie-vyvoje-2018.html).
 
+Pro stanovisko předsedy poslaneckého klubu Jakuba Michálka a stanovisko Republikového předsednictva strany [pokračujte sem](https://forum.pirati.cz/viewtopic.php?f=78&t=52478&sid=125b067f6fc854e2f037eacb03e4a1f2).
+
 - - -
