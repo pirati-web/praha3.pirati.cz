@@ -17,8 +17,10 @@ mail:
 profiles:
   facebook: https://www.facebook.com/pavel.musil.94  # pokud nema, staci smazat tuto radku
 ---
-Narodil se v Praze. Je advokátem. Jako advokát působí od roku 2001, v minulosti zastupoval mimo jiné i Občanské sdružení Kauza 3 a jeho členy v souvislosti s kritickými články vůči radnici a místním politikům s manýry klientelismu a zneužívání moci. Absolvoval Právnickou fakultu Univerzity Karlovy a postgraduální studium na této fakultě v oboru veřejná správa. Momentálně se angažuje v projektu transparentního informování státní správy o platech jejích nejvyšších úředníků www.platytopuredniku.cz. Zatím ve volbách nekandiidoval za žádnou politickou stranu, do politiky vstupuje až na palubě Pirátů.
+Narodil se v Praze. Je advokátem v současné koalici Prahy 3 zastává post neuvolněného radního s gescemi transparence, zapojení občanů a zastupuje MČ ve vztahu s jejími akciovými společnostmi.
 
-Rád by se na Praze 3 věnoval tématu zodpovědného hospodaření, zveřejňování smluv a transparentního účtu radnice. 
+Jako advokát působí od roku 2001, v minulosti zastupoval mimo jiné i Občanské sdružení Kauza 3 a jeho členy v souvislosti s kritickými články vůči tehdejší radnici a místním politikům s manýry klientelismu a zneužívání moci. Absolvoval Právnickou fakultu Univerzity Karlovy a postgraduální studium na této fakultě v oboru veřejná správa. Angažuje se v projektu transparentního informování státní správy o platech jejích nejvyšších úředníků www.platytopuredniku.cz. Před Piráty ve volbách nekandidoval za žádnou politickou stranu, do politiky vstoupil až na palubě Pirátů v roce 2018.
+
+Na radnici se věnuje tématům zodpovědného hospodaření, zveřejňování smluv a transparentním účtům.
 
 Oblíbený citát: "Dobro, které může člověk vykonat, je prý neomezené, pokud mu nezáleží na tom, kdo z toho bude mít prospěch." - R. Fulghum
