@@ -23,7 +23,7 @@ profiles:
 
 ---
  
-Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, od roku 2006 žije v Praze. Je zaměstnán jako advokátní koncipient.
+Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, od roku 2006 žije v Praze. Je zaměstnán jako advokátní koncipient a od června 2019 je neuvolněným radním Prahy 3 pro sport, tělovýchovu a dotační politiku.
 
 V rámci Pirátů se věnuje obzvláště obecné právní problematice, sdílené ekonomice a tomu, aby se nám všem (nejen) na Praze 3 žilo dobře.
 
