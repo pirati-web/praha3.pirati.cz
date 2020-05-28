@@ -7,7 +7,6 @@ category:
   - clenove
   - zastupitel
   - fv
-  - vhc
 ordclenove: 6
 ordr: 2
 ordz: 3
