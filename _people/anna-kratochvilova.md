@@ -5,10 +5,9 @@ fullname: Anna Kratochvílová  	# jméno s tituly etc.
 category:
   - clenove
   - zastupitel
-  - kvv
 ordclenove: 39
 ordz: 15
-description: Zastupitelka, členka Komise pro výchovu a vzdělávání, členka místního sdružení # zobrazuje se v lide
+description: Zastupitelka, členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
 mail:
@@ -16,4 +15,4 @@ mail:
 profiles:
   facebook: https://www.facebook.com/anna.kratochvilova.5  # pokud nema, staci smazat tuto radku
 ---
-Vystudovala na University of London (BA) a na Oxfordu (MSt.) ve Velké Británii. Pracuje na britském velvyslanectví jako politická konzultantka, kde se věnuje především české politice a jejímu vztahu k brexitu. V Pirátech se angažuje od března 2017. Zajímá se o zahraniční politiku, zejména pak evropskou.  
+Vystudovala na University of London (BA) a na Oxfordu (MSt.) ve Velké Británii. Pracuje na britském velvyslanectví jako politická konzultantka, kde se věnuje především české politice a jejímu vztahu k brexitu. V Pirátech se angažuje od března 2017. Zajímá se o zahraniční politiku, zejména pak evropskou.
