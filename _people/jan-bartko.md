@@ -18,7 +18,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/jan.bartko.9  # pokud nema, staci smazat tuto radku
 ---
-Pochází z Ostravy a od roku 2008 žije v Praze. V současnosti studuje na Fakultě humanitních studií Univerzity Karlovy se specializací na historii a filozofii. V minulosti pořádal akce Food not Bombs, a věnoval se politickému aktivismu na neformální úrovni. Má rád umění, architekturu, věnuje se pěstování bonsají. Většinu života působil ve finančním sektoru; zabýval se settlementem burzovních transakcí. Od května 2020 je radním Prahy 3 pro životní prostředí, informatiku a privatizace.
+Pochází z Ostravy a od roku 2008 žije v Praze. Bakalářský titul získal na Fakultě humanitních studií Univerzity Karlovy se specializací na historii a filozofii. Aktuálně na téže univerzitě studuje navazující magisterský obor Veřejná a sociální politika na Fakultě sociálních věd. V minulosti pořádal akce Food not Bombs, a věnoval se politickému aktivismu na neformální úrovni. Má rád umění, architekturu, věnuje se pěstování bonsají. Většinu života působil ve finančním sektoru; zabýval se settlementem burzovních transakcí. Od května 2020 je radním Prahy 3 pro životní prostředí, informatiku a privatizace.
 
 Jeho oblíbené citáty: 
 “Variety is life, uniformity is death.“
