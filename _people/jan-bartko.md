@@ -11,8 +11,8 @@ category:
 ordclenove: 6
 ordr: 2
 ordz: 3
-description: Zastupitel, člen Finančního výboru a Komise pro VHČ, člen místního sdružení # zobrazuje se v lide
-profession: Vysokoškolský pedagog, fyzik
+description: Radní, předseda Finančního výboru a člen Komise pro VHČ, člen místního sdružení # zobrazuje se v lide
+profession:
 img: people/jan-bartko.jpg # zakomentuj radek dokud není fotka
 mail:
   - jan.bartko@pirati.cz
