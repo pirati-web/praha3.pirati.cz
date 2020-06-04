@@ -23,3 +23,5 @@ Pochází z Ostravy a od roku 2008 žije v Praze. Bakalářský titul získal na
 Jeho oblíbené citáty: 
 “Variety is life, uniformity is death.“
 “Jeden odvážný čin vykoná víc než tisíc brožurek.” - Petr Kropotkin 
+
+Veřejný kalendář Jana Bartka najdete [zde](https://outlook.office365.com/calendar/published/349991a71ba640c3b0302ab3e57a8d50@praha3.cz/aa50bd0f2cd4488a9f11edc8761b094e13554020364500732045/calendar.html).
