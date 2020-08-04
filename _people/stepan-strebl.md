@@ -17,7 +17,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/sstrebl  # pokud nema, staci smazat tuto radku
 ---
-Narodil se v Praze a toho času je místostarostou Prahy 3 pro oblasti školství a zahraničních vztahů.
+Narodil se v Praze a toho času je místostarostou Prahy 3 pro oblasti školství a zahraničních vztahů. Zároveň je předsedou Komise pro transparentnost a informatiku.
 
 Vystudoval UCLA v USA a University of Cambridge ve Velké Británii. Je aktivním členem Pirátské strany. Na radnici Prahy 3 směřoval před volbami 2018 s tímto citátem: "Chtěl bych se věnovat transparentnosti radnice - zavést transparentní účty a rozklikávací rozpočet, faktury online. Zavedl bych online petice, aby sami občané mohli snadno poslat podnět a zapojit se do rozhodování o jejich komunitě. Zlepšil bych přívětivost radnice vůči občanům (=klientům). V neposlední řadě podpořím výsadbu stromů a zeleně, aby na Praze 3 nebylo v létě takové vedro jen kvůli rozpálenému betonu."
 
