@@ -23,4 +23,4 @@ Pochází z Prahy a od narození žije na pražském Žižkově. Vystudoval apli
 
 Oblíbený citát: "Na citáty kašlu, mám radši excelové tabulky". - Jiří Svrček 
 
-Pomoci by chtěl ve zlepšení životního prostředí v naší Praze 3, a ve větší transparentnosti výběrových řízení při údržbě parků a zeleně. 
+Pomoci by chtěl ve zlepšení životního prostředí v naší Praze 3, a ve větší transparentnosti výběrových řízení při údržbě parků a zeleně. Je členem Výboru pro územní rozvoj.
