@@ -6,6 +6,7 @@ category:
   - radni
   - clenove
   - zastupitel
+  - it
 ordr: 1
 ordz: 24
 ordclenove: 63
