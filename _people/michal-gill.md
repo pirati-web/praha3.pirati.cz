@@ -6,7 +6,7 @@ fullname: Bc. Michal Gill  	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 22
-description: mediální manažer místního sdružení # zobrazuje se v lide
+description: Mediální manažer místního sdružení, asistent pirátských radních # zobrazuje se v lide
 profession: administrativa, PR; t.č. asistent pirátských radních MČ Praha 3
 img: people/michal_gill.jpg # zakomentuj radek dokud není fotka
 mail:
