@@ -50,7 +50,7 @@ groups:
   - name: Majetková komise RMČ Praha 3 – zástupci za Piráty
     category: mk
     sort: ordpms
-  - name: Redakční rada Novin Prahy 3 – zástupci za Piráty
+  - name: Redakční rada Radničních novin Prahy 3 – zástupci za Piráty
     category: rr
     sort: ordpms
   - name: Komise rozvoje RMČ Praha 3 – zástupci za Piráty
