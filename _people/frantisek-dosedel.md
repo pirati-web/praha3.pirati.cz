@@ -7,7 +7,6 @@ category:
   - pms
   - radni
   - zastupitel
-  - clenove
 ordpms: 2
 ordr: 4
 ordz: 12
