@@ -15,6 +15,6 @@ Nový materiál sestává z průvodní zprávy, tabulky vhodnosti jednotlivých 
 
 Primátor Prahy Zdeněk Hřib se zavázal k tomu, že v Praze za čtyři roky vysadí milion stromů. Např. v okrajových částech města s řidší a modernější zástavbou je to ale logicky snazší, než je tomu třeba u Prahy 1, 2 či 3. Ty se svou hustou historickou zástavbou mají jak více důvodů k boji s klimatickou změnou, tak více překážek, které musí zdolat; a to obzvláště teď, v letních měsících, s nesnesitelným horkem.
 
-Kompletní zveřejněnou studii naleznete [zde](https://www.praha3.cz/samosprava/otevrena-data/studie-a-analyzy-zadane-mestskou-casti-praha-3/podkladova-studie-pro-vysadbu-stromu-ve-stromoradi-na-uzemi-mc-praha-3-n909435.htm)
+Kompletní zveřejněnou studii naleznete [zde](https://www.praha3.cz/samosprava/otevrena-data/studie-a-analyzy-zadane-mestskou-casti-praha-3/podkladova-studie-pro-vysadbu-stromu-ve-stromoradi-na-uzemi-mc-praha-3-n909435.htm).
 
 - - -
