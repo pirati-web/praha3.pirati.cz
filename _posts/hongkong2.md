@@ -17,4 +17,6 @@ Městská část Praha 3 v srpnu pozvala na návštěvu Prahy hongkongského dis
 
 Městská část Praha 3 i Simon Cheng jsou však i přes mlhavou odpověď MZV odhodláni návštěvu zrealizovat. „Cestu vnímáme jako nutnost i s ohledem na signál vůči dalším občanům Hongkongu. Uprchlíci před totalitou se dříve mohli mimo východní blok cítit bezpečně. Rádi bychom věřili tomu, že čínská chapadla nesahají až k nám. Bohužel se budeme muset přesvědčit až praxí,” dodává Štrébl.
 
+Foto: BBC
+
 - - -
