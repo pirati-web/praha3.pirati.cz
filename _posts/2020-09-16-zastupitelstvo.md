@@ -31,7 +31,7 @@ Níže přinášíme ty nejlepší opoziční hlášky, které včera zazněly j
 
 **Alexander Bellu (ODS,KDU-ČSL, Svobodní):** „Já nevím, pod jakými léčivy je pan Vronský doma. Já netuším, jaké medikamenty má a jestli vůbec je schopen vykonávat funkci dneska nebo ne.“
 
-a na závěr místostarosta **Štěpán Štrébl (Piráti)** velmi trefně v reakci na pana Bellu: „Já jenom chci upozornit, že u pana Bellu taky nevíme, jestli něco nebere, nebo jestli není pod vlivem nějakých drog. Ta osobní přítomnost nám to nijak nepomáhá zjistit.“
+A na závěr místostarosta **Štěpán Štrébl (Piráti)** velmi trefně v reakci na pana Bellu: „Já jenom chci upozornit, že u pana Bellu taky nevíme, jestli něco nebere, nebo jestli není pod vlivem nějakých drog. Ta osobní přítomnost nám to nijak nepomáhá zjistit.“
 
 Za Piráty celé včerejší chování opozice považujeme za neomluvitelné. Bránit zastupitelům, kteří jsou nemocní či v nařízené karanténě, ve výkonu jejich ústavního práva zastupovat své voliče, navíc ve 21. století, které vzdálenou účast hravě umožňuje, máme za nelidské.
 
