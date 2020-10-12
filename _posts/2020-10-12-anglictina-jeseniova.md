@@ -7,7 +7,7 @@ author: Michal Gill
 image: posts/jeseniova.jpg
 ---
 
-Praha 3 dnes ve spolupráci s absolventy pedagogiky z Harvardské univerzity spustila výuku angličtiny online. V pilotním projektu povede hodiny angličtiny skupiny 12 žáků čtvrté třídy ZŠ Jeseniova dvakrát týdně kvalifikovaný učitel ze Spojených států v tandemu s českou učitelkou angličtiny, která ve třídě angličtinu běžně učí. Školu bylo nutné vybavit audiovizuální technikou a dotykovými laptopy, na nichž každý žák pracuje. Kromě dynamických hodin s kvalifikovaným rodilým mluvčím jde i o příležitost pro české učitele seznámit se z první ruky s metodami výuky angličtiny pro cizince ve Spojených státech.
+Praha 3 minulý týden ve spolupráci s absolventy pedagogiky z Harvardské univerzity spustila výuku angličtiny online. V pilotním projektu povede hodiny angličtiny skupiny 12 žáků čtvrté třídy ZŠ Jeseniova dvakrát týdně kvalifikovaný učitel ze Spojených států v tandemu s českou učitelkou angličtiny, která ve třídě angličtinu běžně učí. Školu bylo nutné vybavit audiovizuální technikou a dotykovými laptopy, na nichž každý žák pracuje. Kromě dynamických hodin s kvalifikovaným rodilým mluvčím jde i o příležitost pro české učitele seznámit se z první ruky s metodami výuky angličtiny pro cizince ve Spojených státech.
 
 Technologiemi nabitý projekt prosadil místostarosta Štěpán Štrébl (Piráti), který sám v USA a Anglii vystudoval. Sehnal přímo v USA spolupracující učitele, kteří měli zkušenost s podobným typem výuky v Asii. Spolupráci Štrébl domlouval od ledna a přípravy nezastavila ani epidemie koronaviru. Od letních prázdnin pak události nabraly rychlý spád. ZŠ Jeseniova byla vybavena technikou a učitelka angličtiny nyní prochází školením s výukovým software a sehrává se s její americkou kolegyní.
 
