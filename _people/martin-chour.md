@@ -3,10 +3,11 @@ uid: martin.chour
 name:     Martin Chour  	# běžně používáné jméno
 fullname: Martin Chour  	# jméno s tituly etc.
 category:
+  - zastupitel
   - clenove
   - dk
 ordclenove: 30
-description: Člen Dopravní komise, člen místního sdružení # zobrazuje se v lide
+description: Zastupitel, člen Dopravní komise, člen místního sdružení # zobrazuje se v lide
 profession: Student gymnázia
 img: people/martin-chour.jpg # zakomentuj radek dokud není fotka
 mail:
