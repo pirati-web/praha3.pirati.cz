@@ -2,7 +2,7 @@
 date: 2020-10-22
 category: blog
 layout: post
-title: Reakce místostarosty Štrébla na útok lidovce Homoly - Šok; místostarosta vlastní firmu.
+title: Reakce místostarosty Štrébla na útok lidovce Homoly
 author: Štěpán Štrébl
 image: posts/stepan.jpg
 ---
