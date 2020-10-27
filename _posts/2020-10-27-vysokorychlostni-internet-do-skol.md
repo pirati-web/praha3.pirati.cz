@@ -1,5 +1,5 @@
 ---
-date: 2020-10-22
+date: 2020-10-27
 category: blog
 layout: post
 title: Praha 3 zavádí vysokorychlostní internet do všech svých škol
