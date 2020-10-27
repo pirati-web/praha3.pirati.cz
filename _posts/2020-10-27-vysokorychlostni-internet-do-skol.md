@@ -3,7 +3,7 @@ date: 2020-10-27
 category: blog
 layout: post
 title: Praha 3 zavádí vysokorychlostní internet do všech svých škol
-author: Štěpán Štrébl
+author: Michal Gill
 image: posts/keyboard.jpg
 ---
 
