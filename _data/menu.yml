@@ -17,7 +17,7 @@ main:
     name: O nás
     match: lide
   - link: /lide/zastupitelsky-klub/
-    name: Zastupitelský klub
+    name: Plnění programu
     match: zastupitelsky-klub
   - link: /komunalni-volby/
     name: Komunální volby
