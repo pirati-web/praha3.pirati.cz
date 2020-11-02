@@ -17,10 +17,10 @@ main:
     name: O nás
     match: lide
   - link: /lide/zastupitelsky-klub/
-    name: Plnění programu
+    name: Zastupitelský klub
     match: zastupitelsky-klub
   - link: /komunalni-volby/
-    name: Komunální volby
+    name: Plnění programu
     match: komunalni-volby
   - link: /kontakt/
     name: Kontakt
