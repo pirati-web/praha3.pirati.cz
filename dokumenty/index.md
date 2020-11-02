@@ -1,14 +1,14 @@
 ---
 layout: documents
 description: popis
-keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
-# Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
-# noresidence: yes
+keywords: dokumenty
 contentSize: default
-# Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
-# contentSize: even
 ---
 
-text [praha.pirati.cz](https://praha.pirati.cz/)
+Volební program 2018
+
+Povolební strategie 2018
+
+[Koaliční smlouva 2018](https://www.praha3.cz/samosprava/zastupitelstvo/koalicni-dohoda-pro-obdobi-20182022)
 
 ---
