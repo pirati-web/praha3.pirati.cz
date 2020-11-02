@@ -1,12 +1,8 @@
 ---
-layout: contacts
+layout: default
 description: Programové dokumenty Pirátů Prahy 3
 keywords: dokumenty
-# Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
-# noresidence: yes
 contentSize: default
-# Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
-# contentSize: even
 ---
 
 Volební program 2018
