@@ -20,7 +20,7 @@ na pravidelnou schůzi, o které se dozvíte na [našem Facebooku](https://www.f
 
 Chcete přístup k pirátským systémum? Regitrujte se na [nalodění](https://nalodeni.pirati.cz/).
 
-Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
+Finanční dary můžete posílat [zde](https://dary.pirati.cz).
 
 Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
