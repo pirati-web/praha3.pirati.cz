@@ -25,7 +25,6 @@ Finanční dary můžete posílat [zde](https://dary.pirati.cz).
 Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
 <br/>
-<br/>
 
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Ke stažení</h1>
