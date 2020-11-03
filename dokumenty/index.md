@@ -1,11 +1,12 @@
 ---
 layout: default
+title: Dokumenty
 description: Programové dokumenty Pirátů Prahy 3
 keywords: dokumenty
 contentSize: default
 ---
 
-# Zde naleznete základní dokumenty místního sdružení Pirátů na Praze 3:
+## Zde naleznete základní dokumenty místního sdružení Pirátů na Praze 3:
 
 Volební program 2018
 
