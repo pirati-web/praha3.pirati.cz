@@ -24,3 +24,14 @@ Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
 
 Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
+
+<div class="o-section-header o-section-header--indented">
+  <h1 class="t-h2-alt">Ke stažení</h1>
+</div>
+
+Volební program 2018
+
+Povolební strategie 2018
+
+Koaliční smlouva 2018 [zde](https://www.praha3.cz/samosprava/zastupitelstvo/koalicni-dohoda-pro-obdobi-20182022)
+
