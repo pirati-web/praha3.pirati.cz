@@ -14,7 +14,7 @@
   id: 3
   title: Informatika a web
   desc: 
-  garant: stepan.strebl
+  garant: jan.bartko
   redmine: 25472
 -
   id: 4
@@ -24,30 +24,18 @@
   redmine: 25488
 -
   id: 5
-  title: Kultura a cestovní ruch
-  desc: 
-  garant: jana.belecova
-  redmine: 25504
--
-  id: 6
   title: Životní prostředí
   desc: 
-  garant: jana.belecova
+  garant: jan.bartko
   redmine: 25520
 -
-  id: 7
-  title: Strategické plánování
-  desc: 
-  garant: jana.belecova
-  redmine: 25536
--
-  id: 8
+  id: 6
   title: Dotace
   desc: 
   garant: frantisek.dosedel
   redmine: 25540
 -
-  id: 9
+  id: 7
   title: Sport a tělovýchova
   desc: 
   garant: frantisek.dosedel
