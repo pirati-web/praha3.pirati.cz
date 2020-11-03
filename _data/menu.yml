@@ -22,11 +22,8 @@ main:
   - link: /komunalni-volby/
     name: Plnění programu
     match: komunalni-volby
-  - link: /dokumenty/
-    name: Dokumenty
-    match: dokumenty
   - link: /kontakt/
-    name: Kontakt
+    name: Kontakty a ke stažení
     match: kontakt
 
 bottom:
