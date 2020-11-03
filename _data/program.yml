@@ -10,18 +10,18 @@
   desc: 
   garant: pavel.musil
   redmine: 25458
--
+  -
   id: 3
-  title: Informatika a web
-  desc: 
-  garant: jan.bartko
-  redmine: 25472
--
-  id: 4
   title: Školství a volný čas dětí a mládeže
   desc: 
   garant: stepan.strebl
   redmine: 25488
+-
+  id: 4
+  title: Informatika a web
+  desc: 
+  garant: jan.bartko
+  redmine: 25472
 -
   id: 5
   title: Životní prostředí
