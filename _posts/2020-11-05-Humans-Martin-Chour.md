@@ -2,7 +2,7 @@
 date: 2020-11-05
 category: blog
 layout: post
-title: Piráti z Trojky: Martin Chour
+title: Piráti z Trojky - Martin Chour
 author: Martin Chour
 image: posts/Martinukone.jpg
 ---
