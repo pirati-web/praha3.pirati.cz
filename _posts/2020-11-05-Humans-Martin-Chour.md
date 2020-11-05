@@ -7,8 +7,6 @@ author: Martin Chour
 image: posts/Martinukone.jpg
 ---
 
-Martin Chour
-
 Můj život jedním slovem? Doprava. Vybral jsem si ji jako svůj studijní obor na univerzitě v Pardubicích, podnikám v dálkové dopravě a zároveň zasedám na Praze 3 v Dopravní komisi. Na Žižkově bydleli moji prarodiče, rodiče a teď i já. Proto je pro mě důležité, aby Praha 3 byla místem, kde se všem dobře žije. A k tomu neodmyslitelně patří právě kvalita dopravní infrastruktury a veřejné dopravy.
 
 Moje angažmá na Trojce začalo už na střední škole, několik let před vstupem do politiky, kdy se mi podařilo vyjednat s ROPIDem posílení spojů z Ohrady na Florenc. Následně jsem inicioval petici za nasazení velkokapacitních kloubových autobusů, díky které jsem se potkal se stovkami lidí a poslechl si jejich podněty ke zlepšení každodenní situace. Chodil jsem tehdy dům od domu a dělal si průzkumy veřejného mínění. Byla to pro mě ohromná zkušenost, ale stále mi chyběla možnost věci aktivně měnit.
