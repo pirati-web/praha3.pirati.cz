@@ -7,7 +7,7 @@ author: Simona Bártová
 image: posts/Michalcovid.jpg
 ---
 
-Pokud jste měli tu smůlu a onemocněli novým koronavirem, je před vámi výjimečná příležitost darovat krevní plasmu s protilátkami. Asistent našich radních Michal to dnes ráno udělal, a proto bychom rádi oslovili i další, kterých by se to mohlo týkat. Po této plasmě je nyní v nemocnicích velká poptávka, protože jsou s její pomocí léčeni pacienti s těžkým průběhem nemoci.
+Pokud jste měli tu smůlu a onemocněli novým koronavirem, je před vámi výjimečná příležitost darovat krevní plasmu s protilátkami. Asistent našich radních Michal (a zároveň člen republikového výboru strany či předsednictva Pirate Parties International) to dnes ráno udělal, a proto bychom rádi oslovili i další, kterých by se to mohlo týkat. Po této plasmě je nyní v nemocnicích velká poptávka, protože jsou s její pomocí léčeni pacienti s těžkým průběhem nemoci.
 
 A co je třeba vědět? Zde máte stručný postup:
 
