@@ -2,7 +2,7 @@
 date: 2020-11-18
 category: blog
 layout: post
-title: Prodělali jste Covid? A zvážili jste darování plasmy?
+title: Prodělali jste Covid? A zvážili jste darování krevní plasmy s protilátkami?
 author: Simona Bártová
 image: posts/Michalcovid.jpg
 ---
