@@ -18,7 +18,7 @@ contentSize: default
 Zajámá vás co Piráti dělají a jak? Ozvěte se [Margitě Brychtové](/lide/margita-brychtova) na margita.brychtova@pirati.cz nebo přijďte k nám
 na pravidelnou schůzi, o které se dozvíte na [našem Facebooku](https://www.facebook.com/PiratiPraha3/).
 
-Chcete přístup k pirátským systémum? Regitrujte se na [nalodění](https://nalodeni.pirati.cz/).
+Chcete přístup k pirátským systémum či odebírat newslettery? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
 
 Finanční dary můžete posílat [zde](https://dary.pirati.cz).
 
