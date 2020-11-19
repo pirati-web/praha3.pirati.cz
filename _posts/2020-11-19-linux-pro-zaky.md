@@ -1,8 +1,8 @@
 ---
-date: 2020-11-18
+date: 2020-11-19
 category: blog
 layout: post
-title: Linux místo Windows - Praha 3 vyřešila problém s chybějícími licencemi na darovaných počítačích otevřeným software
+title: Linux místo Windows
 author: Michal Gill
 image: stepan.jpg
 ---
@@ -13,7 +13,7 @@ Zatímco jiné obce a městské části často o „holé“ počítače moc nes
 
 Všechny programy, které žáci k práci potřebují, jsou totiž zdarma k dispozici v otevřené licenci v dostatečné kvalitě. Není důvod pořizovat drahé licence. Licence často stojí více než samotný stroj. Právě software, který je zdarma, a tudíž jej může využít skutečně každý uživatel, dělá výpočetní techniku přístupnější. Cílem práce s výpočetní technikou má být učení se kompetencím, ne pěstování závislosti na konkrétních programech, k čemuž profesionální balíky svádí. Funkce jsou ve všech programech podobné a standardizované. Žák se díky tomu naučí, že má hledat konkrétní funkci, ne tlačítko vpravo nahoře. Navíc mu nehrozí, že jednou o licenci přijde. 
 
-Darované počítače vždy vyčistí odbor informatiky Prahy 3, nainstaluje do nich operační systém a další otevřený software, který žáci potřebují k práci. Standardní programový balíček pro žáky Prahy 3 tvoří Linux Mint jako operační systém namísto známých Windows, dále MS Teams pro Linux, webový prohlížeč Firefox a kancelářský balík OpenOffice. 
+Darované počítače vždy vyčistí odbor informatiky Prahy 3, nainstaluje do nich operační systém a další otevřený software, který žáci potřebují k práci. Standardní programový balíček pro žáky Prahy 3 tvoří Linux Mint jako operační systém namísto známých Windows, dále MS Teams pro Linux, webový prohlížeč Firefox a kancelářský balík LibreOffice. 
 
 *„Kdyby stát více využíval software, který je zdarma, ušetřil by miliardy, možná desítky miliard. U škol to platí dvojnásob, protože děti skutečně k práci nepotřebují profesionální programy s drahými licencemi. V tomto je koronavirus příležitostí pro vzdělávání všech, protože ani mnozí učitelé nikdy neviděli jiný operační systém než Windows,“* říká místostarosta pro školství Štěpán Štrébl (Piráti), který instalace programů v otevřené licenci do darovaných počítačů inicioval. 
 
