@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Linux místo Windows
 author: Michal Gill
-image: stepan.jpg
+image: posts/stepanlaptop.jpg
 ---
 
 Sbírka počítačů pro děti Prahy 3 úspěšně pokračuje, ale sehnat počítač není vše. Musí mít programy včetně operačního systému. Bohužel většinu programů včetně samotného operačního systému Windows je třeba koupit a licence jsou často drahé. Mnoho darovaných počítačů přijde prázdných bez software, který je třeba do nich doinstalovat. Praha 3 problém vyřešila tak, že dětem do počítačů instaluje jen otevřený software. Základ tvoří operační systém Linux Mint, který Praha 3 vyhodnotila jako nejvhodnější pro přechod od Windows, na který je většina dětských uživatelů dosud zvyklá. 
