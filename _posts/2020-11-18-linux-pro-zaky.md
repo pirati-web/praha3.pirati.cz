@@ -2,7 +2,7 @@
 date: 2020-11-18
 category: blog
 layout: post
-title: Linux místo Windows. Praha 3 vyřešila problém s chybějícími licencemi na darovaných počítačích otevřeným software.
+title: Linux místo Windows - Praha 3 vyřešila problém s chybějícími licencemi na darovaných počítačích otevřeným software
 author: Michal Gill
 image: stepanlaptop.jpg
 ---
