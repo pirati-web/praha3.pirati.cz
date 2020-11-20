@@ -1,5 +1,5 @@
 ---
-date: 2020-11-19
+date: 2020-11-20
 category: blog
 layout: post
 title: Piráti z Trojky - Margita Brychtová, zastupitelka, členka sociální a bytové komise
