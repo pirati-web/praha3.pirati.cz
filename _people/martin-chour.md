@@ -7,6 +7,7 @@ category:
   - clenove
   - dk
 ordclenove: 100
+ordz: 13
 description: Zastupitel, člen Dopravní komise, člen místního sdružení # zobrazuje se v lide
 profession: Student gymnázia
 img: people/martin-chour.jpg # zakomentuj radek dokud není fotka
