@@ -5,7 +5,7 @@ fullname: Apolena Ondráčková  	# jméno s tituly etc.
 category:
   - pms
 ordclenove: 30
-description: Členka místního sdružení # zobrazuje se v lide
+description: Místopředsedkyně místního sdružení # zobrazuje se v lide
 profession: 
 # img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
 mail:
