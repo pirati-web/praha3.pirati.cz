@@ -9,7 +9,7 @@ category:
   - it
 ordr: 1
 ordz: 24
-ordclenove: 63
+ordclenove: 276
 description: Místostarosta, předseda Komise pro transparentnost a informatiku, člen místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
