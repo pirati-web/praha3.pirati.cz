@@ -5,6 +5,7 @@ fullname: Simona Bártová  	# jméno s tituly etc.
 category:
   - pms
 ordclenove: 9
+ordpms: 3
 description: Místopředsedkyně místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 # img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
