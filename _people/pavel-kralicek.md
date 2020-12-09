@@ -6,7 +6,7 @@ category:
   - clenove
   - kontaktni_osoba
   - rr
-ordclenove: 36
+ordclenove: 130
 description: Předseda Redakční rady Radničních novin, člen místního sdružení # zobrazuje se v lide
 profession: Podnikatel, student
 img: people/pavel-kralicek.jpg # zakomentuj radek dokud není fotka
