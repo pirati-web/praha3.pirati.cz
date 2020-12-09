@@ -3,7 +3,7 @@ uid: margita.brychtova
 name:     Margita Brychtová  	# běžně používáné jméno
 fullname: Margita Brychtová  	# jméno s tituly etc.
 category:
-  - pms
+  - clenove
   - zastupitel
   - sk
   - bytk
