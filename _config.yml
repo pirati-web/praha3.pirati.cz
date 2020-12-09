@@ -14,14 +14,16 @@ keywords: piráti, česká pirátská strana, svoboda, demokracie, název města
 
 administrator:
   email: kralicekpavel@gmail.com # mail kam pujdou chybove vystupy
+  email: michalgill@centrum.cz # mail kam pujdou chybove vystupy
 
 organization:
   name: Praha 3 
   shortName: Název skupiny
-  contactUid: margita.brychtova
-  email: margita.brychtova@pirati.cz
-  phone: +420 ‭603 806 599‬
+  contactUid: nikol.marhounova
+  email: praha3@pirati.cz
+#  phone: +420 ‭603 806 599‬
   address: |
+    Česká pirátská strana
     Na Moráni 3,
     120 00 Praha 2
   residenceImg:
@@ -45,9 +47,9 @@ contactSummaryItems:
 
 calendar:
   apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
-  id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
-  title: "Celopražský kalendář"
-  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
+  id: o2k9q2b4p679fp4u3p146u2r5s@group.calendar.google.com
+  title: "Kalendář Pirátů Prahy 3"
+  page: "https://calendar.google.com/calendar/embed?src=o2k9q2b4p679fp4u3p146u2r5s%40group.calendar.google.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no""
 
 facebook:
   loadSDK: true
@@ -57,19 +59,19 @@ facebook:
 
 twitter:
   loadSDK: true
-  profile: piratipraha
+  profile: PiratiP3
 
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+  profilePage: pirati.praha3
 
 gplus:
   profilePage: https://plus.google.com/u/0/+piratskastrana
 
 flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
+  profilePage: https://www.flickr.com/people/92102999@N08/
 
 forum:
-  page: https://forum.pirati.cz/
+  page: https://forum.pirati.cz/viewforum.php?f=980
 
 github:
   url: https://github.com/pirati-web/praha3.pirati.cz/
