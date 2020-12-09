@@ -5,7 +5,8 @@ fullname: Martin Sumerauer  	# jméno s tituly etc.
 category:
   - clenove
   - kk
-ordpms: 3
+ordpms: 
+ordclenove: 260
 description: Místopředseda místního sdružení, člen Kulturní komise # zobrazuje se v lide
 profession: 
 img: people/martin-sumerauer.jpg # zakomentuj radek dokud není fotka
