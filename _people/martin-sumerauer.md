@@ -3,7 +3,7 @@ uid: martin.sumerauer
 name:     Martin Sumerauer  	# běžně používáné jméno
 fullname: Martin Sumerauer  	# jméno s tituly etc.
 category:
-  - pms
+  - clenove
   - kk
 ordpms: 3
 description: Místopředseda místního sdružení, člen Kulturní komise # zobrazuje se v lide
