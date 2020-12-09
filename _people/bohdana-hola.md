@@ -7,7 +7,7 @@ category:
 ordclenove: 90
 description: Členka Komise pro vedlejší hospodářskou činnost, členkamístního sdružení
 profession: Politická konzultantka
-# img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
+img: people/bohdana-hola.jpg # zakomentuj radek dokud není fotka
 mail:
   - bohdana.hola@pirati.cz
 profiles:
