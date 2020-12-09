@@ -4,9 +4,9 @@ name:     Ondřej Prcín  	# běžně používáné jméno
 fullname: Ondřej Prcín 	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 
+ordclenove: 22
 ordz: 
-ordp: 6
+ordp:
 description: Člen místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 # img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
