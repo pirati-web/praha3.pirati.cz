@@ -8,7 +8,7 @@ ordclenove: 30
 ordpms: 3
 description: Místopředsedkyně místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
-# img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
+img: people/simona.bartova.jpg # zakomentuj radek dokud není fotka
 mail:
   - simona.bartova@pirati.cz
 profiles:
