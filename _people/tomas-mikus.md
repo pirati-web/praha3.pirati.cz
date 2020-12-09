@@ -3,7 +3,7 @@ uid: tomas.mikus
 name:     Tomáš Mikuš  	# běžně používáné jméno
 fullname: Tomáš Mikuš 	# jméno s tituly etc.
 category:
-  - priznivci
+  - 
 ordclenove: 
 ordz:
 ordp: 5
