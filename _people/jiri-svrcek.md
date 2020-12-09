@@ -8,6 +8,7 @@ category:
   - dv
   - vur
   - kzp
+ordclenove: 270
 description: Zastupitel, člen Dotačního výboru, člen Výboru pro územní rozvoj, předseda Komise životního prostředí, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 ordclenove: 60
