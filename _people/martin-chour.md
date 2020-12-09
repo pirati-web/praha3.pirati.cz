@@ -6,7 +6,7 @@ category:
   - zastupitel
   - clenove
   - dk
-ordclenove: 30
+ordclenove: 100
 description: Zastupitel, člen Dopravní komise, člen místního sdružení # zobrazuje se v lide
 profession: Student gymnázia
 img: people/martin-chour.jpg # zakomentuj radek dokud není fotka
