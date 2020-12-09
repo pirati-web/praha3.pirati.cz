@@ -3,7 +3,7 @@ uid: michal.konvicka
 name:     Michal Konvička  	# běžně používáné jméno
 fullname: Michal Konvička 	# jméno s tituly etc.
 category:
-  - priznivci
+  - 
 ordclenove: 
 ordz:
 ordp: 4
