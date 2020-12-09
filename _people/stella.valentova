@@ -1,0 +1,14 @@
+---
+uid: stella.valentova
+name:     Stella Valentová  	# běžně používáné jméno
+fullname: Stella Maria Valentová  	# jméno s tituly etc.
+category:
+  - clenove
+ordclenove: 290
+description: Členka místního sdružení # zobrazuje se v lide
+profession: 
+# img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
+mail:
+  - stella.valentova@pirati.cz
+profiles:
+---
