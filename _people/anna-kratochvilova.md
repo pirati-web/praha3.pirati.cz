@@ -1,10 +1,10 @@
 ---
 uid: anna.kratochvilova
-name:     Anna Kratochvílová  	# běžně používáné jméno
-fullname: Anna Kratochvílová  	# jméno s tituly etc.
+name:     Anna Štrébl  	# běžně používáné jméno
+fullname: Anna Štrébl  	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 39
+ordclenove: 275
 ordz: 15
 description: Členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
