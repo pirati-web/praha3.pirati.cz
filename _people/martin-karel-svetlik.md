@@ -5,7 +5,7 @@ fullname: Martin Karel Světlík  	# jméno s tituly etc.
 category:
   - 
 ordclenove: 57
-description: Člen místního sdružení
+description: 
 profession: Politická konzultantka
 # img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
 mail:
