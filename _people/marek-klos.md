@@ -7,7 +7,7 @@ category:
 ordclenove: 120
 description: Člen místního sdružení # zobrazuje se v lide
 profession: 
-# img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
+img: people/marek.klos.jpg # zakomentuj radek dokud není fotka
 mail:
   - marek.klos@pirati.cz
 profiles:
