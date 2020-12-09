@@ -5,7 +5,7 @@ category:
   - clenove
   - bytk
 
-ordclenove: 3
+ordclenove: 10
 description: Zastupitel MHMP, člen Bytové komise, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/martin-arden.jpg # zakomentuj radek dokud není fotka
