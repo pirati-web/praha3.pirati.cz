@@ -4,6 +4,7 @@ name:     Nikol Marhounová
 category:
   - pms
   - sk
+  - kontaktni_osoba
 ordpms: 1
 ordclenove: 170
 description: Předsedkyně místního sdružení, předsedkyně Sociální komise # zobrazuje se v lide
