@@ -7,7 +7,7 @@ category:
 ordclenove: 150
 description: Zastupitelka MHMP, členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
-# img: people/stepan-strebl.jpg
+img: people/michaela.krausova.jpg
 mail:
   - michaela.krausova@pirati.cz
 profiles:
