@@ -7,7 +7,7 @@ category:
 ordclenove: 240
 description: Člen místního sdružení # zobrazuje se v lide
 profession: 
-# img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
+img: people/walter.sodomka.jpg # zakomentuj radek dokud není fotka
 mail:
   - walter.sodomka@pirati.cz
 profiles:
