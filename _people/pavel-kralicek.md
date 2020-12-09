@@ -4,7 +4,6 @@ name:     Pavel Králíček  	# běžně používáné jméno
 fullname: Pavel Králíček  	# jméno s tituly etc.
 category:
   - clenove
-  - kontaktni_osoba
   - rr
 ordclenove: 130
 description: Předseda Redakční rady Radničních novin, člen místního sdružení # zobrazuje se v lide
