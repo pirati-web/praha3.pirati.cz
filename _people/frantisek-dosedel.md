@@ -10,7 +10,7 @@ category:
 ordpms: 2
 ordr: 4
 ordz: 12
-ordclenove: 21
+ordclenove: 60
 description: Neuvolněný radní, místopředseda místního sdružení # zobrazuje se v lide
 profession: Advokátní koncipient
 img: people/frantisek-dosedel.jpg # zakomentuj radek dokud není fotka
