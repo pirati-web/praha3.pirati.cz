@@ -4,7 +4,7 @@ name:     Ondřej Prcín  	# běžně používáné jméno
 fullname: Ondřej Prcín 	# jméno s tituly etc.
 category:
   - clenove
-ordclenove: 22
+ordclenove: 220
 ordz: 
 ordp:
 description: Člen místního sdružení # zobrazuje se v lide
