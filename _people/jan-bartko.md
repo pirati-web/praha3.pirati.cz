@@ -7,7 +7,7 @@ category:
   - clenove
   - zastupitel
   - fv
-ordclenove: 6
+ordclenove: 20
 ordr: 2
 ordz: 3
 description: Radní, předseda Finančního výboru, člen místního sdružení # zobrazuje se v lide
