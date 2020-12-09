@@ -8,7 +8,7 @@ category:
 ordclenove: 40
 description: Člen místního sdružení, člen Komise pro transparentnost a informatiku
 profession: Politická konzultantka
-# img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
+img: people/liam.bibikov.jpg # zakomentuj radek dokud není fotka
 mail:
   - eric.liam.bibikov@pirati.cz
 profiles:
