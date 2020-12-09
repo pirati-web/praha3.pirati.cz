@@ -7,7 +7,7 @@ category:
 ordclenove: 300
 description: Členka místního sdružení # zobrazuje se v lide
 profession: 
-# img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
+img: people/klara.votavova.jpg # zakomentuj radek dokud není fotka
 mail:
   - klara.votavova@pirati.cz
 profiles:
