@@ -4,7 +4,6 @@
 # je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
 # technické nastavení
 #
-
 title: Piráti Praha 3
 email: praha3@pirati.cz
 description: >-
@@ -13,11 +12,15 @@ description: >-
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 
 administrator:
+  email: pavel@gentlemanstore.cz # mail kam pujdou chybove vystupy
   email: kralicekpavel@gmail.com # mail kam pujdou chybove vystupy
 
 organization:
   name: Praha 3 
   shortName: Název skupiny
+  contactUid: pavel.kralicek
+  email: pavel.kralicek@pirati.cz
+  phone: +420 776 886 654
   contactUid: margita.brychtova
   email: margita.brychtova@pirati.cz
   phone: +420 ‭603 806 599‬
@@ -29,7 +32,6 @@ organization:
   redmineLink: https://redmine.pirati.cz/projects
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
-
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
@@ -42,39 +44,30 @@ contactSummaryItems:
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
-
 calendar:
   apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
   id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
   title: "Celopražský kalendář"
   page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
-
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   profilePage: https://www.facebook.com/PiratiPraha3/
   appId: 1526197851008996
-
 twitter:
   loadSDK: true
   profile: piratipraha
-
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
-
 gplus:
   profilePage: https://plus.google.com/u/0/+piratskastrana
-
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
-
 forum:
   page: https://forum.pirati.cz/
-
 github:
   url: https://github.com/pirati-web/praha3.pirati.cz/
   branch: master
-
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -83,15 +76,11 @@ github:
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 github_username:  pirati-web
-
 sass:
   style: compressed
   sass_dir: _sass
-
 theme: jekyll-theme-pirati
-
 markdown: kramdown
 theme: jekyll-theme-pirati
 plugins:
@@ -100,27 +89,22 @@ plugins:
   - jekyll-sitemap
 paginate_path: "/aktuality/:num/"
 paginate: 11
-
 exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
   - vendor
-
 permalink: /aktuality/:title.html
 collections:
   people:
     output: true
     permalink: /lide/:path/
-
   program:
     output: true
     permalink: /komunalni-volby/program/:path/
-
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
     output: false
-
 defaults:   # defaults values for collection scope
   -
     scope:
@@ -139,9 +123,7 @@ defaults:   # defaults values for collection scope
       rbar:
          - garant
          - program
-
 emptyArray: []
-
 assets:
   source_maps: true
   compression: true
