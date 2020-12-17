@@ -33,5 +33,4 @@ Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://pra
 - Volební program 2018 [zde](https://github.com/pirati-web/praha3.pirati.cz/blob/master/Dokumenty/Program2018.pdf)
 - Povolební strategie 2018 [zde](https://github.com/pirati-web/praha3.pirati.cz/blob/master/Dokumenty/Strategie2018.pdf)
 - Koaliční smlouva 2018 [zde](https://www.praha3.cz/samosprava/zastupitelstvo/koalicni-dohoda-pro-obdobi-20182022)
-- test
 
