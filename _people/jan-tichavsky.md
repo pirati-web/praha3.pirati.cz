@@ -13,3 +13,5 @@ mail:
   - jan.tichavsky@pirati.cz
 profiles:
 ---
+
+Jan Tichavský je členem Dopravní komise Rady MČ Praha 3 členem místního sdružení
