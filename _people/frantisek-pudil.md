@@ -12,3 +12,5 @@ mail:
   - frantisek.pudil@pirati.cz
 profiles:
 ---
+
+František je členem MS Praha 3.
