@@ -12,3 +12,5 @@ mail:
   - marek.klos@pirati.cz
 profiles:
 ---
+
+Marek je členem MS Praha 3.
