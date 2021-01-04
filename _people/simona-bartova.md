@@ -13,3 +13,5 @@ mail:
   - simona.bartova@pirati.cz
 profiles:
 ---
+
+Simona je místopředsedkyní místního sdružení Pirátů na Praze 3
