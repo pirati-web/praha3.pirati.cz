@@ -30,7 +30,7 @@ Profesně v minulosti působil především v soukromé sféře, např. jako spe
 
 Politicky se zatím s prokazatelnými výsledky angažoval především na lokální úrovni při prosazování pirátských myšlenek na jednáních Zastupitelstva města Karviné (zveřejňování informací o projednávaných bodech, přeložení jednání zastupitelstva na odpolední hodiny či miliony ušetřené zveřejněním nevýhodných smluv s tiskovou mluvčí). Do tohoto tělesa byl kandidátem za Piráty již dvakrát, a to na podzim 2014 a 2018. Je vášnivým účastníkem demonstrací proti zlu, jako byla například druhá akce na pražském Albertově v listopadu 2015 (proti nacifikaci politiky), demonstrace v Ostravě 5. března 2018 (proti komunistickým fízlům ve vedení státu) či většiny pražských demonstrací proti burešizaci justice a politiky roku 2019.
 
-E-mail: michal.gill@pirati.cz; gill.michal@praha3.cz; michal.gill@pp-international.net
+E-mail: michal.gill@pirati.cz; gill.michal@praha3.cz; michal.gill@pp-international.net ++++
 
 Telefon: +420 222 116 782; Mobil: +420 603 590 571
 
