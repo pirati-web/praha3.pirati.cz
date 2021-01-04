@@ -14,3 +14,5 @@ mail:
   - apolena.ondrackova@pirati.cz
 profiles:
 ---
+
+Apolena je místopředsedkyní místního sdružení Pirátů na Praze 3
