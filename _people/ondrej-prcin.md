@@ -14,3 +14,5 @@ mail:
   - 
 # profiles:
 ---
+
+Ondřej je členem MS Praha 3.
