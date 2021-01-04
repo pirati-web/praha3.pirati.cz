@@ -8,7 +8,7 @@ category:
 ordclenove: 280
 description: Člen Dopravní komise, člen místního sdružení
 profession: Politická konzultantka
-# img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
+img: people/jan.tichavsky.jpg # zakomentuj radek dokud není fotka
 mail:
   - jan.tichavsky@pirati.cz
 profiles:
