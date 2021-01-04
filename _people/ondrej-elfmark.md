@@ -13,3 +13,5 @@ mail:
   - ondrej.elfmark@pirati.cz
 profiles:
 ---
+
+Ondřej je místopředsedou Výboru pro územní rozvoj
