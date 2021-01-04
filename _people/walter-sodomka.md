@@ -12,3 +12,5 @@ mail:
   - walter.sodomka@pirati.cz
 profiles:
 ---
+
+Walter je členem MS Praha 3.
