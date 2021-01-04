@@ -12,3 +12,5 @@ mail:
   - kristina.kubcova@pirati.cz
 profiles:
 ---
+
+Kristina je členkou MS Praha 3 a asistentkou Republikového výboru strany.
