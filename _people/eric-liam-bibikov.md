@@ -13,3 +13,5 @@ mail:
   - eric.liam.bibikov@pirati.cz
 profiles:
 ---
+
+Liam je členem Komise pro transparentnost a informatiku
