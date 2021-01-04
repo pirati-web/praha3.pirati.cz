@@ -11,3 +11,5 @@ mail:
   - linda.kasparkova@pirati.cz
 profiles:
 ---
+
+Linda je členkou MS Praha 3.
