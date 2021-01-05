@@ -10,7 +10,7 @@ description: Člen místního sdružení
 profession: kreativní copywriter a specialista na digitální marketing
 img: people/tomas-dvorak.jpg # zakomentuj radek dokud není fotka
 mail:
-  - tomas.dvorak@pirati.cz
+  - tom.dvorak@pirati.cz
 profiles:
   facebook: https://www.facebook.com/tomak.dvorak  # pokud nema, staci smazat tuto radku
 
