@@ -12,7 +12,7 @@ description: Zastupitel, člen Dopravní komise, člen místního sdružení # z
 profession: Student gymnázia
 img: people/martin-chour.jpg # zakomentuj radek dokud není fotka
 mail:
-  - 
+  - martin.chour@pirati.cz
 profiles:
   facebook: https://www.facebook.com/martin.chour.1  # pokud nema, staci smazat tuto radku
 ---
