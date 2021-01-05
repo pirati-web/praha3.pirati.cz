@@ -14,6 +14,7 @@ description: Neuvolněný radní, člen Kontrolního výboru, člen místního s
 profession: Vysokoškolský pedagog, fyzik
 img: people/pavel-musil.jpg # zakomentuj radek dokud není fotka
 mail:
+  - pavel.musil@pirati.cz
 profiles:
   facebook: https://www.facebook.com/pavel.musil.94  # pokud nema, staci smazat tuto radku
 ---
