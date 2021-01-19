@@ -8,7 +8,7 @@ category:
   - rr
 ordclenove: 200
 ordpms: 4
-description: Místopředsedkyně místního sdružení # zobrazuje se v lide
+description: Místopředsedkyně místního sdružení, členka Dotačního výboru a Redakční rady Radničních novin # zobrazuje se v lide
 profession: 
 img: people/apolena-ondrackova.jpg # zakomentuj radek dokud není fotka
 mail:
