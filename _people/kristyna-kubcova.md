@@ -5,7 +5,7 @@ fullname: Kristina Kubcová  	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 160
-description: Členka místního sdružení, asistentka Republikového výboru # zobrazuje se v lide
+description: Členka místního sdružení, asistentka Republikového výboru Pirátské strany # zobrazuje se v lide
 profession: 
 img: people/kristina-kubcova.jpg # zakomentuj radek dokud není fotka
 mail:
