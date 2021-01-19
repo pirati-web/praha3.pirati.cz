@@ -20,7 +20,7 @@ na pravidelnou schůzi, o které se dozvíte na [našem Facebooku](https://www.f
 
 Chcete přístup k pirátským systémum či odebírat newslettery? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
 
-Finanční dary můžete posílat [zde](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/); při vyplňování nezapomeňte na položku "Jiný účel", kde zvolte MS Praha 3. Děkujeme.
+Finanční dary můžete posílat [tudy](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110103). Děkujeme.
 
 Náš kalendář naleznete [zde](https://calendar.google.com/calendar/u/0/embed?src=o2k9q2b4p679fp4u3p146u2r5s@group.calendar.google.com&ctz=Europe/Prague).
 
