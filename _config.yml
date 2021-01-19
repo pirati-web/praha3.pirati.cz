@@ -56,13 +56,13 @@ facebook:
   appId: 1526197851008996
 twitter:
   loadSDK: true
-  profile: piratipraha
+  profile: PiratiP3
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
+  profilePage: https://www.instagram.com/pirati.praha3/
 gplus:
   profilePage: https://plus.google.com/u/0/+piratskastrana
 flicker:
-  profilePage: https://www.flickr.com/photos/pirati/
+  profilePage: https://www.flickr.com/photos/92102999@N08/
 forum:
   page: https://forum.pirati.cz/
 github:
