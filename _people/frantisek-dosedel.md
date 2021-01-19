@@ -8,7 +8,7 @@ category:
   - radni
   - zastupitel
 ordpms: 2
-ordr: 4
+ordr: 3
 ordz: 12
 ordclenove: 60
 description: Neuvolněný radní, místopředseda místního sdružení # zobrazuje se v lide
