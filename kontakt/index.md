@@ -22,7 +22,11 @@ Chcete přístup k pirátským systémum či odebírat newslettery? Registrujte 
 
 Finanční dary můžete posílat [zde](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/); při vyplňování nezapomeňte na položku "Jiný účel", kde zvolte MS Praha 3. Děkujeme.
 
-Webové stránky pražského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
+Náš kalendář naleznete [zde](https://calendar.google.com/calendar/u/0/embed?src=o2k9q2b4p679fp4u3p146u2r5s@group.calendar.google.com&ctz=Europe/Prague).
+
+Termíny konání výborů zastupitelstva a komisí rady Prahy 3 pak [zde](https://www.praha3.cz/samosprava/vybory-a-komise/terminy-zasedani?year=2021).
+
+Webové stránky pražského krajského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
 
 <br/>
 
