@@ -7,7 +7,7 @@ category:
   - kv
   - zastupitel
   - clenove
-ordr: 3
+ordr: 4
 ordz: 18
 ordclenove: 180
 description: Neuvolněný radní, člen Kontrolního výboru, člen místního sdružení # zobrazuje se v lide
