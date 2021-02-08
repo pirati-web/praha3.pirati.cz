@@ -7,7 +7,7 @@ category:
 ordclenove: 230
 description: Člen místního sdružení
 profession: Politická konzultantka
-# img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
+img: people/frantisek-pudil.png # zakomentuj radek dokud není fotka
 mail:
   - frantisek.pudil@pirati.cz
 profiles:
