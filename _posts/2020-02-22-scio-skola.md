@@ -1,5 +1,5 @@
 ---
-date: 2020-2-22
+date: 2021-2-22
 category: blog
 layout: post
 title: Scio základní škola se stěhuje z Prahy 9 na Prahu 3
