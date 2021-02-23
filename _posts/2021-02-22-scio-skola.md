@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Scio základní škola se stěhuje z Prahy 9 na Prahu 3
 author: Michal Gill
-image: scioskola.jpg
+image: posts/scioskola.jpg
 ---
 
 Městská část Praha 3, společnost Scio a 2. základní škola Scio podepsaly smlouvu o spolupráci, na jejímž základě Praha 3 vydala škole souhlas s působením na svém území. Končící pronájem v budově na Praze 9 donutil 2. Scio školu hledat nové působiště. Škola se nakonec rozhodla odstěhovat na Prahu 3 do ulice V Zahrádkách, kde nyní rekolauduje prostory soukromého vlastníka pro účely provozování základní školy. Své brány otevře v září tohoto roku. Na Praze 3 již od loňského září působí i střední Scio škola na Prokopově náměstí. 
