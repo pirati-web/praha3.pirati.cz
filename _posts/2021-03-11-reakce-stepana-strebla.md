@@ -1,5 +1,5 @@
 ---
-date: 2020-10-22
+date: 2021-03-11
 category: blog
 layout: post
 title: Reakce na informace ohledně firmy prodávající ochranné prostředky, kde jsem většinovým vlastníkem.
