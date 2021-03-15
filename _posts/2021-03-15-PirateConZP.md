@@ -48,6 +48,5 @@ Těšíme se na vás
 
 za organizační tým Walter Sodomka ([e-mail pro případné dotazy](mailto:walter.sodomka@pirati.cz))
 
-
 - - -
-[zakázka](https://smlouvy.gov.cz/smlouva/13050176?backlink=4c6ks)
+
