@@ -45,6 +45,7 @@ Datum: 17. dubna 2021
 - 17.00 – uzavření místnosti
 
 Těšíme se na vás
+za organizační tým Walter Sodomka ([e-mail pro případné dotazy](mailto:walter.sodomka@pirati.cz))
 
 
 - - -
