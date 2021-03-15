@@ -14,7 +14,7 @@ PirateCon bude probíhat online, přes Microsoft Teams (přihlašovací odkaz ob
 
 **Přihlašujte se [zde](https://forms.gle/PFhcdWupbjt82Vnn8).**
 
-**PirateCon je ZDARMA.**
+**Účast na PirateConu je ZDARMA.**
 
 **Program:**
 
