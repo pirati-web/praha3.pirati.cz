@@ -18,7 +18,7 @@ PirateCon bude probíhat online, přes Microsoft Teams (přihlašovací odkaz ob
 
 **Program:**
 
-17. dubna 2021; od 9:00 prezence
+Datum: 17. dubna 2021
 
 *První blok*
 - 9.00 – otevření místnosti
