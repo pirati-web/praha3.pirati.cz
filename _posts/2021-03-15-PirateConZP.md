@@ -22,7 +22,7 @@ Datum: 17. dubna 2021
 
 *První blok*
 - 9.00 – otevření místnosti
-- 9.30 – uvítací slovo
+- 9.30 – úvodní slovo
 - 9.40 – 10.10 **Vliv kvality ovzduší na lidské zdraví** (MUDr. Eva Rychlíková)
 - 10.10 – 10.40 **Vliv znečištěného ovzduší na zdravotní stav populace** (MUDr. Radim Šrám, DrSc.)
 - 10.40 – 10.50 diskuse a krátká pauza
