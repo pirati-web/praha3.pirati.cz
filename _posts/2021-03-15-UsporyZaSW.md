@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Pirátský místostarosta naprogramoval aplikaci, která Praze 3 ušetří půl milionu ročně 
 author: Michal Gill
-image: posts/stepan.jpg
+image: posts/sourcecode.jpg
 ---
 
 *Praha, 15. března 2021 – *Místostarosta Prahy 3 Štěpán Štrébl si všiml, že městská část každý měsíc platí externímu dodavateli téměř padesát tisíc korun, aby zjistila, kolik každému z téměř tří set zaměstnanců naúčtovat za nadstandardní používání služebního telefonu. Zatímco úřad dva roky trval na tom, že službu potřebuje nadále kupovat, nebo musí na rozúčtování najmout nového zaměstnance na plný úvazek, Štrébl problém nakonec vyřešil sám vlastní aplikací. Městská část ve výsledku uspoří přes půl milionu korun za rok. Zdrojový kód zveřejnila, takže jej mohou zdarma převzít i další obce. 
