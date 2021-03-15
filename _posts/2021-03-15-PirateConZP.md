@@ -7,6 +7,8 @@ author: Walter Sodomka
 image: posts/pirateconzp.jpg
 ---
 
+**Online PirateCon k životnímu prostředí již 17. dubna!**
+
 Cílem PirateConu je sdílet informace o současném stavu kvality ovzduší v ČR a jeho vlivu na zdraví člověka. Chceme účastníky seznámit s oblastmi, které negativně ovlivňují kvalitu ovzduší a motivovat je k jejich řešení.
 PirateCon bude probíhat online, přes Microsoft Teams (přihlašovací odkaz obdržíte minimálně týden před akcí). Po každé přednášce bude probíhat diskuze, kde bude prostor na zodpovězení dotazů kladených přes Sli.do i prostor pro osobní konzultaci. Přednášky budou po ukončení PirateConu sestříhány a umístěny volně ke zhlédnutí na YouTube Pirátské strany. 
 
