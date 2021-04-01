@@ -39,7 +39,7 @@ Datum: 17. dubna 2021
 - 14.10 – 14.40 **Trendy a závazky ČR / Zpráva o ŽP 2019 / Legislativní plán MŽP / NPO komponenta 2.5** (Mgr. Dana Balcarová)
 - 14.40 – 15.00 **Uchopení ŽP v Programu do PSP 2021** (Mgr. Lukáš Blažej)
 - 15.00 – 15.30 **Jak můžeme situaci pomoci my?**
-- 15.00 – oficiální ukončení a otevření volné diskuse podle nálady
+- 15.30 – oficiální ukončení a otevření volné diskuse podle nálady
 - 17.00 – uzavření místnosti
 
 Těšíme se na vás
