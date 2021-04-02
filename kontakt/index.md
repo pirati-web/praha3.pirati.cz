@@ -18,13 +18,11 @@ contentSize: default
 Zajímá vás co Piráti dělají a jak? Ozvěte se [Nikol Marhounové](/lide/nikol-marhounova) na nikol.marhounova@pirati.cz, nebo přijďte
 na pravidelnou schůzi, o které se dozvíte na [našem Facebooku](https://www.facebook.com/PiratiPraha3/).
 
-Chcete přístup k pirátským systémum či odebírat newslettery? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
+Chcete přístup k pirátským systémům či odebírat stranické newslettery? Registrujte se na [nalodění](https://nalodeni.pirati.cz/). K odběru našeho trojkového newsletteru (chodí vždy na začátku měsíce) se pak můžete přihlásit [zde](https://docs.google.com/forms/d/e/1FAIpQLScBy066WqJMRrN-7Qom8PrPAQm3JgVoIrnW2luAEznc3E1pcg/viewform).
 
 Finanční dary můžete posílat [tudy](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110103). Děkujeme.
 
 Náš kalendář naleznete [zde](https://calendar.google.com/calendar/u/0/embed?src=o2k9q2b4p679fp4u3p146u2r5s@group.calendar.google.com&ctz=Europe/Prague).
-
-K odběru našeho newsletteru (chodí vždy na začátku měsíce) se můžete přihlásit [zde](https://docs.google.com/forms/d/e/1FAIpQLScBy066WqJMRrN-7Qom8PrPAQm3JgVoIrnW2luAEznc3E1pcg/viewform).
 
 Termíny konání výborů zastupitelstva a komisí rady Prahy 3 pak [zde](https://www.praha3.cz/samosprava/vybory-a-komise/terminy-zasedani?year=2021).
 
