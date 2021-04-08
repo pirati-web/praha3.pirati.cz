@@ -12,9 +12,13 @@ image: posts/pirateconzp.jpg
 Cílem PirateConu je sdílet informace o současném stavu kvality ovzduší v ČR a jeho vlivu na zdraví člověka. Chceme účastníky seznámit s oblastmi, které negativně ovlivňují kvalitu ovzduší a motivovat je k jejich řešení.
 PirateCon bude probíhat online a sledovat jej budete moci [zde](https://pitube.pirati.cz/play/public1). Dotazy se pak budou klást přes platformu Sli.do. Po každé přednášce bude probíhat diskuse, kde bude prostor na zodpovězení dotazů kladených přes Sli.do. V závěru akce budou zájemci přizváni k osobní diskusi s přednášejícími. Přednášky budou po ukončení PirateConu sestříhány a umístěny volně ke zhlédnutí na YouTube Pirátské strany.
 
+**Přímý přenos budete moci sledovat [zde](https://pitube.pirati.cz/play/public1).**
+
 **Přihlašujte se [zde](https://forms.gle/PFhcdWupbjt82Vnn8).**
 
 **Facebookovou událost pak najdete [zde](https://www.facebook.com/events/271840717744456).**
+
+**Kladení dotazů [zde pomocí Slido](app.sli.do/event/utdrahz2/).**  
 
 **Účast na PirateConu je ZDARMA.**
 
@@ -40,7 +44,7 @@ Datum: 17. dubna 2021
 - 13.50 – 14.10 **Informace z EU a dlouhodobý výhled / Evropský rozměr -  čistá planeta pro všechny** (Mgr. Mikuláš Peksa)
 - 14.10 – 14.40 **Trendy a závazky ČR / Zpráva o ŽP 2019 / Legislativní plán MŽP / NPO komponenta 2.5** (Mgr. Dana Balcarová)
 - 14.40 – 15.00 **Uchopení ŽP v Programu do PSP 2021** (Lukáš Blažej)
-- 15.00 – 15.30 **Jak můžeme situaci pomoci my?**
+- 15.00 – 15.30 **Jak já osobně mohu pomoci ke zlepšení kvality ovzduší?** (Mgr. Ondřej Daněk)
 - 15.30 – oficiální ukončení a otevření volné diskuse podle nálady; ukončení streamu
 - 17.00 – uzavření místnosti
 
