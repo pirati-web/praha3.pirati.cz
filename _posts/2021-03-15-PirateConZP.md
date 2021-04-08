@@ -18,7 +18,7 @@ PirateCon bude probíhat online a sledovat jej budete moci [zde](https://pitube.
 
 **Facebookovou událost pak najdete [zde](https://www.facebook.com/events/271840717744456).**
 
-**Kladení dotazů [zde pomocí Slido](app.sli.do/event/utdrahz2/).**  
+**Kladení dotazů [zde pomocí Slido](https://app.sli.do/event/utdrahz2/).**  
 
 **Účast na PirateConu je ZDARMA.**
 
