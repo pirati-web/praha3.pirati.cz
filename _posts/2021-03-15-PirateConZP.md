@@ -4,7 +4,7 @@ category: blog
 layout: post
 title: Zveme všechny Piráty, příznivce a odbornou veřejnost na online PirateCon na téma kvalita ovzduší, který proběhne v sobotu 17. dubna 2021
 author: Walter Sodomka
-image: posts/pirateconzp.jpg
+image: posts/Piratecon.png
 ---
 
 **Online PirateCon ke kvalitě ovzduší již 17. dubna!**
