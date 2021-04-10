@@ -10,7 +10,7 @@ image: posts/Piratecon.png
 **Online PirateCon ke kvalitě ovzduší již 17. dubna!**
 
 Cílem PirateConu je sdílet informace o současném stavu kvality ovzduší v ČR a jeho vlivu na zdraví člověka. Chceme účastníky seznámit s oblastmi, které negativně ovlivňují kvalitu ovzduší a motivovat je k jejich řešení.
-PirateCon bude probíhat online a sledovat jej budete moci [zde](https://pitube.pirati.cz/play/public1). Dotazy se pak budou klást přes platformu Sli.do. Po každé přednášce bude probíhat diskuse, kde bude prostor na zodpovězení dotazů kladených přes Sli.do. V závěru akce budou zájemci přizváni k osobní diskusi s přednášejícími. Přednášky budou po ukončení PirateConu sestříhány a umístěny volně ke zhlédnutí na YouTube Pirátské strany.
+PirateCon bude probíhat online a sledovat jej budete moci [zde](https://tv.pirati.cz/videos/watch/751d914c-9aac-419f-8776-49cc2dde68e4). Dotazy se pak budou klást přes platformu Sli.do. Po každé přednášce bude probíhat diskuse, kde bude prostor na zodpovězení dotazů kladených přes Sli.do. V závěru akce budou zájemci přizváni k osobní diskusi s přednášejícími. Přednášky budou po ukončení PirateConu sestříhány a umístěny volně ke zhlédnutí na YouTube Pirátské strany.
 
 **Přímý přenos budete moci sledovat [zde](https://tv.pirati.cz/videos/watch/751d914c-9aac-419f-8776-49cc2dde68e4).**
 
