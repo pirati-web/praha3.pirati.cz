@@ -41,7 +41,7 @@ Datum: 17. dubna 2021
 - 12.45 – 13.00 diskuse a krátká pauza
 - 13.00 – 13.30 **Znečištění ovzduší ze spalování uhlí v elektrárnách a z těžkého průmyslu** (Ing. Eva Tylová)
 - 13.30 – 13.50 diskuse a krátká pauza
--	13.50 – 14.20 **Informace z EU a dlouhodobý výhled / Evropský rozměr - čistá planeta pro všechny** (Mgr. Mikuláš Peksa), **Trendy a závazky ČR / Zpráva o ŽP 2019 / Legislativní plán MŽP / NPO komponenta 2.5** (Mgr. Dana Balcarová), **Uchopení ŽP v Programu do PSP 2021** (Lukáš Blažej)
+-	13.50 – 14.20 **Informace z EU a dlouhodobý výhled / Evropský rozměr - čistá planeta pro všechny** (Mgr. Mikuláš Peksa), **Trendy a závazky ČR / Zpráva o ŽP 2019 / Legislativní plán MŽP / NPO komponenta 2.5** (Mgr. Dana Balcarová), **Uchopení ŽP v Programu do PSP 2021** (Jana Moravcová)
 -	14.20 – 14.30 diskuse
 -	14.30 – 15.00 **Jak já osobně mohu pomoci ke zlepšení kvality ovzduší?** (Mgr. Ondřej Daněk)
 -	15.00 – oficiální ukončení a otevření volné diskuse podle nálady; ukončení streamu
