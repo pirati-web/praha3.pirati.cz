@@ -1,5 +1,5 @@
 ---
-date: 2021-05-03
+date: 2021-05-29
 category: blog
 layout: post
 title: Po 120 letech možná fotbal na Žižkově skončí. Může za to politikaření ODS a neochota majitele klubu smířit se s pronájmem.
