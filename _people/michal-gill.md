@@ -6,7 +6,7 @@ fullname: Bc. Michal Gill  	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 80
-description: Člen místního sdružení, asistent pirátských radních, člen Republikového výboru, generální sekretář Pirate Parties International # zobrazuje se v lide
+description: Člen místního sdružení, asistent pirátských radních, generální sekretář Pirate Parties International # zobrazuje se v lide
 profession: administrativa, PR; t.č. asistent pirátských radních MČ Praha 3
 img: people/michal_gill.jpg # zakomentuj radek dokud není fotka
 mail:
@@ -16,9 +16,9 @@ profiles:
 
 ---
  
-Michal Gill (* 30. dubna 1987) je narozen v Karviné, žil ale i v Ostravě a od roku 2018 v Praze. Aktuálně pracuje jako odborný asistent místostarosty a radních na Úřadě městské části Praha 3 a mediální manažer zdejšího zastupitelského klubu Pirátů, přičemž předtím krátce působil jako asistent místostarosty a ostatních pirátských radních na Úřadě městské části Praha 4 a rovněž jako dočasná mediální výpomoc při kanceláři primátora na Magistrátě hl. m. Prahy. Jeho vedlejšími pirátskými aktivitami jsou členství v předsednictvu Pirate Parties International (organizace sdružující Pirátské strany světa), jako i čestné členství u Slovenských Pirátů, kde je koordinátorem pro ČR. Je rovněž členem Zahraničního odboru jako i Republikového výboru Pirátů. Je aktivním volejbalovým rozhodčím a působí také jako překladatel do angličtiny. 
+Michal Gill (* 30. dubna 1987) je narozen v Karviné, žil ale i v Ostravě a od roku 2018 v Praze. Aktuálně pracuje jako odborný asistent místostarosty a radních na Úřadě městské části Praha 3 a mediální manažer zdejšího zastupitelského klubu Pirátů, přičemž předtím krátce působil jako asistent místostarosty a ostatních pirátských radních na Úřadě městské části Praha 4 a rovněž jako dočasná mediální výpomoc při kanceláři primátora na Magistrátě hl. m. Prahy. Jeho vedlejšími pirátskými aktivitami jsou členství v předsednictvu Pirate Parties International (organizace sdružující Pirátské strany světa), jako i čestné členství u Slovenských Pirátů, kde je koordinátorem pro ČR. Je rovněž členem Zahraničního odboru Pirátů. Je aktivním volejbalovým rozhodčím a působí také jako překladatel do angličtiny. 
 
-Členem Pirátské strany je od roku 2012; mezi březnem a prosincem 2018 byl předsedou místního sdružení Karvinsko či v období od února 2017 do února 2018 koordinátorem dobrovolníků pro Moravskoslezský kraj. Ještě dříve působil na postu místopředsedy krajského sdružení Moravskoslezského kraje či v pozici člena Republikového výboru strany. Od března 2015 do července 2016 byl také garantem programového bodu Rovnoprávnost. Během volební kampaně před veleúspěšnými volbami do Sněmovny r. 2017, v nichž Piráti získali dvaadvacet poslanců, byl velitelem mediálně známého volebního autobusu.
+Členem Pirátské strany je od roku 2012; mezi březnem a prosincem 2018 byl předsedou místního sdružení Karvinsko či v období od února 2017 do února 2018 koordinátorem dobrovolníků pro Moravskoslezský kraj. Působil i na postu místopředsedy krajského sdružení Moravskoslezského kraje či po dvě období v pozici člena Republikového výboru strany. Od března 2015 do července 2016 byl také garantem programového bodu Rovnoprávnost. Během volební kampaně před veleúspěšnými volbami do Sněmovny r. 2017, v nichž Piráti získali dvaadvacet poslanců, byl velitelem mediálně známého volebního autobusu.
 
 Vystudoval Střední průmyslovou školu stavební v Havířově v oboru Pozemní stavitelství a dále Historii na Filozofické Fakultě Ostravské univerzity, kde získal bakalářský titul. Tamtéž studoval (leč neukončil) i magisterský obor Učitelství historie a geografie pro střední školy.
 
@@ -38,4 +38,4 @@ Datová schránka: 5b23hye
 
 Kancelář:
 Havlíčkovo náměstí 700/9
-Praha 3, 13000
+Praha 3, 13000; dveře č. 022
