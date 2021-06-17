@@ -36,4 +36,4 @@ Webové stránky pražského krajského sdružení najdete na [praha.pirati.cz](
 - Povolební strategie 2018 [zde](https://github.com/pirati-web/praha3.pirati.cz/blob/master/Dokumenty/Strategie2018.pdf)
 - Koaliční smlouva 2018 [zde](https://www.praha3.cz/samosprava/zastupitelstvo/koalicni-dohoda-pro-obdobi-20182022)
 - Patero komunikace na sociálních sítích [zde](https://praha3.pirati.cz/aktuality/Patero-komunikace.html)
-- Šablona žádosti o informace podle zákona 106/1999 Sb. [zde](https://github.com/pirati-web/praha3.pirati.cz/blob/master/Dokumenty/Vzor106.docx)
+- Šablona žádosti o informace podle zákona 106/1999 Sb.
