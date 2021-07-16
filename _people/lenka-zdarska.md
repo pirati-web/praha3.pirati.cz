@@ -8,7 +8,7 @@ category:
 ordclenove: 310
 description: Členka místního sdružení   # zobrazuje se v lide
 profession: 
-# img: people/michal_gill.jpg # zakomentuj radek dokud není fotka
+img: people/lenka-zdarska.jpg
 mail:
   - lenka.zdarska@pirati.cz
 profiles:
