@@ -8,7 +8,7 @@ category:
 ordclenove: 70
 description: Místopředseda Výboru pro územní rozvoj, člen místního sdružení
 profession: Politická konzultantka
-# img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
+img: people/ondrej-elfmark.jpg
 mail:
   - ondrej.elfmark@pirati.cz
 profiles:
