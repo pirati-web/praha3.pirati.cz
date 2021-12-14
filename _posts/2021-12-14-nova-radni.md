@@ -1,0 +1,18 @@
+---
+date: 2021-12-14
+category: blog
+layout: post
+title: Praha 3 má novou místostarostku. Margita Brychtová naváže na stranického kolegu Štěpána Štrébla
+author: Michal Gill
+image: stepan-margita-01.jpg
+---
+
+Místostarostkou s gescí školství a mezinárodní vztahy se stala Margita Brychtová (Piráti). Ve funkci nahradila stranického kolegu Štěpána Štrébla, který současně odstoupil také z pozice zastupitele. Změnu potvrdilo zastupitelstvo MČ Praha 3 na svém řádném zasedání 14. prosince.
+
+*„Budu pokračovat v projektech nastartovaných mým předchůdcem. Důležitá je kontinuita. Projekt zlepšování angličtiny pomocí příměstských táborů, výuka žáků i učitelů rodilými mluvčími, Montessori školka, to vše jsou kroky správným směrem. Nyní připravujeme bilingvní výuku angličtiny na školách a v plánu mám i pár vlastních vylepšení,“* uvádí Brychtová. Jako můstek mezi školstvím a zahraničními vztahy byly navázány kontakty se zahraničními školami, které chce Brychtová dále rozvíjet. Dosud zastávala post místopředsedkyně Bytové komise zastupitelstva. 
+
+*„Věřím, že má nástupkyně na agendu naváže úspěšně. Budu se snažit jí v tom být maximálně nápomocen, stejně, jako jsem se maximálně snažil posunout své gesce z pozice místostarosty,“* doplňuje svou kolegyni Štěpán Štrébl.
+
+Štrébl z pozice místostarosty odchází z rodinných důvodů a s tím spojenými novými pracovními výzvami. V zastupitelstvu ho vystřídá náhradník z komunálních voleb Martin Sumerauer.
+
+- - -
