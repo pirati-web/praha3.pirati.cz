@@ -11,7 +11,7 @@ category:
 ordr: 1
 ordz: 9
 ordclenove: 50
-description: Místostarostka, členka místního sdružení, zastupitelka, místopředsedkyně Bytové komise, členka Sociální komise # zobrazuje se v lide
+description: Místostarostka, členka místního sdružení, místopředsedkyně Bytové komise, členka Sociální komise # zobrazuje se v lide
 profession: aaa
 img: people/margita-brychtova.jpg # zakomentuj radek dokud není fotka
 mail:
