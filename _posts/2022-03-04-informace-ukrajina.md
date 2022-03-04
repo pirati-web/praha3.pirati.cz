@@ -77,7 +77,7 @@ Počty dětí ubytovaných i neubytovaných přímo Prahou 3 se zatím pohybují
 ⚠️⚠️⚠️⚠️⚠️
 
 Aktuální změna!
-pro asistenci už ideálně nechoďte ani na Mariánské náměstí, ani na Cizineckou policii v Olšanské ulici. Od dnešního rána se všechny služby pro Ukrajince přesouvají do nového a výrazně kapacitnějšího asistenčního centra v Kongresovém centru na Vyšehradě:
+Pro asistenci už ideálně nechoďte ani na Mariánské náměstí, ani na Cizineckou policii v Olšanské ulici. Od dnešního rána se všechny služby pro Ukrajince přesouvají do nového a výrazně kapacitnějšího asistenčního centra v Kongresovém centru na Vyšehradě:
 
 Adresa: 5. května 1640/65, Praha 4
 
