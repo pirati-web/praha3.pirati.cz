@@ -8,10 +8,12 @@ category:
   - zastupitel
   - sk
   - bytk
+  - v22
 ordr: 1
 ordz: 9
 ordclenove: 50
-description: Místostarostka, členka místního sdružení, místopředsedkyně Bytové komise, členka Sociální komise # zobrazuje se v lide
+ordv22: 7
+description: 7. místo kandidátky; místostarostka, členka místního sdružení, místopředsedkyně Bytové komise, členka Sociální komise # zobrazuje se v lide
 profession: aaa
 img: people/margita-brychtova.png # zakomentuj radek dokud není fotka
 mail:
