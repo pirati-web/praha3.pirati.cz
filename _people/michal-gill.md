@@ -31,12 +31,6 @@ Po jazykové stránce výborně ovládá angličtinu a slušně němčinu a pol�
 Profesně v minulosti působil především v soukromé sféře, např. jako specialista pro zahraniční (především arabskou) klientelu v karvinských Lázních Darkov či již dříve v několika zahraničních firmách, například v karvinské pobočce švédské Mölnlycke Health Care Klinipro, s. r. o. nebo jako asistent manažera v korejské Sungwoo Hitech s. r. o. v Ostravě. Nyní, jak uvedeno výše, působí jako odborný asistent pirátských radních na radnici Prahy 3.
 
 E-mail: michal.gill@pirati.cz; gill.michal@praha3.cz
-
 Telefon: +420 222 116 782; Mobil: +420 603 590 571
-
 Datová schránka: 5b23hye
-
-Kancelář:
-Kancelář 022
-Havlíčkovo náměstí 700/9
-13000 Praha 3
+Kancelář 022, Havlíčkovo náměstí 700/9, Praha 3
