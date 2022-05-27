@@ -5,10 +5,9 @@ category:
   - pms
   - sk
   - kontaktni_osoba
-  - v22
+  - v22-1
 ordpms: 1
 ordclenove: 170
-ordv22: 1
 description: Předsedkyně místního sdružení, předsedkyně Sociální komise # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/nikol-marhounova.jpg # zakomentuj radek dokud není fotka
