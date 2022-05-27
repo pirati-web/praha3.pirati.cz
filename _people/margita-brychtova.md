@@ -13,7 +13,7 @@ ordz: 9
 ordclenove: 50
 description: Místostarostka, členka místního sdružení, místopředsedkyně Bytové komise, členka Sociální komise # zobrazuje se v lide
 profession: aaa
-img: people/margita-brychtova.png # zakomentuj radek dokud není fotka
+img: people/margita-brychtova.jpg # zakomentuj radek dokud není fotka
 mail:
   - margita.brychtova@pirati.cz
 profiles:
