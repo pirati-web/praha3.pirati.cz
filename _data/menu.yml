@@ -19,9 +19,9 @@ main:
   - link: /lide/zastupitelsky-klub/
     name: Klub
     match: zastupitelsky-klub
-  - link: /komunalni-volby/
+  - link: /volby2018/
     name: Volby 2022
-    match: komunalni-volby
+    match: volby2018
   - link: /kontakt/
     name: Kontakty a ke stažení
     match: kontakt
