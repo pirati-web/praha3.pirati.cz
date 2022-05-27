@@ -5,8 +5,10 @@ name: Michal Gill  	# běžně používáné jméno
 fullname: Bc. Michal Gill  	# jméno s tituly etc.
 category:
   - clenove
+  - v22
 ordclenove: 80
-description: Člen místního sdružení, asistent pirátských radních, vedoucí Zahraničního odboru, generální sekretář PPI # zobrazuje se v lide
+ordv22: 8
+description: 8. místo kandidátky; člen místního sdružení, asistent pirátských radních, vedoucí Zahraničního odboru, generální sekretář PPI # zobrazuje se v lide
 profession: administrativa, PR; t.č. asistent pirátských radních MČ Praha 3
 img: people/michal_gill.jpg # zakomentuj radek dokud není fotka
 mail:
