@@ -7,13 +7,13 @@ category:
   - pms
   - radni
   - zastupitel
-  - ¨v22
+  - v22
 ordpms: 2
 ordr: 3
 ordz: 12
 ordclenove: 60
 ordv22: 3
-description: 1. místo kandidátky; neuvolněný radní, místopředseda místního sdružení # zobrazuje se v lide
+description: 3. místo kandidátky; neuvolněný radní, místopředseda místního sdružení # zobrazuje se v lide
 profession: Advokátní koncipient
 img: people/frantisek-dosedel.jpg # zakomentuj radek dokud není fotka
 mail:
