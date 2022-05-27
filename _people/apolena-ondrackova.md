@@ -6,9 +6,11 @@ category:
   - pms
   - dv
   - rr
+  - v22
 ordclenove: 200
 ordpms: 4
-description: Místopředsedkyně místního sdružení, členka Dotačního výboru a Redakční rady Radničních novin # zobrazuje se v lide
+ordv22: 5
+description: 5. místo kandidátky; místopředsedkyně místního sdružení, členka Dotačního výboru a Redakční rady Radničních novin # zobrazuje se v lide
 profession: 
 img: people/apolena-ondrackova.jpg # zakomentuj radek dokud není fotka
 mail:
