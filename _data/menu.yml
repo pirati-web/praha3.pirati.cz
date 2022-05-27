@@ -19,7 +19,7 @@ main:
   - link: /lide/zastupitelsky-klub/
     name: Klub
     match: zastupitelsky-klub
-  - link: /komunalni-volby/
+  - link: /volby2018/
     name: Volby 2018
     match: komunalni-volby
   - link: /volby2022/
