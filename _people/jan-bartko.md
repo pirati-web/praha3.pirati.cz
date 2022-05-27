@@ -7,10 +7,12 @@ category:
   - clenove
   - zastupitel
   - fv
+  - v22
 ordclenove: 20
 ordr: 2
 ordz: 3
-description: Radní, předseda Finančního výboru, člen místního sdružení # zobrazuje se v lide
+ordv22: 2
+description: 2. místo kandidátky; radní, předseda Finančního výboru, člen místního sdružení # zobrazuje se v lide
 profession:
 img: people/jan-bartko.jpg # zakomentuj radek dokud není fotka
 mail:
