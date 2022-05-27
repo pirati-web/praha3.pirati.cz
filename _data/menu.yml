@@ -20,7 +20,7 @@ main:
     name: Klub
     match: zastupitelsky-klub
   - link: /komunalni-volby/
-    name: Plnění programu
+    name: Volby 2022
     match: komunalni-volby
   - link: /kontakt/
     name: Kontakty a ke stažení
