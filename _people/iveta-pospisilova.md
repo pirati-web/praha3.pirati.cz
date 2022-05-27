@@ -4,8 +4,10 @@ name:     Iveta Pospíšilová  	# běžně používáné jméno
 fullname: Iveta Pospíšilová  	# jméno s tituly etc.
 category:
   - clenove
+  - v22
 ordclenove: 210
-description: Členka místního sdružení # zobrazuje se v lide
+ordv22: 15
+description: 15. místo kandidátky; členka místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/iveta-pospisilova.jpg # zakomentuj radek dokud není fotka
 mail:
