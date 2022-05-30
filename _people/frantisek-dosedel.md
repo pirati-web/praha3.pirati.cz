@@ -15,7 +15,7 @@ ordclenove: 60
 ordv22: 3
 description: 3. místo kandidátky; neuvolněný radní, místopředseda místního sdružení # zobrazuje se v lide
 profession: Advokátní koncipient
-img: people/frantisek-dosedel.jpg # zakomentuj radek dokud není fotka
+img: people/frantisek-dosedel.png # zakomentuj radek dokud není fotka
 mail:
   - frantisek.dosedel@pirati.cz
 profiles:
