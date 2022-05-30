@@ -23,11 +23,11 @@ profiles:
 
 ---
  
-Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, od roku 2006 žije v Praze. Je zaměstnán jako advokátní koncipient a od června 2019 je neuvolněným radním Prahy 3 pro sport, tělovýchovu a dotační politiku.
+Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, jaro svého života strávil v podhůří Jizerských hor (kde získal pozitivní vztah k dešti a kopcům) a od roku 2006 žije v Praze. Od roku 2022 je samostatným advokátem a od června 2019 je neuvolněným radním Prahy 3 pro sport, tělovýchovu a dotační politiku.
 
-V rámci Pirátů se věnuje obzvláště obecné právní problematice, sdílené ekonomice a tomu, aby se nám všem (nejen) na Praze 3 žilo dobře.
+V rámci Pirátů se věnuje obzvláště obecné právní problematice, otázkám spojeným s právem na informace a lidkými právy a tomu, aby se nám všem (nejen) na Praze 3 žilo dobře.
 
-Po Gymnáziu F. X. Šaldy (obor přírodní vědy) vystudoval Právnickou fakultu Univerzity Karlovy (obor právo a právní věda). Již deset let žije ve spokojeném vztahu s Davidou Hathor Doseděl a je hrdým páníčkem/služebníkem dvou psů. Do širokého spektra jeho volnočasových zájmů patří LARP, Jugger, pěstování (chilli, rajčata, bylinky), deskové a počítačové hry. Mluví anglicky a slovensky. Je schopen objednat si v restauraci (a rámcově poradit kudy do ní) i německy, chorvatsky a rusky.
+Po Gymnáziu F. X. Šaldy (obor přírodní vědy) vystudoval Právnickou fakultu Univerzity Karlovy (obor právo a právní věda). Již deset let žije ve spokojeném vztahu s Davidou Hathor Doseděl a je hrdým páníčkem/služebníkem dvou psů v seniorním věku. Do širokého spektra jeho volnočasových zájmů patří LARP, Jugger, šerm, zahradničení (chilli, rajčata, bylinky), deskové a počítačové hry. Mluví anglicky a slovensky. Je schopen objednat si v restauraci (a rámcově poradit kudy do ní) i německy, chorvatsky a ukrajinsky.
 
 Oblíbené citáty:
 “Neberte život příliš vážně, stejně z něho nevyváznete živí.“ - Elbert Hubbard
