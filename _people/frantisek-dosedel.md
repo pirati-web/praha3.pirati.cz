@@ -31,5 +31,7 @@ Po Gymnáziu F. X. Šaldy (obor přírodní vědy) vystudoval Právnickou fakult
 
 Oblíbené citáty:
 “Neberte život příliš vážně, stejně z něho nevyváznete živí.“ - Elbert Hubbard
+
 “Poctivě žít, nikomu neškodit, každému, co mu patří.“ - Ulpianus
+
 “Není zvláštní, že ti samí lidé, kteří se smějí sci-fi, naslouchají předpovědím počasí a ekonomům?“ - Kelvin Throop III
