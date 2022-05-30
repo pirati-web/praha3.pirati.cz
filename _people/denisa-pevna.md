@@ -9,7 +9,7 @@ ordclenove: 200
 ordv22: 10
 description: 10. místo kandidátky; členka místního sdružení # zobrazuje se v lide
 profession: 
-img: # people/walter.sodomka.jpg # zakomentuj radek dokud není fotka
+img: people/denisa-pevna.png # zakomentuj radek dokud není fotka
 mail:
   - denisa.pevna@pirati.cz
 profiles:
