@@ -14,7 +14,7 @@ ordz: 3
 ordv22: 2
 description: 2. místo kandidátky; radní, předseda Finančního výboru, člen místního sdružení # zobrazuje se v lide
 profession:
-img: people/jan-bartko.jpg # zakomentuj radek dokud není fotka
+img: people/jan-bartko.png # zakomentuj radek dokud není fotka
 mail:
   - jan.bartko@pirati.cz
 profiles:
