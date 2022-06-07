@@ -11,7 +11,7 @@ ordclenove: 170
 ordv22: 1
 description: 1. místo kandidátky; předsedkyně místního sdružení, předsedkyně Sociální komise # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
-img: people/nikol-marhounova.jpg # zakomentuj radek dokud není fotka
+img: people/nikol-marhounova.png # zakomentuj radek dokud není fotka
 mail:
   - nikol.marhounova@pirati.cz
 profiles:
