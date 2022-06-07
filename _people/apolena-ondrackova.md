@@ -12,7 +12,7 @@ ordpms: 4
 ordv22: 5
 description: 5. místo kandidátky; místopředsedkyně místního sdružení, členka Dotačního výboru a Redakční rady Radničních novin # zobrazuje se v lide
 profession: 
-img: people/apolena-ondrackova.jpg # zakomentuj radek dokud není fotka
+img: people/apolena-ondrackova.png # zakomentuj radek dokud není fotka
 mail:
   - apolena.ondrackova@pirati.cz
 profiles:
