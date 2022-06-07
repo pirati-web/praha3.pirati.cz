@@ -14,7 +14,7 @@ ordv22: 6
 description: 6. místo kandidátky; zastupitel, člen Dotačního výboru, člen Výboru pro územní rozvoj, předseda Komise životního prostředí, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 ordz: 21
-img: people/jiri-svrcek.jpg # zakomentuj radek dokud není fotka
+img: people/jiri-svrcek.png # zakomentuj radek dokud není fotka
 mail:
   - jiri.svrcek@pirati.cz
 profiles:
