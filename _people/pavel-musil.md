@@ -14,7 +14,7 @@ ordclenove: 180
 ordv22: 4
 description: 4. místo kandidátky; neuvolněný radní, člen Kontrolního výboru, člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
-img: people/pavel-musil.jpg # zakomentuj radek dokud není fotka
+img: people/pavel-musil.png # zakomentuj radek dokud není fotka
 mail:
   - pavel.musil@pirati.cz
 profiles:
