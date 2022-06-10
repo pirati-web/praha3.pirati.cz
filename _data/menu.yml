@@ -20,7 +20,7 @@ main:
     name: Klub
     match: zastupitelsky-klub
   - link: /komunalni-volby/
-    name: Volby 2018
+    name: Naše úspěchy
     match: komunalni-volby
   - link: /volby2022/
     name: Volby 2022
