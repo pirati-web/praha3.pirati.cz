@@ -2,7 +2,7 @@
 date: 2022-06-08
 category: blog
 layout: post
-title: Seznamte se: Nikol Marhounová, jednička naší kandidátky
+title: Abraxas
 author: Michal Gill
 image: 1nikol.jpg
 ---
