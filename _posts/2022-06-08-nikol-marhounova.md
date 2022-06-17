@@ -22,10 +22,10 @@ Náš program je obsáhlý a je v něm celá řada bodů, které považuji za st
 
 Nikol žije s dcerou a synem na Žižkově. „Když jsem se stala mámou, moje chuť spoluvytvářet prostředí, ve kterém děti vyrůstají, ještě zesílila. Zkusila jsem si na vlastní kůži, jaké to je, pohybovat se po Žižkově s kočárkem, hledat kousek trávy, kde by si děti mohly pohrát, nebo pátrat po lavičce, kde bych si mohla na chvíli sednout, když už s těhotenským břichem nemůžu do kopce. Pro mě to zatím bylo vždy jen přechodné období. Bohužel jsou tady i skupiny lidí, kteří se kvůli bariérám v prostoru stávají vězni ve vlastních bytech. Protože mi není vlastní sedět se založenýma rukama, rozhodla jsem se svou vizi přívětivého města nabídnout sousedům. Pokud ji budou sdílet, mohu ji jako starostka naplnit,“ dodává pirátská jednička na Trojce. 
 
-Více o Nikol se dozvíte na její stránce: https://praha3.pirati.cz/lide/nikol-marhounova/
+Více o Nikol se dozvíte na [její stránce](https://praha3.pirati.cz/lide/nikol-marhounova/),
 
-nebo ji můžete sledovat na IG Trojka s Nikol: https://www.instagram.com/trojka_s_nikol/
+nebo ji můžete sledovat na [Instagramu Trojka s Nikol](https://www.instagram.com/trojka_s_nikol/).
 
-Všechny naše kandidáty do komunálních voleb pak naleznete zde: https://praha3.pirati.cz/volby2022/
+Všechny naše kandidáty do komunálních voleb pak naleznete [zde](https://praha3.pirati.cz/volby2022/).
 
 - - -
