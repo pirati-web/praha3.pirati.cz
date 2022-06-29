@@ -1,5 +1,5 @@
 ---
-date: 2022-06-29
+date: 2022-06-21
 category: blog
 layout: post
 title: Zvýšili jsme kvalitu školství a zlepšili budoucnost pro naše děti
