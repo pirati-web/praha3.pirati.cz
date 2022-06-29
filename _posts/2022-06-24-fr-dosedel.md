@@ -2,7 +2,7 @@
 date: 2022-06-24
 category: blog
 layout: post
-title: Seznamte se - Představujeme Vám kandidáta číslo 3: Františka Doseděla
+title: Seznamte se - Představujeme Vám kandidáta číslo 3 Františka Doseděla
 author: Michal Gill
 image: 1fran.jpg
 ---
