@@ -26,7 +26,7 @@ main:
     name: Volby 2022
     match: volby2022
   - link: /kontakt/
-    name: Kontakty a ke stažení
+    name: Kontakty
     match: kontakt
 
 bottom:
