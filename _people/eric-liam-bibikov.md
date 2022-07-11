@@ -5,8 +5,10 @@ fullname: Eric Liam Bibikov  	# jméno s tituly etc.
 category:
   - clenove
   - it
+  - v22
 ordclenove: 40
-description: Člen místního sdružení, člen Komise pro transparentnost a informatiku
+ordv22: 16
+description: 16. místo kandidátky; člen místního sdružení, předseda Komise pro transparentnost a informatiku
 profession: Politická konzultantka
 img: people/liam.bibikov.jpg # zakomentuj radek dokud není fotka
 mail:
@@ -14,4 +16,4 @@ mail:
 profiles:
 ---
 
-Liam je členem Komise pro transparentnost a informatiku
+Liam je předsedou Komise pro transparentnost a informatiku a členem místního sdružení Pirátů Prahy 3. Do zastupitelstva v roce 2022 kandiduje z 16. místa.
