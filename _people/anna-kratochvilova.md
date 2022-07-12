@@ -8,7 +8,7 @@ category:
 ordclenove: 275
 ordz: 15
 ordv22: 22
-description: 22. místo kandidátky, členka místního sdružení # zobrazuje se v lide
+description: 22. místo kandidátky; členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
 mail:
