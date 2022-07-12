@@ -10,7 +10,7 @@ ordpms: 3
 ordv22: 11
 description: 11. místo kandidátky; místopředsedkyně místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
-img: people/simona-bartova.JPG # zakomentuj radek dokud není fotka
+img: people/simona-bartova.png # zakomentuj radek dokud není fotka
 mail:
   - simona.bartova@pirati.cz
 profiles:
