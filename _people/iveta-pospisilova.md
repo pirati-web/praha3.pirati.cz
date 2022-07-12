@@ -9,7 +9,7 @@ ordclenove: 210
 ordv22: 15
 description: 15. místo kandidátky; členka místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
-img: people/iveta-pospisilova.jpg # zakomentuj radek dokud není fotka
+img: people/iveta-pospisilova.png # zakomentuj radek dokud není fotka
 mail:
   - iveta.pospisilova@pirati.cz
 profiles:
