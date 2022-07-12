@@ -10,7 +10,7 @@ ordclenove: 40
 ordv22: 16
 description: 16. místo kandidátky; člen místního sdružení, předseda Komise pro transparentnost a informatiku
 profession: Politická konzultantka
-img: people/liam.bibikov.jpg # zakomentuj radek dokud není fotka
+img: people/liam-bibikov.png # zakomentuj radek dokud není fotka
 mail:
   - eric.liam.bibikov@pirati.cz
 profiles:
