@@ -5,8 +5,10 @@ name: Tomáš Dvořák  	# běžně používáné jméno
 fullname: Tomáš Dvořák  	# jméno s tituly etc.
 category:
   - clenove
+  - v22
 ordclenove: 60
-description: Člen místního sdružení
+ordv22: 21
+description: 21. místo kandidátky, člen místního sdružení
 profession: kreativní copywriter a specialista na digitální marketing
 img: people/tomas-dvorak.jpg # zakomentuj radek dokud není fotka
 mail:
