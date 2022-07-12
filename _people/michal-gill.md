@@ -10,7 +10,7 @@ ordclenove: 80
 ordv22: 8
 description: 8. místo kandidátky; člen místního sdružení, asistent pirátských radních, vedoucí Zahraničního odboru Pirátů, generální sekretář Pirate Parties International # zobrazuje se v lide
 profession: administrativa, PR; t.č. asistent pirátských radních MČ Praha 3
-img: people/michal_gill.jpg # zakomentuj radek dokud není fotka
+img: people/michal-gill.png # zakomentuj radek dokud není fotka
 mail:
   - michal.gill@pirati.cz
 profiles:
