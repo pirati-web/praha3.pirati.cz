@@ -10,7 +10,7 @@ category:
 ordclenove: 100
 ordz: 13
 ordv22: 29
-description: 29. místo kandidátky, zastupitel, člen Dopravní komise, člen místního sdružení # zobrazuje se v lide
+description: 29. místo kandidátky; zastupitel, člen Dopravní komise, člen místního sdružení # zobrazuje se v lide
 profession: Student gymnázia
 img: people/martin-chour.jpg # zakomentuj radek dokud není fotka
 mail:
