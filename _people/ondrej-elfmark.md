@@ -10,7 +10,7 @@ ordclenove: 70
 ordv22: 14
 description: 14. místo kandidátky; místopředseda Výboru pro územní rozvoj, člen místního sdružení
 profession: Politická konzultantka
-img: people/ondrej-elfmark.jpg
+img: people/ondrej-elfmark.png
 mail:
   - ondrej.elfmark@pirati.cz
 profiles:
