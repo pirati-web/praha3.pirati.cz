@@ -10,7 +10,7 @@ ordclenove: 260
 ordv22: 13
 description: 13. místo kandidátky; člen místního sdružení, člen Kulturní komise # zobrazuje se v lide
 profession: 
-img: people/martin-sumerauer.jpg # zakomentuj radek dokud není fotka
+img: people/martin-sumerauer.png # zakomentuj radek dokud není fotka
 mail:
   - martin.sumerauer@pirati.cz
 profiles:
