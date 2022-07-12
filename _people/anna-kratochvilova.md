@@ -4,9 +4,11 @@ name:     Anna Štrébl  	# běžně používáné jméno
 fullname: Anna Štrébl  	# jméno s tituly etc.
 category:
   - clenove
+  - v22
 ordclenove: 275
 ordz: 15
-description: Členka místního sdružení # zobrazuje se v lide
+ordv22: 22
+description: 22. místo kandidátky, členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
 mail:
