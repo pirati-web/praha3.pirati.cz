@@ -10,7 +10,7 @@ ordclenove: 310
 ordv22: 12
 description: 12. místo kandidátky; členka místního sdružení   # zobrazuje se v lide
 profession: 
-img: people/lenka-zdarska.jpg
+img: people/lenka-zdarska.png
 mail:
   - lenka.zdarska@pirati.cz
 profiles:
