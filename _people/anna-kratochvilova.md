@@ -10,7 +10,7 @@ ordz: 15
 ordv22: 22
 description: 22. místo kandidátky; členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
-img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
+img: people/anna-kratochvilova.png # zakomentuj radek dokud není fotka
 mail:
   - anna.kratochvilova@pirati.cz
 profiles:
