@@ -11,7 +11,5 @@ ordv22: 26
 description: 26. místo kandidátky # zobrazuje se v lide
 profession: Politická konzultantka
 # img: people/anna-kratochvilova.jpg # zakomentuj radek dokud není fotka
-mail:
-  - 
 # profiles:
 ---
