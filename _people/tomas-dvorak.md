@@ -8,7 +8,7 @@ category:
   - v22
 ordclenove: 60
 ordv22: 21
-description: 21. místo kandidátky, člen místního sdružení
+description: 21. místo kandidátky; člen místního sdružení
 profession: kreativní copywriter a specialista na digitální marketing
 img: people/tomas-dvorak.jpg # zakomentuj radek dokud není fotka
 mail:
