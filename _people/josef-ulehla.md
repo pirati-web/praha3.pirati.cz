@@ -4,8 +4,10 @@ name:     Josef Úlehla  	# běžně používáné jméno
 fullname: Josef Úlehla  	# jméno s tituly etc.
 category:
   - clenove
+  - v22
 ordclenove: 285
-description: člen místního sdružení # zobrazuje se v lide
+ordv22: 32
+description: 32. místo kandidátky; člen místního sdružení # zobrazuje se v lide
 profession: 
 img: # people/walter.sodomka.jpg # zakomentuj radek dokud není fotka
 mail:
