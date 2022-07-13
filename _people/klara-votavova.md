@@ -1,6 +1,6 @@
 ---
-uid: tereza.hoffmanova
-name:     Tereza Hoffmanová
+uid: klara.votavova
+name:     Klára Votavová
 category:
   - v22
 ordv22: 30
