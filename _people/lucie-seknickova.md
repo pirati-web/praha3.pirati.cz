@@ -1,6 +1,6 @@
 ---
-uid: lucie.hruskova
-name:     Lucie Hrušková
+uid: lucie.seknickova
+name:     Lucie Sekničková
 category:
   - v22
 ordv22: 18
