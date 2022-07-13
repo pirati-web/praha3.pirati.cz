@@ -1,6 +1,6 @@
 ---
-uid: barbora.ouradova
-name:     Barbora Ouřadová
+uid: barbora.dvorakova
+name:     Barbora Dvořáková
 category:
   - v22
 ordv22: 24
