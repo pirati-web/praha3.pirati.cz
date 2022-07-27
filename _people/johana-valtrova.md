@@ -6,7 +6,7 @@ category:
 ordv22: 20
 description: 20. místo kandidátky # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
-# img: people/nikol-marhounova.png # zakomentuj radek dokud není fotka
+img: people/Johana_Valtrova.png # zakomentuj radek dokud není fotka
 
 profiles:
 
