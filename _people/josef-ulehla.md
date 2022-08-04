@@ -9,7 +9,7 @@ ordclenove: 285
 ordv22: 32
 description: 32. místo kandidátky; člen místního sdružení # zobrazuje se v lide
 profession: 
-img: # people/walter.sodomka.jpg # zakomentuj radek dokud není fotka
+img: people/Ulehla.png # zakomentuj radek dokud není fotka
 mail:
   - josef.ulehla@pirati.cz
 profiles:
