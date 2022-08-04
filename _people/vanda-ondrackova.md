@@ -6,7 +6,7 @@ category:
 ordv22: 23
 description: 23. místo kandidátky # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
-# img: people/nikol-marhounova.png # zakomentuj radek dokud není fotka
+img: people/Vanda_Ondracokova.png # zakomentuj radek dokud není fotka
 
 profiles:
 
