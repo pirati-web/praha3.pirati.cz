@@ -6,7 +6,7 @@ category:
 ordv22: 33
 description: 33. místo kandidátky # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
-# img: people/nikol-marhounova.png # zakomentuj radek dokud není fotka
+img: people/Havlicek.png # zakomentuj radek dokud není fotka
 
 profiles:
 
