@@ -14,7 +14,7 @@ Piráti plně respektují, jakého výsledku TOPSTAN ve volbách dosáhl. To by 
 S Prahou 3 Sobě a Zelenými nás nicméně pojí fakt, že si nedovedeme představit účast v koalici, kde by zasedla i ODS. Naopak nám přijde správné vytvořit koalici s TOPSTAN - měla by dostatečných 19 hlasů a reprezentuje nejširší pohled na místní politiku. Setkávají se zde názory liberální i konzervativní, levicové i pravicové, zkušenost i odvaha zkoušet nové věci. Ve vyjednávání máme podobné požadavky, říkáme podobné věci, ale jsme pořád tři odlišné subjekty, které mají často odlišné názory.
 
 V tomto duchu jsme až do minulého týdne vedli s TOPSTAN dlouhá a pravidelná jednání o možné budoucí koalici. Až na pár drobností jsme došli i rámcové programové shody. 
-Bohužel jsme se ale TOPSTAN rozhodl vyjednávání o takové koalici zastavit. 
+Bohužel se ale TOPSTAN rozhodl vyjednávání o takové koalici zastavit. 
 
 Proto jsme se po zralé úvaze rozhodli předložit TOPSTAN za Piráty samostatně novou nabídku, která do velké míry reflektuje důvod pro konec jednání. Je fér s jejími obrysy seznámit i občany Prahy 3. Rozložení sil by bylo 5(+1) - 2 - 1 - 1:
 
