@@ -3,7 +3,7 @@ date: 2022-07-25
 category: blog
 layout: post
 title: O městskou zeleň a obecní zeleň budeme vždy smysluplně pečovat
-author: Pirtái Praha 3
+author: Piráti Praha 3
 image: zelen1.jpg
 ---
 
