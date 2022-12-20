@@ -11,7 +11,7 @@ ordclenove: 170
 ordv22: 1
 ordr: 1
 ordz: 1
-description: místostarostka pro dociální oblast, transparentnost a prorodinnou politiku # zobrazuje se v lide
+description: místostarostka pro sociální oblast, transparentnost a prorodinnou politiku # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/nikol-marhounova.png # zakomentuj radek dokud není fotka
 mail:
