@@ -8,7 +8,7 @@ category:
   - v22
 ordclenove: 70
 ordv22: 14
-description: 14. místo kandidátky; místopředseda Výboru pro územní rozvoj, člen místního sdružení
+description: člen Výboru pro územní rozvoj, člen místního sdružení
 profession: Politická konzultantka
 img: people/ondrej-elfmark.png
 mail:
@@ -16,4 +16,4 @@ mail:
 profiles:
 ---
 
-Ondřej je místopředsedou Výboru pro územní rozvoj
+Ondřej je členem Výboru pro územní rozvoj
