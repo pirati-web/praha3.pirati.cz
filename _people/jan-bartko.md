@@ -12,7 +12,7 @@ ordclenove: 20
 ordr: 2
 ordz: 3
 ordv22: 2
-description: radní, člen místního sdružení # zobrazuje se v lide
+description: radní pro životní prostředí, finance a privatizaci, člen místního sdružení # zobrazuje se v lide
 profession:
 img: people/jan-bartko.png # zakomentuj radek dokud není fotka
 mail:
