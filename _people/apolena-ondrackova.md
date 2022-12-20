@@ -3,12 +3,13 @@ uid: apolena.ondrackova
 name:     Apolena Ondráčková  	# běžně používáné jméno
 fullname: Apolena Ondráčková  	# jméno s tituly etc.
 category:
-  - dv
-  - rr
+  - clenove
+  - kv
+  - vm
   - v22
 ordclenove: 200
 ordv22: 5
-description: členka místního sdružení # zobrazuje se v lide
+description: členka místního sdružení, členka Kontrolního výboru a Výboru pro majetek # zobrazuje se v lide
 profession: 
 img: people/apolena-ondrackova.png # zakomentuj radek dokud není fotka
 mail:
