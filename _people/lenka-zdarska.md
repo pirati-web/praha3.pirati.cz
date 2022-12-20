@@ -6,7 +6,7 @@ fullname: Lenka Žďárská  	# jméno s tituly etc.
 category:
   - clenove
   - v22
-  - pme
+  - pms
 ordclenove: 310
 ordv22: 12
 ordpms: 2
