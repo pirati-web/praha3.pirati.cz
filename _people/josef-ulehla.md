@@ -7,7 +7,7 @@ category:
   - v22
 ordclenove: 285
 ordv22: 32
-description: 32. místo kandidátky; člen místního sdružení # zobrazuje se v lide
+description: člen místního sdružení # zobrazuje se v lide
 profession: 
 img: people/Ulehla.png # zakomentuj radek dokud není fotka
 mail:
