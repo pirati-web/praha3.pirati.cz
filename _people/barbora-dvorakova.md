@@ -4,11 +4,11 @@ name:     Barbora Dvořáková
 category:
   - v22
 ordv22: 24
-description: 24. místo kandidátky # zobrazuje se v lide
+description: členka Komise pro výchovu a vzdělávání # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/barbora-ouradova.png # zakomentuj radek dokud není fotka
 
 profiles:
 
 ---
-Kandidátka do zastupitelstva MČ Praha 3
+Barbora je členkou Komise pro výchovu a vzdělávání
