@@ -4,11 +4,10 @@ name:     Martin Sumerauer  	# běžně používáné jméno
 fullname: Martin Sumerauer  	# jméno s tituly etc.
 category:
   - clenove
-  - kk
   - v22
 ordclenove: 260
 ordv22: 13
-description: 13. místo kandidátky; člen místního sdružení, člen Kulturní komise # zobrazuje se v lide
+description: člen místního sdružení # zobrazuje se v lide
 profession: 
 img: people/martin-sumerauer.png # zakomentuj radek dokud není fotka
 mail:
