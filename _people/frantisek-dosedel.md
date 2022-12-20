@@ -5,15 +5,13 @@ name:     František Doseděl  	# běžně používáné jméno
 fullname: Mgr. František Doseděl  	# jméno s tituly etc.
 category:
   - pms
-  - radni
   - zastupitel
   - v22
-ordpms: 2
-ordr: 3
-ordz: 12
+ordpms: 4
+ordz: 3
 ordclenove: 60
 ordv22: 3
-description: 3. místo kandidátky; neuvolněný radní, místopředseda místního sdružení # zobrazuje se v lide
+description: místopředseda místního sdružení # zobrazuje se v lide
 profession: Advokátní koncipient
 img: people/frantisek-dosedel.png # zakomentuj radek dokud není fotka
 mail:
@@ -23,7 +21,7 @@ profiles:
 
 ---
  
-Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, jaro svého života strávil v podhůří Jizerských hor (kde získal pozitivní vztah k dešti a kopcům) a od roku 2006 žije v Praze. Od roku 2022 je samostatným advokátem a od června 2019 je neuvolněným radním Prahy 3 pro sport, tělovýchovu a dotační politiku.
+Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, jaro svého života strávil v podhůří Jizerských hor (kde získal pozitivní vztah k dešti a kopcům) a od roku 2006 žije v Praze. Od roku 2022 je samostatným advokátem a v aktuálním volebním období je zastupitelem Prahy 3 a předsedou Výboru pro dotační politiku.
 
 V rámci Pirátů se věnuje obzvláště obecné právní problematice, otázkám spojeným s právem na informace a lidkými právy a tomu, aby se nám všem (nejen) na Praze 3 žilo dobře.
 
