@@ -10,7 +10,7 @@ category:
   - v22
 ordclenove: 20
 ordr: 2
-ordz: 3
+ordz: 2
 ordv22: 2
 description: radní pro životní prostředí, finance a privatizaci, člen místního sdružení # zobrazuje se v lide
 profession:
