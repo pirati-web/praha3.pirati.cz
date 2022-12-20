@@ -4,7 +4,6 @@ name:     Eric Liam Bibikov  	# běžně používáné jméno
 fullname: Eric Liam Bibikov  	# jméno s tituly etc.
 category:
   - clenove
-  - it
   - v22
 ordclenove: 40
 ordv22: 16
