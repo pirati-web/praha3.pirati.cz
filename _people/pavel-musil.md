@@ -7,7 +7,7 @@ category:
   - zastupitel
   - clenove
   - v22
-ordz: 18
+ordz: 4
 ordclenove: 180
 ordv22: 4
 description: zastupitel, člen místního sdružení # zobrazuje se v lide
