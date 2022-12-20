@@ -8,7 +8,7 @@ category:
   - v22
 ordclenove: 80
 ordv22: 8
-description: člen místního sdružení, asistent pirátských radních, místopředseda Sportovní komise a člen Redakční rady radničních novin Prahy 3, vedoucí Zahraničního odboru Pirátů, generální sekretář Pirate Parties International # zobrazuje se v lide
+description: člen místního sdružení, asistent pirátských radních, místopředseda Sportovní komise a člen Redakční rady radničních novin, vedoucí Zahraničního odboru Pirátů, generální sekretář PPI # zobrazuje se v lide
 profession: administrativa, PR; t.č. asistent pirátských radních MČ Praha 3
 img: people/michal-gill.png # zakomentuj radek dokud není fotka
 mail:
