@@ -4,14 +4,13 @@ name: Jiří Svrček  	# běžně používáné jméno
 fullname: Jiří Svrček  	# jméno s tituly etc.
 category:
   - clenove
-  - zastupitel
   - dv
   - vur
   - kzp
   - v22
 ordclenove: 270
 ordv22: 6
-description: 6. místo kandidátky; zastupitel, člen Dotačního výboru, člen Výboru pro územní rozvoj, předseda Komise životního prostředí, člen místního sdružení # zobrazuje se v lide
+description: člen místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 ordz: 21
 img: people/jiri-svrcek.png # zakomentuj radek dokud není fotka
