@@ -5,12 +5,11 @@ fullname: Jiří Svrček  	# jméno s tituly etc.
 category:
   - clenove
   - dv
-  - vur
   - kzp
   - v22
 ordclenove: 270
 ordv22: 6
-description: člen místního sdružení # zobrazuje se v lide
+description: člen místního sdružení, člen Dotačního výboru # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 ordz: 21
 img: people/jiri-svrcek.png # zakomentuj radek dokud není fotka
