@@ -4,9 +4,8 @@ name:     Pavel Králíček  	# běžně používáné jméno
 fullname: Pavel Králíček  	# jméno s tituly etc.
 category:
   - clenove
-  - rr
 ordclenove: 130
-description: Předseda Redakční rady Radničních novin, člen místního sdružení # zobrazuje se v lide
+description: člen místního sdružení # zobrazuje se v lide
 profession: Podnikatel, student
 img: people/pavel-kralicek.jpg # zakomentuj radek dokud není fotka
 mail:
@@ -14,7 +13,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/pavel.kralicek.7  # pokud nema, staci smazat tuto radku
 ---
-Je členem místního sdružení na Praze 3. Vyrůstal v Trutnově, od roku 2016 žije na Žižkově, který mu přirostl k srdci a proto se rozhodl ho skrze Pirátskou stranu pomoci zvelebit. V současnosti působí jako předseda Redakční rady Radničních novin.
+Je členem místního sdružení na Praze 3. Vyrůstal v Trutnově, od roku 2016 žije na Žižkově, který mu přirostl k srdci a proto se rozhodl ho skrze Pirátskou stranu pomoci zvelebit.
 
 Na VŠE studuje magisterský obor Management, od podzimu 2018 také Obecnou antropologii na FHS UK.
 
