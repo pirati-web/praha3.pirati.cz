@@ -3,14 +3,12 @@ uid: apolena.ondrackova
 name:     Apolena Ondráčková  	# běžně používáné jméno
 fullname: Apolena Ondráčková  	# jméno s tituly etc.
 category:
-  - pms
   - dv
   - rr
   - v22
 ordclenove: 200
-ordpms: 4
 ordv22: 5
-description: 5. místo kandidátky; místopředsedkyně místního sdružení, členka Dotačního výboru a Redakční rady Radničních novin # zobrazuje se v lide
+description: členka místního sdružení # zobrazuje se v lide
 profession: 
 img: people/apolena-ondrackova.png # zakomentuj radek dokud není fotka
 mail:
@@ -18,7 +16,7 @@ mail:
 profiles:
 ---
 
-Apolena se narodila v Praze  a od mala žije na Trojce. V Pirátské straně působí od roku 2019 a aktuálně zastává roli místopředsedkyně místního sdružení, je členkou redakčních rady Radničních novin a členkou výboru pro dotační politiku na P3.
+Apolena se narodila v Praze  a od mala žije na Trojce. V Pirátské straně působí od roku 2019 a je členkou místního sdružení Praha 3.
 
 Po studii na anglickém gymnáziu The English College in Prague vystudovala Apolena práva s evropskými studii na University of Exeter ve Velké Británii a na Université de Genève ve Švýcarsku.
 
