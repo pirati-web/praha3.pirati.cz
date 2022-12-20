@@ -4,11 +4,15 @@ name:     Nikol Marhounová
 category:
   - pms
   - sk
+  - radni
+  - zastupitel
   - kontaktni_osoba
   - v22
 ordpms: 1
 ordclenove: 170
 ordv22: 1
+ordr: 1
+ordz: 1
 description: 1. místo kandidátky; předsedkyně místního sdružení, předsedkyně Sociální komise # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/nikol-marhounova.png # zakomentuj radek dokud není fotka
