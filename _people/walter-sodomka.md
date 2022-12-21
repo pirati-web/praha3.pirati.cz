@@ -5,7 +5,6 @@ fullname: Walter Sodomka  	# jméno s tituly etc.
 category:
   - clenove
   - v22
-  - kzp
 ordclenove: 240
 ordv22: 9
 description: člen místního sdružení a člen Komise životního prostředí # zobrazuje se v lide
