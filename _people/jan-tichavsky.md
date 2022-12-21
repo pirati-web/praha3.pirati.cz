@@ -6,7 +6,7 @@ fullname: Jan Tichavský  	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 280
-description: Člen místního sdružení
+description: člen místního sdružení
 profession: Politická konzultantka
 img: people/jan.tichavsky.jpg # zakomentuj radek dokud není fotka
 mail:
