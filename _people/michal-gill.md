@@ -6,6 +6,8 @@ fullname: Bc. Michal Gill  	# jméno s tituly etc.
 category:
   - clenove
   - v22
+  - sportk
+  - rr
 ordclenove: 80
 ordv22: 8
 description: člen místního sdružení, asistent pirátských radních, místopředseda Sportovní komise a člen Redakční rady radničních novin, vedoucí Zahraničního odboru Pirátů, generální sekretář PPI # zobrazuje se v lide
