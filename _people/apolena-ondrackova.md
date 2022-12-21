@@ -6,7 +6,7 @@ category:
   - clenove
   - kv
   - vhc
-  - vm
+  - vmaj
   - v22
 ordclenove: 200
 ordv22: 5
