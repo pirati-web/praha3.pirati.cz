@@ -59,7 +59,7 @@ groups:
   - name: Sociální komise RMČ Praha 3 – zástupci za Piráty
     category: sk
     sort: ordpms
-  - name: Komise výchovy a vzdělávání RMČ Praha 3 – zástupci za Piráty
+  - name: Komise pro výchovu a vzdělávání RMČ Praha 3 – zástupci za Piráty
     category: kvv
     sort: ordpms
   - name: Komise životního prostředí – zástupci za Piráty
