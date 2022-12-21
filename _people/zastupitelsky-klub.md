@@ -68,4 +68,7 @@ groups:
   - name: Komise pro sport
     category: sportk
     sort: ordpms
+  - name: Komise pro strategické plánování
+    category: kspp
+    sort: ordkspp
 ---
