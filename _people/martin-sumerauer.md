@@ -5,6 +5,7 @@ fullname: Martin Sumerauer  	# jméno s tituly etc.
 category:
   - clenove
   - v22
+  - kk
 ordclenove: 260
 ordv22: 13
 description: člen místního sdružení # zobrazuje se v lide
