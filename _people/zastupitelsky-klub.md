@@ -59,4 +59,7 @@ groups:
   - name: Redakční rada Radničních novin Prahy 3
     category: rr
     sort: ordrr
+  - name: Komise pro energetiku
+    category: ke
+    sort: ordke
 ---
