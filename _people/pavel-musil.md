@@ -6,6 +6,7 @@ category:
   - zastupitel
   - clenove
   - v22
+  - vm
 ordz: 4
 ordclenove: 180
 ordv22: 4
