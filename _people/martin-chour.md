@@ -4,7 +4,6 @@ name:     Martin Chour  	# běžně používáné jméno
 fullname: Martin Chour  	# jméno s tituly etc.
 category:
   - clenove
-  - dk
   - v22
 ordclenove: 100
 ordv22: 29
