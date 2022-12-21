@@ -3,7 +3,6 @@ uid: miroslav.lupac
 name:     Miroslav Lupač 	# běžně používáné jméno
 fullname: Miroslav Lupač 	# jméno s tituly etc.
 category:
-  - kzp
 ordclenove: 
 odrz: 
 description: Člen Komise pro životní prostředí # zobrazuje se v lide
