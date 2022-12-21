@@ -5,9 +5,10 @@ fullname: Walter Sodomka  	# jméno s tituly etc.
 category:
   - clenove
   - v22
+  - ke
 ordclenove: 240
 ordv22: 9
-description: člen místního sdružení a člen Komise životního prostředí # zobrazuje se v lide
+description: Člen Komise pro energetiku, člen místního sdružení # zobrazuje se v lide
 profession: 
 img: people/walter-sodomka.png # zakomentuj radek dokud není fotka
 mail:
