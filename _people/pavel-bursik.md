@@ -6,7 +6,7 @@ fullname: Pavel Buršík  	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 55
-description: Člen místního sdružení, koordinátor dobrovolníků KS Praha
+description: člen místního sdružení, koordinátor dobrovolníků KS Praha
 profession: Koordinátor dobrovolníků KS Praha Pirátské strany
 img: people/pavelbursik.jpg # zakomentuj radek dokud není fotka
 mail:
