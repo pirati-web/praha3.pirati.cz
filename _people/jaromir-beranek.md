@@ -7,7 +7,7 @@ category:
   - it
 description: zastupitel HMP, předseda IT komise a člen Dopravní komise Prahy 3 # zobrazuje se v lide
 profession: aaa
-# img: people/margita-brychtova.png # zakomentuj radek dokud není fotka
+img: people/beranek.png # zakomentuj radek dokud není fotka
 mail:
   - jaromir.beranek@pirati.cz
 profiles:
