@@ -41,7 +41,7 @@ groups:
   - name: Finanční komise RMČ Praha 3 – zástupci za Piráty
     category: fk
     sort: ordpms
-  - name: Komise pro informační služby a chytré město RMČ Praha 3 – zástupci za Piráty
+  - name: Komise pro IT a inovace – zástupci za Piráty
     category: it
     sort: ordpms
   - name: Kulturní komise RMČ Praha 3 – zástupci za Piráty
