@@ -6,7 +6,6 @@ category:
   - radni
   - clenove
   - zastupitel
-  - fv
   - v22
 ordclenove: 20
 ordr: 2
