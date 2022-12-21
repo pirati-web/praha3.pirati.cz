@@ -5,7 +5,7 @@ fullname: Roman Nováček  	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 190
-description: Člen místního sdružení, člen Komise pro transparentnost a informatiku.
+description: člen místního sdružení
 profession: Politická konzultantka
 # img: people/stepan-strebl.jpg # zakomentuj radek dokud není fotka
 mail:
