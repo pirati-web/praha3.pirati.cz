@@ -3,7 +3,7 @@ uid: katerina.sehnoutkova
 name:     Kateřina Sehnoutková
 category:
   - v22
-  - ksp
+  - sk
 ordv22: 19
 description: členka Komise pro sociální politiku # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
