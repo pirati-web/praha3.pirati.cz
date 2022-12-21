@@ -2,7 +2,6 @@
 uid: nikol.marhounova
 name:     Nikol Marhounová 
 category:
-  - sk
   - radni
   - zastupitel
   - kontaktni_osoba
