@@ -3,7 +3,6 @@ uid: simona.techlova
 name:     Simona Techlová  	# běžně používáné jméno
 fullname: Simona Techlová 	# jméno s tituly etc.
 category:
-  - sk
   - v22
 ordclenove: 
 odrz: 
