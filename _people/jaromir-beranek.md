@@ -4,7 +4,8 @@ name:     Jaromír Beránek  	# běžně používáné jméno
 fullname: Jaromír Beránek  	# jméno s tituly etc.
 category:
   - dk
-description: zastupitel HMP, člen Dopravní komise # zobrazuje se v lide
+  - it
+description: zastupitel HMP, předseda IT komise a člen Dopravní komise Prahy 3 # zobrazuje se v lide
 profession: aaa
 # img: people/margita-brychtova.png # zakomentuj radek dokud není fotka
 mail:
@@ -12,5 +13,5 @@ mail:
 profiles:
 
 ---
-Jaromír je zastupitelem Hlavního města Prahy a členem Dopravní komise Prahy 3
+Jaromír je zastupitelem Hlavního města Prahy, předsedou IT komise a členem Dopravní komise Prahy 3
  
