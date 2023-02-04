@@ -6,6 +6,7 @@ category:
   - zastupitel
   - kontaktni_osoba
   - v22
+  - clenove
 ordclenove: 170
 ordv22: 1
 ordr: 1
