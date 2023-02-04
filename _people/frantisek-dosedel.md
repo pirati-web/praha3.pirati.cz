@@ -8,6 +8,7 @@ category:
   - zastupitel
   - v22
   - dv
+  - clenove
 ordpms: 4
 ordz: 3
 ordclenove: 60
