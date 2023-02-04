@@ -5,6 +5,7 @@ fullname: Simona Bártová  	# jméno s tituly etc.
 category:
   - pms
   - v22
+  - clenove
 ordclenove: 30
 ordpms: 1
 ordv22: 11
