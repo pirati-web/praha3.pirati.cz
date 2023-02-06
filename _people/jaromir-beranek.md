@@ -5,7 +5,9 @@ fullname: Jaromír Beránek  	# jméno s tituly etc.
 category:
   - dk
   - it
-description: zastupitel HMP, předseda IT komise a člen Dopravní komise Prahy 3 # zobrazuje se v lide
+  - clenove
+ordclenove: 35
+description: zastupitel HMP, předseda IT komise a člen Dopravní komise Prahy 3; člen místního sdružení # zobrazuje se v lide
 profession: aaa
 img: people/beranek.png # zakomentuj radek dokud není fotka
 mail:
