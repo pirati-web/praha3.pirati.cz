@@ -27,7 +27,7 @@ Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těší
 
 V rámci Pirátů se věnuje obzvláště obecné právní problematice, otázkám spojeným s právem na informace a lidkými právy a tomu, aby se nám všem (nejen) na Praze 3 žilo dobře.
 
-Po Gymnáziu F. X. Šaldy (obor přírodní vědy) vystudoval Právnickou fakultu Univerzity Karlovy (obor právo a právní věda). Již deset let žije ve spokojeném vztahu s Davidou Hathor Doseděl a je hrdým páníčkem/služebníkem dvou psů v seniorním věku. Do širokého spektra jeho volnočasových zájmů patří LARP, Jugger, šerm, zahradničení (chilli, rajčata, bylinky), deskové a počítačové hry. Mluví anglicky a slovensky. Je schopen objednat si v restauraci (a rámcově poradit kudy do ní) i německy, chorvatsky a ukrajinsky.
+Po Gymnáziu F. X. Šaldy (obor přírodní vědy) vystudoval Právnickou fakultu Univerzity Karlovy (obor právo a právní věda). Již šestnáct let žije ve spokojeném vztahu s Davidou Hathor Doseděl a je hrdým páníčkem/služebníkem psa v seniorním věku. Do širokého spektra jeho volnočasových zájmů patří LARP, Jugger, šerm, zahradničení (chilli, rajčata, bylinky), deskové a počítačové hry. Mluví anglicky a slovensky. Je schopen objednat si v restauraci (a rámcově poradit kudy do ní) i německy, chorvatsky a ukrajinsky.
 
 Oblíbené citáty:
 “Neberte život příliš vážně, stejně z něho nevyváznete živí.“ - Elbert Hubbard
