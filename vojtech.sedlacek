@@ -1,0 +1,16 @@
+---
+uid: vojtech.sedlacek
+name:     Vojtěch Sedláček  	# běžně používáné jméno
+fullname: Vojtěch Sedláček  	# jméno s tituly etc.
+category:
+  - clenove
+ordclenove: 230
+description: člen místního sdružení # zobrazuje se v lide
+profession: 
+# img: people/stella-valentova.jpg # zakomentuj radek dokud není fotka
+mail:
+  - vojtech.sedlacek@pirati.cz
+profiles:
+---
+
+Vojtěch je členem MS Praha 3.
