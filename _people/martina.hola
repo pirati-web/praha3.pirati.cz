@@ -7,7 +7,7 @@ category:
 ordclenove: 90
 description: členka místního sdružení # zobrazuje se v lide
 profession: 
-# img: people/stella-valentova.jpg # zakomentuj radek dokud není fotka
+img: people/martina-hola.png # zakomentuj radek dokud není fotka
 mail:
   - martina.hola@pirati.cz
 profiles:
