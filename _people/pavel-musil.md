@@ -10,7 +10,7 @@ category:
 ordz: 4
 ordclenove: 180
 ordv22: 4
-description: zastupitel, člen místního sdružení # zobrazuje se v lide
+description: zastupitel, člen místního sdružení a Výboru pro majetek # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/pavel-musil.png # zakomentuj radek dokud není fotka
 mail:
@@ -18,7 +18,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/pavel.musil.94  # pokud nema, staci smazat tuto radku
 ---
-Narodil se v Praze. Je advokátem a v minulém volebním období zastával post neuvolněného radního s gescemi transparence a vztahu MČ s jejími akciovými společnostmi. V tomto volebním období je řadovým radním.
+Narodil se v Praze. Je advokátem a v minulém volebním období zastával post neuvolněného radního s gescemi transparence a vztahu MČ s jejími akciovými společnostmi. V tomto volebním období je řadovým zastupitelem a členem Výboru pro majetek.
 
 Jako advokát působí od roku 2001, v minulosti zastupoval mimo jiné i Občanské sdružení Kauza 3 a jeho členy v souvislosti s kritickými články vůči tehdejší radnici a místním politikům s manýry klientelismu a zneužívání moci. Absolvoval Právnickou fakultu Univerzity Karlovy a postgraduální studium na této fakultě v oboru veřejná správa. Angažuje se v projektu transparentního informování státní správy o platech jejích nejvyšších úředníků www.platytopuredniku.cz. Před Piráty ve volbách nekandidoval za žádnou politickou stranu, do politiky vstoupil až na palubě Pirátů v roce 2018.
 
