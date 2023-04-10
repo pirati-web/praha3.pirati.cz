@@ -10,7 +10,7 @@ category:
   - rr
 ordclenove: 80
 ordv22: 8
-description: asistent pirátských radních, místopředseda Sportovní komise a člen Redakční rady radničních novin, vedoucí Zahraničního odboru Pirátů # zobrazuje se v lide
+description: asistent pirátských radních, místopředseda Sportovní komise a člen Redakční rady Radničních novin, vedoucí Zahraničního odboru Pirátů # zobrazuje se v lide
 profession: administrativa, PR; t.č. asistent pirátských radních MČ Praha 3
 img: people/michal-gill.png # zakomentuj radek dokud není fotka
 mail:
@@ -30,7 +30,7 @@ Vedle hlavní pracovní náplně působil mezi lety 2011 a 2017 také jako říd
 
 Po jazykové stránce výborně ovládá angličtinu a slušně němčinu a polštinu; domluví se ale i řadou dalších jazyků. Mezi jeho koníčky patří kultura, aktivní i pasivní sport, cestování, fotografování, civilní letectví, kosmonautika či právě zmíněné učení se novým jazykům. Jeho hlavními politickými zájmy jsou doprava, školství, životní prostředí, copyright, transparentnost místní samosprávy a zejména zahraniční politika a Evropská unie.
 
-Profesně v minulosti působil především v soukromé sféře, např. jako specialista pro zahraniční (především arabskou) klientelu v karvinských Lázních Darkov či již dříve v několika zahraničních firmách, například v karvinské pobočce švédské Mölnlycke Health Care Klinipro, s. r. o. nebo jako asistent manažera v korejské Sungwoo Hitech s. r. o. v Ostravě. Nyní, jak uvedeno výše, působí jako odborný asistent pirátských radních na radnici Prahy 3. Na Praze 3 je rovněž místopředsedou Sportovní komise a členem Redakční rady radničních novin.
+Profesně v minulosti působil především v soukromé sféře, např. jako specialista pro zahraniční (především arabskou) klientelu v karvinských Lázních Darkov či již dříve v několika zahraničních firmách, například v karvinské pobočce švédské Mölnlycke Health Care Klinipro, s. r. o. nebo jako asistent manažera v korejské Sungwoo Hitech s. r. o. v Ostravě. Nyní, jak uvedeno výše, působí jako odborný asistent pirátských radních na radnici Prahy 3. Na Praze 3 je rovněž místopředsedou Sportovní komise a členem Redakční rady Radničních novin.
 
 E-mail: michal.gill@pirati.cz; gill.michal@praha3.cz
 Telefon: +420 222 116 782; Mobil: +420 603 590 571
