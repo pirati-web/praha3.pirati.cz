@@ -13,7 +13,7 @@ ordpms: 4
 ordz: 3
 ordclenove: 60
 ordv22: 3
-description: zastupitel, místopředseda místního sdružení # zobrazuje se v lide
+description: zastupitel, místopředseda místního sdružení, předseda Výboru pro dotační politiku # zobrazuje se v lide
 profession: Advokátní koncipient
 img: people/frantisek-dosedel.png # zakomentuj radek dokud není fotka
 mail:
