@@ -9,7 +9,7 @@ category:
   - v22
 ordclenove: 270
 ordv22: 6
-description: člen místního sdružení, člen Dotačního výboru # zobrazuje se v lide
+description: člen místního sdružení, člen Dotačního výboru a Komise životního prostředí # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 ordz: 21
 img: people/jiri-svrcek.png # zakomentuj radek dokud není fotka
