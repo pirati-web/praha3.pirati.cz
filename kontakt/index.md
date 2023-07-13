@@ -31,7 +31,7 @@ Webové stránky pražského krajského sdružení najdete na [praha.pirati.cz](
 <div class="o-section-header o-section-header--indented">
   <h1 class="t-h2-alt">Ke stažení</h1>
 </div>
-
+- <strong>Volební program 2022</strong> [zde](https://praha3.pirati.cz/Dokumenty/Volebni_program.pdf)
 - Volební program 2018 [zde](https://github.com/pirati-web/praha3.pirati.cz/blob/master/Dokumenty/Program2018.pdf)
 - Povolební strategie 2018 [zde](https://github.com/pirati-web/praha3.pirati.cz/blob/master/Dokumenty/Strategie2018.pdf)
 - Koaliční smlouva 2018 [zde](https://www.praha3.cz/samosprava/zastupitelstvo/koalicni-dohoda-pro-obdobi-20182022)

@@ -7,7 +7,7 @@ category:
   - v22
 ordclenove: 200
 ordv22: 10
-description: 10. místo kandidátky; členka místního sdružení # zobrazuje se v lide
+description: členka místního sdružení # zobrazuje se v lide
 profession: 
 img: people/denisa-pevna.png # zakomentuj radek dokud není fotka
 mail:
@@ -21,4 +21,4 @@ Během studií pracovala jako barmanka, podílela se na organizaci kulturních f
 
 Témata, kterým by se ráda v Praze věnovala jsou inovace a Smart City. Trápí jí zbytečná byrokracie a to, že státní správa je často zaseknutá někde v 90. letech.
 
-Mezi její největší záliby patří cestování, chození na čundry, letní i zimní horská turistika, filozofie, organizace kulturních akcí, četba a vaření. Během studií žila ve slovinské Lublani a belgickém Lutychu, dvakrát šla španělskou pouť do Santiaga a momentálně žije několik měsíců v Mexiku.
+Mezi její největší záliby patří cestování, chození na čundry, letní i zimní horská turistika, filozofie, organizace kulturních akcí, četba a vaření. Během studií žila ve slovinské Lublani a belgickém Lutychu, dvakrát šla španělskou pouť do Santiaga.

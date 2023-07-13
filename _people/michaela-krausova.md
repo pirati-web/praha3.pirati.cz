@@ -5,7 +5,7 @@ fullname: Michaela Krausová  	# jméno s tituly etc.
 category:
   - clenove
 ordclenove: 150
-description: Zastupitelka MHMP, členka místního sdružení # zobrazuje se v lide
+description: členka místního sdružení # zobrazuje se v lide
 profession: Politická konzultantka
 img: people/michaela.krausova.jpg
 mail:

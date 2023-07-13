@@ -1,0 +1,16 @@
+---
+uid: martina.hola
+name:     Martina Holá  	# běžně používáné jméno
+fullname: Martina Holá  	# jméno s tituly etc.
+category:
+  - clenove
+ordclenove: 90
+description: členka místního sdružení # zobrazuje se v lide
+profession: 
+img: people/martina-hola.png # zakomentuj radek dokud není fotka
+mail:
+  - martina.hola@pirati.cz
+profiles:
+---
+
+Martina je členkou MS Praha 3 a šéfkou zdejšího mediálního týmu.

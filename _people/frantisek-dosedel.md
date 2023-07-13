@@ -5,15 +5,15 @@ name:     František Doseděl  	# běžně používáné jméno
 fullname: Mgr. František Doseděl  	# jméno s tituly etc.
 category:
   - pms
-  - radni
   - zastupitel
   - v22
-ordpms: 2
-ordr: 3
-ordz: 12
+  - dv
+  - clenove
+ordpms: 4
+ordz: 3
 ordclenove: 60
 ordv22: 3
-description: 3. místo kandidátky; neuvolněný radní, místopředseda místního sdružení # zobrazuje se v lide
+description: zastupitel, místopředseda místního sdružení, předseda Výboru pro dotační politiku # zobrazuje se v lide
 profession: Advokátní koncipient
 img: people/frantisek-dosedel.png # zakomentuj radek dokud není fotka
 mail:
@@ -23,11 +23,11 @@ profiles:
 
 ---
  
-Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, jaro svého života strávil v podhůří Jizerských hor (kde získal pozitivní vztah k dešti a kopcům) a od roku 2006 žije v Praze. Od roku 2022 je samostatným advokátem a od června 2019 je neuvolněným radním Prahy 3 pro sport, tělovýchovu a dotační politiku.
+Je místopředsedou místního sdružení Praha 3. Narodil se v Českém Těšíně, jaro svého života strávil v podhůří Jizerských hor (kde získal pozitivní vztah k dešti a kopcům) a od roku 2006 žije v Praze. Od roku 2022 je samostatným advokátem a v aktuálním volebním období je zastupitelem Prahy 3 a předsedou Výboru pro dotační politiku.
 
 V rámci Pirátů se věnuje obzvláště obecné právní problematice, otázkám spojeným s právem na informace a lidkými právy a tomu, aby se nám všem (nejen) na Praze 3 žilo dobře.
 
-Po Gymnáziu F. X. Šaldy (obor přírodní vědy) vystudoval Právnickou fakultu Univerzity Karlovy (obor právo a právní věda). Již deset let žije ve spokojeném vztahu s Davidou Hathor Doseděl a je hrdým páníčkem/služebníkem dvou psů v seniorním věku. Do širokého spektra jeho volnočasových zájmů patří LARP, Jugger, šerm, zahradničení (chilli, rajčata, bylinky), deskové a počítačové hry. Mluví anglicky a slovensky. Je schopen objednat si v restauraci (a rámcově poradit kudy do ní) i německy, chorvatsky a ukrajinsky.
+Po Gymnáziu F. X. Šaldy (obor přírodní vědy) vystudoval Právnickou fakultu Univerzity Karlovy (obor právo a právní věda). Již šestnáct let žije ve spokojeném vztahu s Davidou Hathor Doseděl a je hrdým páníčkem/služebníkem psa v seniorním věku. Do širokého spektra jeho volnočasových zájmů patří LARP, Jugger, šerm, zahradničení (chilli, rajčata, bylinky), deskové a počítačové hry. Mluví anglicky a slovensky. Je schopen objednat si v restauraci (a rámcově poradit kudy do ní) i německy, chorvatsky a ukrajinsky.
 
 Oblíbené citáty:
 “Neberte život příliš vážně, stejně z něho nevyváznete živí.“ - Elbert Hubbard

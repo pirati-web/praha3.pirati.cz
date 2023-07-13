@@ -3,8 +3,9 @@ uid: katerina.sehnoutkova
 name:     Kateřina Sehnoutková
 category:
   - v22
+  - sk
 ordv22: 19
-description: 19. místo kandidátky # zobrazuje se v lide
+description: členka Komise pro sociální politiku # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/Katerina_Sehnoutkova.png # zakomentuj radek dokud není fotka
 

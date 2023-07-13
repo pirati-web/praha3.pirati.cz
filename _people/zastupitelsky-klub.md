@@ -11,61 +11,55 @@ groups:
   - name: Zastupitelský klub Pirátů MČ Praha 3
     category: zastupitel
     sort: ordz
-  - name: Kontrolní výbor ZMČ Praha 3 – zástupci za Piráty
-    category: kv
-    sort: ordpms
-  - name: Finanční výbor ZMČ Praha 3 – zástupci za Piráty
-    category: fv
-    sort: ordpms 
-  - name: Majetkový výbor ZMČ Praha 3 – zástupci za Piráty
-    category: mv
-    sort: ordpms
-  - name: Dotační výbor ZMČ Praha 3 - zástupci za Piráty
+  - name: Výbor pro dotační politiku
     category: dv
-    sort: ordpms
-  - name: Výbor územního rozvoje ZMČ Praha 3 - zástupci za Piráty
+    sort: orddv
+  - name: Výbor finanční
+    category: fv
+    sort: ordfv   
+  - name: Výbor kontrolní
+    category: kv
+    sort: ordkv
+  - name: Výbor pro majetek
+    category: mv
+    sort: ordmv  
+  - name: Výbor pro územní rozvoj
     category: vur
-    sort: ordpms
-  - name: Komise pro vedlejší hospodářskou činnost ZMČ Praha 3 - zástupci za Piráty
-    category: vhc
-    sort: ordpms
-  - name: Bezpečnostní komise RMČ Praha 3 – zástupci za Piráty
-    category: bk
-    sort: ordpms
-  - name: Bytová komise RMČ Praha 3 – zástupci za Piráty
+    sort: ordvur 
+  - name: Bytová komise
     category: bytk
-    sort: ordpms
-  - name: Dopravní komise RMČ Praha 3 – zástupci za Piráty
+    sort: ordbytk 
+  - name: Dopravní komise
     category: dk
-    sort: ordpms
-  - name: Finanční komise RMČ Praha 3 – zástupci za Piráty
-    category: fk
-    sort: ordpms
-  - name: Komise pro informační služby a chytré město RMČ Praha 3 – zástupci za Piráty
-    category: it
-    sort: ordpms
-  - name: Kulturní komise RMČ Praha 3 – zástupci za Piráty
-    category: kk
-    sort: ordpms
-  - name: Majetková komise RMČ Praha 3 – zástupci za Piráty
-    category: mk
-    sort: ordpms
-  - name: Redakční rada Radničních novin Prahy 3 – zástupci za Piráty
-    category: rr
-    sort: ordpms
-  - name: Komise rozvoje RMČ Praha 3 – zástupci za Piráty
-    category: kr
-    sort: ordpms
-  - name: Sociální komise RMČ Praha 3 – zástupci za Piráty
-    category: sk
-    sort: ordpms
-  - name: Komise výchovy a vzdělávání RMČ Praha 3 – zástupci za Piráty
-    category: kvv
-    sort: ordpms
-  - name: Komise životního prostředí – zástupci za Piráty
-    category: kzp
-    sort: ordpms
+    sort: orddk 
   - name: Komise pro sport
     category: sportk
-    sort: ordpms
+    sort: ordsportk
+  - name: Komise pro sociální politiku
+    category: sk
+    sort: ordsk 
+  - name: Komise pro strategické plánování a participaci
+    category: kspp
+    sort: ordkspp
+  - name: Komise pro IT a inovace
+    category: it
+    sort: ordit
+  - name: Komise pro vedlejší hospodářskou činnost
+    category: vhc
+    sort: ordvhc
+  - name: Komise pro výchovu a vzdělávání
+    category: kvv
+    sort: ordkvv
+  - name: Komise životního prostředí
+    category: kzp
+    sort: ordkzp
+  - name: Kulturní komise
+    category: kk
+    sort: ordkk
+  - name: Redakční rada Radničních novin Prahy 3
+    category: rr
+    sort: ordrr
+  - name: Komise pro energetiku
+    category: ke
+    sort: ordke
 ---

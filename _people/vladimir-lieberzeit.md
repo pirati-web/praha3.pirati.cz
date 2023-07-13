@@ -3,7 +3,6 @@ uid: vladimir.lieberzeit
 name:     Vladimír Lieberzeit  	# běžně používáné jméno
 fullname: Vladimír Lieberzeit 	# jméno s tituly etc.
 category:
-  - kk
 ordclenove: 
 odrz: 
 description: člen Kulturní komise # zobrazuje se v lide

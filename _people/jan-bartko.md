@@ -6,13 +6,12 @@ category:
   - radni
   - clenove
   - zastupitel
-  - fv
   - v22
 ordclenove: 20
 ordr: 2
-ordz: 3
+ordz: 2
 ordv22: 2
-description: 2. místo kandidátky; radní, předseda Finančního výboru, člen místního sdružení # zobrazuje se v lide
+description: radní pro životní prostředí, finance a privatizaci, člen místního sdružení # zobrazuje se v lide
 profession:
 img: people/jan-bartko.png # zakomentuj radek dokud není fotka
 mail:
@@ -20,7 +19,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/jan.bartko.9  # pokud nema, staci smazat tuto radku
 ---
-Je radním pro životní prostředí, IT a privatizaci na Praze 3. Předsedá finančnímu výboru. Před radničním angažmá pracoval na různých pozicích ve finančním sektoru, od portfolio managementu k vypořádávání a dohlížení na mezibankovní transakce na světových trzích s cennými papíry.
+Je radním pro životní prostředí, finance a privatizaci Prahy 3. Před radničním angažmá pracoval na různých pozicích ve finančním sektoru, od portfolio managementu k vypořádávání a dohlížení na mezibankovní transakce na světových trzích s cennými papíry.
 
 Vystudoval na FHS UK. Magisterské studium "zkoušel" v rámci oborů Veřejné a sociální politiky a Orální historie. Časové možnosti mu ale nedovolily studium dokončit.
 
