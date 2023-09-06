@@ -1,7 +1,7 @@
 ---
-uid: simona.bartova
-name:     Simona Bártová  	# běžně používáné jméno
-fullname: Simona Bártová  	# jméno s tituly etc.
+uid: simona.mikusova
+name:     Simona Mikušová  	# běžně používáné jméno
+fullname: Simona Mikušová  	# jméno s tituly etc.
 category:
   - pms
   - v22
@@ -13,7 +13,7 @@ description: předsedkyně místního sdružení a místopředsedkyně krajskéh
 profession: Politická konzultantka
 img: people/simona-bartova.png # zakomentuj radek dokud není fotka
 mail:
-  - simona.bartova@pirati.cz
+  - simona.mikusova@pirati.cz
 profiles:
 ---
 
