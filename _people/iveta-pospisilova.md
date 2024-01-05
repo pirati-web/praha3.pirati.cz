@@ -5,10 +5,8 @@ fullname: Iveta Pospíšilová  	# jméno s tituly etc.
 category:
   - clenove
   - v22
-  - pms
 ordclenove: 210
 ordv22: 15
-ordpms: 3
 description: místopředsedkyně místního sdružení # zobrazuje se v lide
 profession: Vysokoškolský pedagog, fyzik
 img: people/iveta-pospisilova.png # zakomentuj radek dokud není fotka
