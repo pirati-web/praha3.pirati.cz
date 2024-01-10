@@ -2,7 +2,7 @@
 date: 2023-12-06
 category: blog
 layout: post
-title: Koněv pomáhá dětem s handicapem!
+title: Koněv pomáhá dětem s handicapem
 author: Michal Gill
 image: konev.jpg
 ---
