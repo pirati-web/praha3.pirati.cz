@@ -9,7 +9,8 @@ image: musilpavel.jpg
 
 Dnes bych se rád věnoval tématu dopravy, na které má MČ Praha 3 omezený vliv, ale máme alespoň možnost působit na Magistrát, aby se věci hýbaly správným směrem. Aktuálně rezonují tři témata:
 
-**1. zdražení ročního kuponu na MHD,
+**
+1. zdražení ročního kuponu na MHD,
 2. (ne)zdražení parkovného v ulicích,
 3. zvýšení poplatku za odtah.**
 
