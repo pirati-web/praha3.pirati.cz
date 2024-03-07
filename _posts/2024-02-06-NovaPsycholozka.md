@@ -7,9 +7,7 @@ author: Michal Gill
 image: novapsycholozka.jpg
 ---
 
-A nejen to!
-
-Nedostatečné kapacity psychologů, psychiatrů a psychoterapeutů jsou celorepublikovým problémem. Proto jsem se pustila do hledání řešení, jak tyto služby občanům Prahy 3 zajistit.
+A nejen to! Nedostatečné kapacity psychologů, psychiatrů a psychoterapeutů jsou celorepublikovým problémem. Proto jsem se pustila do hledání řešení, jak tyto služby občanům Prahy 3 zajistit.
 
 Vytvořili jsme pobídku ve formě zvýhodněného nájmu ordinace pro ambulanci dětského psychologa. A nyní vám můžeme představit [www.intersepraha.cz](www.intersepraha.cz)!
 Na pobočce v Jeseniově ulici již nyní funguje odborný tým 2 psychologů pro dospělé a 2 psychiatrů pro dospělé a mladistvé od 16 let.
