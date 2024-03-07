@@ -21,6 +21,6 @@ Ohledně ročních kuponů se nabízí zvážit dopad na různé sociální skup
 
 Pokud jde o poplatek za odtah, mělo by dojít k jeho zvýšení na úroveň reálných nákladů. Není důvod, aby většinu ceny odtahu za 5000 Kč platila samospráva z daní svých občanů v rámci úlevy těm, kteří odtah zavinili. Stejně tak musí být vyvážený podíl na reálných nákladech, které jsou spojeny s každým druhem dopravy.
 
-**Tento příspěvek naleznete také v březnových radničních novinách.**
+*Tento příspěvek naleznete také v březnových radničních novinách.*
 
 - - -
