@@ -5,7 +5,7 @@ tags: Praha
 layout: post
 title: Piráti žalují Prahu 1, která jim systematicky odmítá poskytovat informace
 author: David Bodeček 
-# authorId:     uid nekoho z _people (nepoviné)
+* authorId:     uid nekoho z _people (nepoviné)
 image: posts/praha-1-ouroboros.jpg
 ---
 

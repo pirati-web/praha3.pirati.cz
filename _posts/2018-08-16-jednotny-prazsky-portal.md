@@ -5,7 +5,7 @@ tags: Praha
 layout: post
 title: Piráti zavedou jeden pražský webový portál pro vyřizování žádostí na úřadech
 author: Zdeněk Hřib
-# authorId: zdenek.hrib    uid nekoho z _people (nepoviné)
+* authorId: zdenek.hrib    uid nekoho z _people (nepoviné)
 image: posts/hrib3.jpg
 ---
 

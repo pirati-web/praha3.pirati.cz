@@ -5,7 +5,7 @@ tags: Zdeněk-Hřib Praha
 layout: post
 title: Pirátský kandidát na primátora Prahy Hřib navštíví progresivní světové metropole. Chce se inspirovat úspěšnými projekty
 author: Štěpán Štrébl 
-# authorId: astepan.strebl  uid nekoho z _people (nepoviné)
+* authorId: astepan.strebl  uid nekoho z _people (nepoviné)
 image: posts/Zdenek_Hrib-zahajeni_kampane.jpg
 ---
 

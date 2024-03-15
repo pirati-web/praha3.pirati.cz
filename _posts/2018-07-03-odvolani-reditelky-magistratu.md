@@ -5,7 +5,7 @@ tags: Tiskové-zprávy Praha
 layout: post
 title: Ředitelka Magistrátu kašlala na boj proti korupci, její odvolání vítáme 
 author: Adam Zábranský, Zdeněk Hřib
-# authorId: adam.zabransky zdenek.hrib  uid nekoho z _people (nepoviné)
+* authorId: adam.zabransky zdenek.hrib  uid nekoho z _people (nepoviné)
 image: posts/magistrat.jpg
 ---
 
