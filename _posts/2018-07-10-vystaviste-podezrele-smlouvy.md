@@ -5,7 +5,7 @@ tags: Tiskové-zprávy Praha
 layout: post
 title: Pražské Výstaviště nechce poskytnout podezřelé smlouvy, Piráti firmu zažalovali
 author: Adam Zábranský
-* authorId: adam.zabransky  uid nekoho z _people (nepoviné)
+# authorId: adam.zabransky  uid nekoho z _people (nepoviné)
 image: posts/agenti-vystaviste.jpg
 ---
 

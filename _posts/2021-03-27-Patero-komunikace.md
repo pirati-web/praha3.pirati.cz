@@ -7,6 +7,6 @@ author: Tomáš Dvořák
 image: posts/stay-calm.jpg
 ---
 
-
+![Analýza GDPR 1](/assets/img/posts/patero.png)
 
 - - -
