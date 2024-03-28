@@ -19,4 +19,4 @@ Pro podrobný sled událostí posledních dvou let [pokračujte sem](https://pra
 
 Pro stanovisko předsedy poslaneckého klubu Jakuba Michálka a stanovisko Republikového předsednictva strany [pokračujte sem](https://forum.pirati.cz/viewtopic.php?f=78&t=52478&sid=125b067f6fc854e2f037eacb03e4a1f2).
 
-- - -
+

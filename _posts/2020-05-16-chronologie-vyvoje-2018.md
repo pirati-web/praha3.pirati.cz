@@ -28,4 +28,4 @@ Následovala profesionální mediace, hrazená zbytkem zastupitelského klubu, n
 Jana Belecová mezitím vyjednávala s klubem TOP 09 a STAN o přestupu i s mandátem uvolněné radní. K 18. březnu 2020 vstoupilo v platnost vyloučení Jany Belecové ze zastupitelského klubu, protože se odmítla řídit jeho usneseními; jednání o budoucí podobě koalice pokračovala. Koaliční partneři se nakonec shodli na rekonstrukci rady MČ na schůzi zastupitelstva dne 26. května 2020, kdy dojde k výměně radní Jany Belecové za nominanta Pirátů Jana Bartka. S koaličními partnery byl úspěšně vyjednán dodatek koaliční smlouvy, kdy za cenu dílčích ústupků ve výborech, komisích a orgánech městských společností zůstane Pirátům zachován počet 4 radních z 9. Dodatek nyní schvaluje místní sdružení Pirátů.
 
 
-- - -
+

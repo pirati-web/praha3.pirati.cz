@@ -15,4 +15,4 @@ Vysokorychlostní internet školy využijí při různých příležitostech, t�
 
 [Odkaz na text usnesení](https://www.praha3.cz/getFile/case:show/id:914281)
 
-- - -
+

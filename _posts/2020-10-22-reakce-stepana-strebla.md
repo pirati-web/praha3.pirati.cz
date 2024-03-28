@@ -25,4 +25,4 @@ Soustředím se raději na výsledky. Pan Homola si stěžuje, že na mém [Link
 
 Štěpán Štrébl
 
-- - -
+

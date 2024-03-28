@@ -21,4 +21,4 @@ Do Vánoc proběhne 20 lekcí. Poté ZŠ Jeseniova a další tři školy, které
 
 Foto: Anežka Hesová
 
-- - -
+

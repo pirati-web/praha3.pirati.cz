@@ -19,4 +19,4 @@ Moje práce proto bude, společně s kolegy, developery a dotčenými institucem
 
 Věřím ale, že díky datům a odbornému přístupu všechny budoucí výzvy zvládneme!
 
-- - -
+

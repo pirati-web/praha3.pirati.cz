@@ -13,4 +13,4 @@ Smlouva upravuje například slevy na vzájemně poskytované služby nebo možn
 
 „Počet dětí se zvyšuje, školy se rychle plní. Proto je každý prostor, který se povede rekolaudovat na školu, velmi vítaný. Když navíc přichází zavedená škola s fungujícím pedagogickým sborem, je to ideální, protože není třeba nic tvořit na zelené louce. Vítám také otevřenost Scio vůči spolupráci s městskou částí a ochotu vzájemně sdílet zkušenosti, zejména ve složité době výuky z domova. Právě to, aby ze soukromého vzdělávání na našem území co nejvíce benefitovali rezidenti a obecní školy, je cílem všech dohod, které Praha 3 dojednává s každou zde působící soukromou školou,” říká místostarosta pro školství Štěpán Štrébl (Piráti). 
 
-- - -
+

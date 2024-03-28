@@ -28,4 +28,4 @@ nebo ji můžete sledovat na [Instagramu Trojka s Nikol](https://www.instagram.c
 
 Všechny naše kandidáty do komunálních voleb pak naleznete [zde](https://praha3.pirati.cz/volby2022/).
 
-- - -
+

@@ -25,4 +25,4 @@ stepan.strebl@pirati.cz
 Autorem fotografie je Matěj Trávníček, sdílena pod licencí [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
-- - -
+

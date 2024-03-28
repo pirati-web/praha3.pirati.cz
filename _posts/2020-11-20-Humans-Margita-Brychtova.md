@@ -17,4 +17,4 @@ No a pak je tu téma AirBnB, které postupně ukazuje svoji odvrácenou tvář. 
 
 A když jsme u té pandemie – jako odběrová sestra mám možnost ji prožívat z obou stran. Proto vás prosím, nenechte se otrávit naší vládou a dodržujte opatření. Nejdřív se musíme ve zdraví vypořádat s bacilem, a potom můžeme vládu společně vyměnit!
 
-- - -
+
