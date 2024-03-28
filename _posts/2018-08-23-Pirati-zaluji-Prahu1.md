@@ -22,4 +22,4 @@ Praha 1 se ale v dubnu rozhodla k ostudnému a zjevně nezákonnému kroku: zač
 > „Budeme také požadovat potrestání úředníků, kteří v zájmu koaličních stran porušují zákony. Výkon úřednické funkce musí být nestranný a musí vyvolávat důvěru ve veřejnou správu,“ dodává David Bodeček.
 
 
-- - -
+

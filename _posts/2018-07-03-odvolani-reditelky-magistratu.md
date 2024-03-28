@@ -27,4 +27,4 @@ Pirátský kandidát na primátora
 
 
 
-- - -
+

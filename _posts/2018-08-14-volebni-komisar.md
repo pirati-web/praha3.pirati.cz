@@ -11,4 +11,4 @@ image: posts/volebni-komisar.jpg
 
 U komunálních voleb se dělá nejvíce chyb, které mohou ovlivnit konečné výsledky. Chcete to ohlídat? Přihlašte se do komise: [https://ovk.pirati.cz](https://ovk.pirati.cz).
 
-- - -
+
