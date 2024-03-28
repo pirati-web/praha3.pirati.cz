@@ -15,15 +15,15 @@ Minulé vedení Prahy 3 také platilo skoro 270 tisíc měsíčně za služby, z
 
 Celou analýzu v PDF můžete [stáhnout zde](/assets/img/posts/2019-5-15_GDPR_analýza_Piráti_ŠŠ.pdf).
 
-![Analýza GDPR 1](/assets/img/posts/2019-5-15_GDPR_analýza_Piráti_ŠŠ-1.jpg)
-![Analýza GDPR 2](/assets/img/posts/2019-5-15_GDPR_analýza_Piráti_ŠŠ-2.jpg)
-
-![Analýza GDPR 3](/assets/img/posts/2019-5-15_GDPR_analýza_Piráti_ŠŠ-3.jpg)
-![Analýza GDPR 4](/assets/img/posts/2019-5-15_GDPR_analýza_Piráti_ŠŠ-4.jpg)
-
-![Analýza GDPR 5](/assets/img/posts/2019-5-15_GDPR_analýza_Piráti_ŠŠ-5.jpg)
-![Analýza GDPR 6](/assets/img/posts/2019-5-15_GDPR_analýza_Piráti_ŠŠ-6.jpg)
 
 
 
-- - -
+
+
+
+
+
+
+
+
+
