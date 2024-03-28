@@ -21,4 +21,4 @@ A co je třeba vědět? Zde máte stručný postup:
 
 Děkujeme, že pomáháte.
 
-- - -
+

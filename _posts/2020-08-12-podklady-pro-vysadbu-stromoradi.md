@@ -17,4 +17,4 @@ Primátor Prahy Zdeněk Hřib se zavázal k tomu, že v Praze za čtyři roky vy
 
 Kompletní zveřejněnou studii naleznete [zde](https://www.praha3.cz/samosprava/otevrena-data/studie-a-analyzy-zadane-mestskou-casti-praha-3/podkladova-studie-pro-vysadbu-stromu-ve-stromoradi-na-uzemi-mc-praha-3-n909435.htm).
 
-- - -
+

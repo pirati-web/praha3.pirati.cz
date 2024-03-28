@@ -15,4 +15,4 @@ Hlavním cílem projektu je vytvoření modulárního systému mobilních zelen�
 
 Foto: VÚRV
 
-- - -
+

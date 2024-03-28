@@ -17,4 +17,4 @@ Městská část kód posléze předala spolku Otevřená města, který zajisti
 
 **Odkaz na repozitář se zveřejněným zdrojovým kódem:** [https://gitlab.com/otevrenamesta/praha3/vyuctovani-vodafone](https://gitlab.com/otevrenamesta/praha3/vyuctovani-vodafone)
 
-- - -
+

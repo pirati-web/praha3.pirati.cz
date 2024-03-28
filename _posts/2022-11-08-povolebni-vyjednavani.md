@@ -27,4 +27,4 @@ Bohužel do dnešního dne nemáme od TOPSTAN na tuto nabídku reakci. Věříme
 Věříme, že vítěz voleb bere svou pozici vážně, v co nejkratší době nejistotu ukončí, přijme zodpovědnost a oznámí, s kým chce na Trojce další čtyři roky vládnout.
 
 
-- - -
+

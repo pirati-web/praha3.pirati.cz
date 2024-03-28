@@ -25,4 +25,4 @@ Moc díky Unie porodních asistentek (UNIPA), že na tom neúnavně pracujete!
 
 Je mi ctí, že jsem se mohla na dobré věci podílet aspoň záštitou úžasné konference k projektu Rodím v klidu a doufám v dlouhodobou spolupráci!
 
-- - -
+

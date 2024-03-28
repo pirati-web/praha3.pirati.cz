@@ -13,4 +13,4 @@ Výuka bude zajišťována kvalifikovanými pedagogy nebo dokonce rodilými mluv
 
 Již v koaliční smlouvě současného vedení radnice Prahy 3 se zdejší politická reprezentace zavázala k podniknutí kroků, které by zajistily, že se časem každý deváťák domluví v cizím jazyce. Jde logicky o běh na dlouhou trať a cíle není možno dosáhnout za jediné volební období, ale základy jsou položeny a jazyková výuka je podporována v maximální míře. 
 
-- - -
+

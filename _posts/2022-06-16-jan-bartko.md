@@ -23,4 +23,4 @@ Více o Janovi se dozvíte na [jeho stránce](https://praha3.pirati.cz/lide/jan-
 
 Všechny naše kandidáty do komunálních voleb pak naleznete [zde](https://praha3.pirati.cz/volby2022/).
 
-- - -
+

@@ -31,4 +31,4 @@ Odkazy:
 
 [Zdrojový kód dotačního SW k dispozici na GitLabu](https://gitlab.com/otevrenamesta/praha3/dsw2)
 
-- - -
+
