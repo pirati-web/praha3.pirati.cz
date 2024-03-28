@@ -13,4 +13,4 @@ Mimořádně konaná rada Prahy 3 dnes schválila záměr do konce školního ro
 
 Aby testování metodou PCR ze slin bylo finančně dlouhodobě udržitelné, je třeba, aby Ministerstvo zdravotnictví změnilo úhradovou vyhlášku a začalo proplácet alespoň část nákladů. Současně je třeba snížit cenu na jedno dítě na únosnou úroveň. Průměrná cena antigenního testování se pohybuje okolo 150 korun týdně na dítě, zatímco u PCR testů ze slin dnes Praha 3 odhaduje náklady na zhruba 250 až 450 korun na dítě týdně. Tzv. „pooling“ vzorků, tedy testování vícero vzorků najednou, a masivní zapojení škol by však cenu mělo snížit na hodnotu srovnatelnou s testy antigenními.
 
-- - -
+

@@ -29,4 +29,4 @@ Podrobný návod, jak postupovat (i v ukrajinštině) najdete [zde](https://zpra
 
 Детальні інструкції щодо дій (також українською мовою) можна знайти [тут](https://zpravy.aktualne.cz/domaci/navod-pro-ukrajince-do-ceska-mohou-jen-s-pasem-vse-vyridi-az/r~50214e04960d11ecb13cac1f6b220ee8/).
 
-- - -
+

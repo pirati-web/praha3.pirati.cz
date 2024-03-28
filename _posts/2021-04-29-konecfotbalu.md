@@ -13,4 +13,4 @@ Opoziční ODS a ANO, ale i koaliční Zelení, odmítli byť i jen možnost jed
 
 *„Je to šok. Nikdo nečekal, že zastupitelé ODS dohodu nepodpoří a pohřbí žižkovský fotbal. Faktem je, že většina pro prodej stadionu zkrátka v zastupitelstvu neexistuje. Majitel zase není ochoten přistoupit na pronájem. Musíme přijmout tvrdou realitu a dívat se dopředu. Nastal čas začít se zamýšlet nad budoucností stadionu, aby i v dalších letech sloužil veřejnému zájmu,"* dodává radní pro sport František Doseděl (Piráti). 
 
-- - -
+

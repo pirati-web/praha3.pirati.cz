@@ -18,4 +18,4 @@ Všechny služby jsou hrazeny z veřejného zdravotního pojištění. a pro obj
 
 Se společností jsme navázali úzkou spolupráci a počítáme s tím, že se bude nabídka služeb v budoucnu ještě rozšiřovat. Zároveň hledáme možnosti podpory pro žáky našich škol, a to jak v oblasti péče, tak v oblasti prevence.
 
-- - -
+

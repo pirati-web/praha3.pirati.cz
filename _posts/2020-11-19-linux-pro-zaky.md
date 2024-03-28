@@ -17,4 +17,4 @@ Darované počítače vždy vyčistí odbor informatiky Prahy 3, nainstaluje do 
 
 *„Kdyby stát více využíval software, který je zdarma, ušetřil by miliardy, možná desítky miliard. U škol to platí dvojnásob, protože děti skutečně k práci nepotřebují profesionální programy s drahými licencemi. V tomto je koronavirus příležitostí pro vzdělávání všech, protože ani mnozí učitelé nikdy neviděli jiný operační systém než Windows,“* říká místostarosta pro školství Štěpán Štrébl (Piráti), který instalace programů v otevřené licenci do darovaných počítačů inicioval. 
 
-- - -
+

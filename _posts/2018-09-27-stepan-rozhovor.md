@@ -11,4 +11,4 @@ Na Kauze 3 vyšel rozhovorem s jedničkou naší kandidátky, Štěpánem Štré
 
 Čtěte přímo [na webu Kauza 3](https://www.kauza3.cz/kauzy/kauza-politicke-strany/kazdy-devatak-by-mel-plynne-mluvit-cizim-jazykem-rika-lidr-piratu-stepan-strebl.html).
 
-- - -
+

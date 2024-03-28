@@ -31,4 +31,4 @@ Co se rad do života týče, je mým mottem: „Buďte aktivní, zásadoví a ne
 
 
 
-- - -
+

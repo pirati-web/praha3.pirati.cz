@@ -17,4 +17,4 @@ Představitelé opozice si dnes totiž vedli svou o tom, že se v reálu jedná 
 
 Součástí smlouvy je také podrobný výčet oprav stadionu, které městská část provede ještě v roce 2022. Jedná se zejména o opravy jižní a západní tribuny, demontáž té východní, modernizaci zázemí hráčů, technického zázemí či sociálních zařízení. 
 
-- - -
+

@@ -23,4 +23,4 @@ Více se o Františkovi dozvíte na [jeho stránce](https://praha3.pirati.cz/lid
 
 Všechny naše kandidáty do komunálních voleb pak naleznete [zde](https://praha3.pirati.cz/volby2022/).
 
-- - -
+

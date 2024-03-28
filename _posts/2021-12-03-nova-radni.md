@@ -13,4 +13,4 @@ Praha 3 si na prosincovém zasedání zastupitelstva zvolí novou místostarostk
 
 Margita Brychtová by měla spolu s postem v radě obsadit stejné gesce, které doposud zastával její předchůdce. Těmi jsou oblasti školství a zahraničních vztahů. *„Kolega Štrébl toho ve funkci dokázal hodně; byl nastartován projekt zlepšování angličtiny pomocí příměstských táborů, výuky žáků i učitelů rodilými mluvčími fyzicky i hybridně, založili jsme Montessori školku a nyní připravujeme bilingvních výuku angličtiny na školách. Jako můstek mezi školstvím a zahraničními vztahy pak byly navázány cenné kontakty se zahraničními školami. Ve všech rozběhnutých projektech budu pokračovat a v plánu mám i pár vlastních vylepšení,“* uvádí Margita Brychtová (Piráti). 
 
-- - -
+

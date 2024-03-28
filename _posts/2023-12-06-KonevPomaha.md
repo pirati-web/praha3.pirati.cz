@@ -15,4 +15,4 @@ Zúčastnit se můžete zde:
 - Cedule z Tach. nám. : https://1url.cz/iud0N
 - Cedule z Ohrady: https://1url.cz/Bud0B
 
-- - -
+

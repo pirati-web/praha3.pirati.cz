@@ -17,4 +17,4 @@ A hlavně navyšujeme kapacity škol, a to jak neustálým vyjednáváním s dev
 
 A jaká jsou aktuální témata před koncem školního roku? *„Velké množství času nyní náš tým na Odboru školství věnuje práci s ukrajinskými uprchlíky. Do škol jsme jich doposud přijali asi 350, ale zdá se, že se situace stabilizuje a některé rodiny se na Ukrajinu začínají vracet. Přes léto máme každopádně připraveny další adaptační skupiny a od září je zapsáno dalších asi 150 dětí. Pro více už místo bohužel nemáme. Pravidelně ale jednám s kolegou Vítem Šimralem, magistrátním radním pro školství, a vypadá to, že převis žáků bude Praha od září vykrývat jejich přesuny mezi městskými částmi,“* dodává Margita Brychtová, pirátská místostarostka.
 
-- - -
+

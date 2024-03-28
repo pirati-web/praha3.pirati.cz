@@ -20,4 +20,4 @@ image: posts/jiri-svrcek.jpg
 **Perfektní. Díky moc za tvůj čas a spoustu informací.**  
 *JS: Nemáš za co a přeji čtenářům krásné léto!*  
 
-- - -
+

@@ -15,4 +15,4 @@ Problémem české veřejné správy, a to na všech úřadech od obcí až po m
 
 Piráti od celého procesu očekávají zkvalitnění služeb občanům, nemalou úsporu peněz, času i místa, a hlavně efektivní digitálně kompetentní úředníky, kteří se nebudou topit ve stozích papírových dokumentů. 
 
-- - -
+

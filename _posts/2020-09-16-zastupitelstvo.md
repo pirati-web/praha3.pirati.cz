@@ -39,4 +39,4 @@ Omlouváme se všem občanům, kteří včera marně čekali na projednání pro
 
 Máte-li na to nervy, dvouhodinový záznam ze včerejšího zastupitelstva naleznete na [YouTube](https://www.youtube.com/watch?v=rutjtrna5rE&t).
 
-- - -
+

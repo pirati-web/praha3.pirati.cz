@@ -17,4 +17,4 @@ Závěrem doplním, že ve firmě aktivně nepůsobím s ohledem na výkon uvoln
 
 Štěpán Štrébl
 
-- - -
+
